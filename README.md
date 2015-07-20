@@ -1,2 +1,1 @@
-# marcoalopez.github.io
-personal site
+# Personal site
