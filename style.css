@@ -82,7 +82,7 @@ h6 {
 
 
 h1 {
-  font-size:22px;
+  font-size:27px;
   line-height:30px;
   /*padding-top: 5px;*/
   padding-bottom:10px;
@@ -113,7 +113,7 @@ p:last-child { margin-bottom:0; }
 small,
 .prose.small,
 .small {
-  font-size:12px;
+  font-size:16px;
   line-height:20px;
   letter-spacing:0;
   }
@@ -191,7 +191,7 @@ code {
 }
 
 .content-node.cover .content {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0px auto;
   padding-top: 40px;
   padding-bottom: 20px;
@@ -207,7 +207,7 @@ code {
 .content-node.cover .content .article-meta {
   font-family: 'Open Sans';
   overflow: auto;
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .content-node.cover .content .article-meta .authors {
@@ -222,7 +222,7 @@ code {
 
 .content-node.cover .content .article-abstract {
   padding-top: 40px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 /* Table of Contents */
@@ -260,7 +260,7 @@ code {
 ------------------------------------------------------- */
 
 .content-node.text .content {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0px auto;
   margin-bottom: 30px;
 }
@@ -292,7 +292,7 @@ code {
 .content-node.code-block .content {
   overflow: auto;
   font-family: Menlo, Bitstream Vera Sans Mono, Monaco, Consolas, monospace;
-  max-width: 1000px;
+  max-width: 800px;
   font-size: 13px;
   line-height: 18px;
   margin: 0px auto;
@@ -308,7 +308,7 @@ code {
 
 
 .content-node.list-item {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0px auto;
 }
 
@@ -347,7 +347,7 @@ code {
 ------------------------------------------------------- */
 
 .content-node.heading .content {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0px auto;
 }
 
@@ -394,7 +394,7 @@ code {
 ------------------------------------------------------- */
 
 .content-node.references .content {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0px auto;
   padding-top: 40px;
   margin-bottom: 60px;
@@ -422,7 +422,7 @@ code {
 }
 
 .content-node.publication-info .content {
-  max-width: 640px;
+  max-width: 800px;
   margin: 0px auto;
 }
 
@@ -517,7 +517,7 @@ code {
 }
 
 .content-node.figure .content {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 0px auto;
   text-align: center;
 }
@@ -527,7 +527,7 @@ code {
 }
 
 .content-node.figure .caption {
-  font-size: 14px;
+  font-size: 16px;
   text-align: left;
   color: #777;
   margin: 0 auto;
@@ -548,7 +548,7 @@ code {
 }
 
 .content-node.web-page > .content {
-  max-width: 1000px;
+  max-width: 800px;
   margin: 0px auto;
   text-align: center;
 }
@@ -582,7 +582,7 @@ code {
 .content-node.video .content {
   text-align: center;
   margin: 0px auto;
-  max-width: 1000px;
+  max-width: 800px;
 }
 
 .content-node.video .video-wrapper video {
