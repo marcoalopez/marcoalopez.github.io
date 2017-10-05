@@ -186,7 +186,7 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 
 
 
-## Teaching (at universty level)
+## Teaching (at university level)
 
 **Accredited as an assistant teacher by the National Agency for Quality Assessment and Accreditation of Spain (ANECA) in 2016**
 
