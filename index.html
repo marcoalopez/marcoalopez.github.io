@@ -1,587 +1,271 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>Resume.md</title><link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --code-block-bg-color: inherit; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { background: rgb(181, 214, 252); text-shadow: none; }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; padding-bottom: 70px; white-space: pre-wrap; overflow-x: visible; contain: content; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+.typora-export #write { margin: 0px auto; }
+#write > p:first-child, #write > ul:first-child, #write > ol:first-child, #write > pre:first-child, #write > blockquote:first-child, #write > div:first-child, #write > table:first-child { margin-top: 30px; }
+#write li > table:first-child { margin-top: -20px; }
+img { max-width: 100%; vertical-align: middle; }
+input, button, select, textarea { color: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+::before, ::after, * { box-sizing: border-box; }
+#write p, #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write div, #write pre { width: inherit; }
+#write p, #write h1, #write h2, #write h3, #write h4, #write h5, #write h6 { position: relative; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+p { -webkit-margin-before: 1rem; -webkit-margin-after: 1rem; -webkit-margin-start: 0px; -webkit-margin-end: 0px; }
+.typora-export p { white-space: normal; }
+.mathjax-block { margin-top: 0px; margin-bottom: 0px; -webkit-margin-before: 0rem; -webkit-margin-after: 0rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: bold; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; margin: 4px 0px 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 80px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+pre { white-space: pre-wrap; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: var(--code-block-bg-color); position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+.md-fences .CodeMirror.CodeMirror-wrap { top: -1.6em; margin-bottom: -1.6em; }
+.md-fences.mock-cm { white-space: pre-wrap; }
+.show-fences-line-number .md-fences { padding-left: 0px; }
+.show-fences-line-number .md-fences.mock-cm { padding-left: 40px; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; padding-top: 1em; padding-bottom: 1em; }
+.footnotes + .footnotes { margin-top: -1em; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: transparent; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: normal; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li p, li .mathjax-block { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; }
+@media print {
+  html, body { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  h1, h2, h3, h4, h5, h6 { break-after: avoid-page; orphans: 2; }
+  p { orphans: 4; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { padding-left: 1cm; padding-right: 1cm; padding-bottom: 0px; break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  @page { margin: 20mm 0mm; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 2.86rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p .md-image:only-child { display: inline-block; width: 100%; text-align: center; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.mathjax-block { white-space: pre; overflow: hidden; width: 100%; }
+p + .mathjax-block { margin-top: -1.143rem; }
+.mathjax-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus { outline: none; box-shadow: none; }
+.task-list { list-style-type: none; }
+.task-list-item { position: relative; padding-left: 1em; }
+.task-list-item input { position: absolute; top: 0px; left: 0px; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc::after, .md-toc-content::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: bold; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+.md-tag { opacity: 0.5; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: monospace; }
+code { text-align: left; }
+h1 .md-tag, h2 .md-tag, h3 .md-tag, h4 .md-tag, h5 .md-tag, h6 .md-tag { font-weight: initial; opacity: 0.35; }
+a.md-print-anchor { border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: none !important; background: transparent !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.mathjax-block .MathJax_SVG_Display { text-align: center; margin: 1em 0em; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: monospace; }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: normal; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; }
 
-  <!--
-    This document has been generated by the Substance Composer (1.0.0 Beta-1)
-    http://substance.io/composer
-   -->
 
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600' rel='stylesheet' type='text/css'>
-  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+:root { --side-bar-bg-color: #fafafa; --control-text-color: #777; }
+@font-face { font-family: "Open Sans"; font-style: normal; font-weight: normal; src: local("Open Sans Regular"), url("./github/400.woff") format("woff"); }
+@font-face { font-family: "Open Sans"; font-style: italic; font-weight: normal; src: local("Open Sans Italic"), url("./github/400i.woff") format("woff"); }
+@font-face { font-family: "Open Sans"; font-style: normal; font-weight: bold; src: local("Open Sans Bold"), url("./github/700.woff") format("woff"); }
+@font-face { font-family: "Open Sans"; font-style: italic; font-weight: bold; src: local("Open Sans Bold Italic"), url("./github/700i.woff") format("woff"); }
+html { font-size: 16px; }
+body { font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; color: rgb(51, 51, 51); line-height: 1.6; }
+#write { max-width: 860px; margin: 0px auto; padding: 20px 30px 100px; }
+#write > ul:first-child, #write > ol:first-child { margin-top: 30px; }
+body > :first-child { margin-top: 0px !important; }
+body > :last-child { margin-bottom: 0px !important; }
+a { color: rgb(65, 131, 196); }
+h1, h2, h3, h4, h5, h6 { position: relative; margin-top: 1rem; margin-bottom: 1rem; font-weight: bold; line-height: 1.4; cursor: text; }
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor { text-decoration: none; }
+h1 tt, h1 code { font-size: inherit; }
+h2 tt, h2 code { font-size: inherit; }
+h3 tt, h3 code { font-size: inherit; }
+h4 tt, h4 code { font-size: inherit; }
+h5 tt, h5 code { font-size: inherit; }
+h6 tt, h6 code { font-size: inherit; }
+h1 { padding-bottom: 0.3em; font-size: 2.25em; line-height: 1.2; border-bottom: 1px solid rgb(238, 238, 238); }
+h2 { padding-bottom: 0.3em; font-size: 1.75em; line-height: 1.225; border-bottom: 1px solid rgb(238, 238, 238); }
+h3 { font-size: 1.5em; line-height: 1.43; }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1em; }
+h6 { font-size: 1em; color: rgb(119, 119, 119); }
+p, blockquote, ul, ol, dl, table { margin: 0.8em 0px; }
+li > ol, li > ul { margin: 0px; }
+hr { height: 4px; padding: 0px; margin: 16px 0px; background-color: rgb(231, 231, 231); border-width: 0px 0px 1px; border-style: none none solid; border-top-color: initial; border-right-color: initial; border-left-color: initial; border-image: initial; overflow: hidden; box-sizing: content-box; border-bottom-color: rgb(221, 221, 221); }
+body > h2:first-child { margin-top: 0px; padding-top: 0px; }
+body > h1:first-child { margin-top: 0px; padding-top: 0px; }
+body > h1:first-child + h2 { margin-top: 0px; padding-top: 0px; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child { margin-top: 0px; padding-top: 0px; }
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 { margin-top: 0px; padding-top: 0px; }
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p { margin-top: 0px; }
+li p.first { display: inline-block; }
+ul, ol { padding-left: 30px; }
+ul:first-child, ol:first-child { margin-top: 0px; }
+ul:last-child, ol:last-child { margin-bottom: 0px; }
+blockquote { border-left: 4px solid rgb(221, 221, 221); padding: 0px 15px; color: rgb(119, 119, 119); }
+blockquote blockquote { padding-right: 0px; }
+table { padding: 0px; word-break: initial; }
+table tr { border-top: 1px solid rgb(204, 204, 204); margin: 0px; padding: 0px; }
+table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+table tr th { font-weight: bold; border: 1px solid rgb(204, 204, 204); text-align: left; margin: 0px; padding: 6px 13px; }
+table tr td { border: 1px solid rgb(204, 204, 204); text-align: left; margin: 0px; padding: 6px 13px; }
+table tr th:first-child, table tr td:first-child { margin-top: 0px; }
+table tr th:last-child, table tr td:last-child { margin-bottom: 0px; }
+.CodeMirror-gutters { border-right: 1px solid rgb(221, 221, 221); }
+.md-fences, code, tt { border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); border-radius: 3px; font-family: Consolas, "Liberation Mono", Courier, monospace; padding: 2px 4px 0px; font-size: 0.9em; }
+.md-fences { margin-bottom: 15px; margin-top: 15px; padding: 8px 1em 6px; }
+.task-list { padding-left: 0px; }
+.task-list-item { padding-left: 32px; }
+.task-list-item input { top: 3px; left: 8px; }
+@media screen and (min-width: 914px) {
+}
+@media print {
+  html { font-size: 13px; }
+  table, pre { break-inside: avoid; }
+  pre { word-wrap: break-word; }
+}
+.md-fences { background-color: rgb(248, 248, 248); }
+#write pre.md-meta-block { padding: 1rem; font-size: 85%; line-height: 1.45; background-color: rgb(247, 247, 247); border: 0px; border-radius: 3px; color: rgb(119, 119, 119); margin-top: 0px !important; }
+.mathjax-block > .code-tooltip { bottom: 0.375rem; }
+#write > h3.md-focus::before { left: -1.5625rem; top: 0.375rem; }
+#write > h4.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+#write > h5.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+#write > h6.md-focus::before { left: -1.5625rem; top: 0.285714rem; }
+.md-image > .md-meta { border: 1px solid rgb(221, 221, 221); border-radius: 3px; font-family: Consolas, "Liberation Mono", Courier, monospace; padding: 2px 4px 0px; font-size: 0.9em; color: inherit; }
+.md-tag { color: inherit; }
+.md-toc { margin-top: 20px; padding-bottom: 20px; }
+.sidebar-tabs { border-bottom: none; }
+#typora-quick-open { border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); }
+#typora-quick-open-item { background-color: rgb(250, 250, 250); border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238); border-style: solid; border-width: 1px; }
+#md-notification::before { top: 10px; }
+.on-focus-mode blockquote { border-left-color: rgba(85, 85, 85, 0.12); }
+header, .context-menu, .megamenu-content, footer { font-family: "Segoe UI", Arial, sans-serif; }
+.file-node-content:hover .file-node-icon, .file-node-content:hover .file-node-open-state { visibility: visible; }
+.mac-seamless-mode #typora-sidebar { background-color: var(--side-bar-bg-color); }
+.md-lang { color: rgb(180, 101, 77); }
 
-  <script>
-    window.onload = function() {
-      var imageEls = document.querySelectorAll(".figure img");
-      for (var i = 0; i < imageEls.length; i++) {
-        var imageEl = imageEls[i];
-        var parent = imageEl.parentNode;
-        var captionEl = parent.querySelector(".caption");
-        if (captionEl) {
-          function transferWidth() {
-            captionEl.style["max-width"] = imageEl.naturalWidth+"px";
-          }
-          if (imageEl.complete) {
-            transferWidth();
-          } else {
-            imageEl.onload = transferWidth;
-          }
-        }
-      };
-    };
-  </script>
 
-  <link href="style.css" rel="stylesheet" />
-  
 
-  <title>Marco A. Lopez-Sanchez</title>
+
+
+
+</style>
 </head>
-<body>
-
-<div class="article">
-<div id="cover" class="content-node cover">
-
-
-  <div class="cover-image">
-    <img src="cover.jpg"/>
-  </div>
-
-
-<div class="content">
-
-<h1>Marco A. Lopez-Sanchez</h1>
-
-<div class="article-meta">
-
-  <div class="published-on">Wed Oct 04 2017</div>
-</div>
-
-
-
- 
-
-
-<div class="toc">
-  <div class="toc-title">Contents </div>
-  <div class="toc-entries">
-    
-      <div class="toc-entry level-1"><a href="#heading_9637424f295c4d13bdfc37d144dde7fc">Personal details</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_45206ca091fb51435d214509a92752ea">Research interest</a></div>
-    
-      <div class="toc-entry level-1"><a href="#heading_13619365ebcac1dbf022643277866878">Education</a></div>
-    
-      <div class="toc-entry level-1"><a href="#ff53b95c1bda93990760851158dfafe1">Research</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_3ec1beb5a384aa4e32ecf5f4dc0b966c">Professional experience (academic related)</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_d0d4b31d611e181a444f30d2bc582462">Fellowships/Awards</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_8d2de1cb76b60ac11e93784cf9a31bb9">Publications</a></div>
-    
-      <div class="toc-entry level-3"><a href="#heading_6ff6c8da9da8b847a86c8cc586cc74fc">Refereed journals</a></div>
-    
-      <div class="toc-entry level-3"><a href="#heading_a53d810385c8fddf7c4a0cf569df899b">Field Trip guides</a></div>
-    
-      <div class="toc-entry level-3"><a href="#heading_a461b760490475ff9acf02fb68ee7551">Meeting proceedings</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_a3c3e696f4dddaad227b9c5d65c93d26">Scripts developed and maintained</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_9e587f28628528af66fc5416aaca4fd0">Training (selected) courses</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_f0d2019314d14411ed9d2e4b6563a8b1">Analytical/technical skills</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_92e408fa3ee450f81bd2e9d6ad92d493">Participation in Research Projects</a></div>
-    
-      <div class="toc-entry level-1"><a href="#heading_4e721982e1a8e5303477ff491fc10a9e">Teaching</a></div>
-    
-      <div class="toc-entry level-2"><a href="#heading_2bf2935de5ae50d32527357873101a23">Positions held (at universty level)</a></div>
-    
-      <div class="toc-entry level-1"><a href="#heading_294a989dd59049fd7b22d395f18a68af">Administrative experience</a></div>
-    
-      <div class="toc-entry level-1"><a href="#heading_4274f00e9e40e8efb3fca70f1e631caa">Languages</a></div>
-    
-  </div>
-</div>
-
-
-</div>
-</div>
-
-<div id="heading_9637424f295c4d13bdfc37d144dde7fc" class="content-node heading level-1">
-  <div class="content">
-    <a href="#heading_9637424f295c4d13bdfc37d144dde7fc" class="anchor">#</a>
-    <h1><strong>Personal details</strong></h1>
-  </div>
-</div>
-<div id="431a3ee296b46ab2b30afe4c4af0c87f" class="content-node text">
-<div class="content">
-  <strong>Full Name</strong>: Marco Antonio López Sánchez
-</div>
-</div>
-<div id="24653676fcf3733aec0ff99ac6ee219d" class="content-node text">
-<div class="content">
-  <strong>Current (work) address</strong>:<br/>Departamento de Geología<br/>Universidad de Oviedo<br/>Jesús Arias de Velasco s/n<br/>33005 Oviedo<br/>Asturias, Spain
-</div>
-</div>
-<div id="5cf7b54f98138e2b4c95a58ef69f197c" class="content-node text">
-<div class="content">
-  Tel: +34 985 103 120 (work)<br/>
-</div>
-</div>
-<div id="a7bfd02ec8b164e4e3ddabc08cb28adf" class="content-node text">
-<div class="content">
-  e-mail: *@geol.uniovi.es<br/>* = malopez
-</div>
-</div>
-<div id="c0b34490fe843845c3ee6c8351aae9dc" class="content-node text">
-<div class="content">
-  <strong>On the web</strong><br/>web-page: <a href="http://bit.ly/geolUnioviMarco" title="">http://bit.ly/geolUnioviMarco</a><br/>CV (pdf): <a href="https://goo.gl/OnIYqH" title="">https://goo.gl/OnIYqH</a><br/>Orcid-ID: <a href="http://orcid.org/0000-0002-0261-9267" title="">http://orcid.org/0000-0002-0261-9267</a><br/>Research-ID: <a href="http://www.researcherid.com/rid/A-4290-2015" title="">A-4290-2015</a><br/>Scopus author ID: <a href="https://www.scopus.com/authid/detail.uri?authorId=56320859100" title="">56320859100 </a>
-</div>
-</div>
-<div id="6bdb692181a284026f61f10158bbb416" class="content-node text">
-<div class="content">
-  Google scholar: <a href="https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es" title="">scholar.google</a><br/>Microsoft academic: <a href="https://academic.microsoft.com/#/detail/2116864491" title="">2116864491</a>
-</div>
-</div>
-<div id="65848d9ae3301ccbe7a9c85528e3fa8a" class="content-node text">
-<div class="content">
-  Github page: <a href="https://github.com/marcoalopez" title="">https://github.com/marcoalopez</a>
-</div>
-</div>
-<div id="a4810e8fa153e11f67f45943623e100f" class="content-node text">
-<div class="content">
-  <em>References available on request</em>
-</div>
-</div>
-
-<div id="heading_45206ca091fb51435d214509a92752ea" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_45206ca091fb51435d214509a92752ea" class="anchor">#</a>
-    <h2><strong>Research interest</strong></h2>
-  </div>
-</div>
-<div id="590d843416ca728db9e48507a4eb11cc" class="content-node text">
-<div class="content">
-  My research interests range from different aspects of structural geology, metamorphic petrology, and geochronology. My primary interests are rock deformation and rheology, crustal strength modelling, rock microstructure (particularly grain size distributions), and understanding strain localization in shear zones. I also have academic interests in the geological mapping of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy statistics, scientific computing, and programming.
-</div>
-</div>
-
-<div id="heading_13619365ebcac1dbf022643277866878" class="content-node heading level-1">
-  <div class="content">
-    <a href="#heading_13619365ebcac1dbf022643277866878" class="anchor">#</a>
-    <h1><strong>Education</strong></h1>
-  </div>
-</div>
-<div id="cad54a8b538b99a0dc04125fe4b3a18d" class="content-node text">
-<div class="content">
-  <strong>Jul 2013</strong><br/><em>Ph.D.</em> in Geology, <em>cum laude</em> honours, <a href="http://www.geol.uniovi.es/" title="">Department of Geology</a>, <a href="http://www.uniovi.es/en/inicio" title="">Univ. of Oviedo</a><br/>Thesis: Análisis tectónico de la Falla de Vivero (Galicia, NW of Spain)<br/>Advisor: Sergio Llana-Fúnez; Co-advisors: Profs. A. Marcos and F. J. Martínez<br/><br/><strong>Sep 2007</strong> <br/>DEA (Masters of Science - <em>M.Sc.</em>) in Geology, Department of Geology, University of Oviedo.<br/>Project advisor: Prof. Alberto Marcos<br/><br/><strong>Jan 2006</strong><br/>Bachelor of Science (<em>B.Sc.</em>) in Geology, Department of Geology, University of Oviedo.
-</div>
-</div>
-
-<div id="ff53b95c1bda93990760851158dfafe1" class="content-node heading level-1">
-  <div class="content">
-    <a href="#ff53b95c1bda93990760851158dfafe1" class="anchor">#</a>
-    <h1><strong>Research</strong></h1>
-  </div>
-</div>
-
-<div id="heading_3ec1beb5a384aa4e32ecf5f4dc0b966c" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_3ec1beb5a384aa4e32ecf5f4dc0b966c" class="anchor">#</a>
-    <h2><strong>Professional experience</strong> (academic related)</h2>
-  </div>
-</div>
-<div id="6d97b6f1ad1ddf77351a29e7b1b4a98f" class="content-node text">
-<div class="content">
-  <strong>Jun. 2017 - present</strong><br/>Post-doc researcher, Dept. of Geology, University of Oviedo<br/>Characterization of deformation rock textures (project ref. MINECO-15-CGL2014-53388-P; IP: Sergio Llana-Fúnez)
-</div>
-</div>
-<div id="0ccbb9032725c488dc45db033dacb1ab" class="content-node text">
-<div class="content">
-  <strong>Apr. 2016 -</strong><strong> Dec. 2016</strong> (9 months)<br/><strong>Post-doc researcher</strong>, Dept. of Geology, University of Oviedo<br/>Characterization of deformation rock textures (project ref. MINECO-15-CGL2014-53388-P; IP: Sergio Llana-Fúnez)
-</div>
-</div>
-<div id="92d2c7c90c6c075ed74366b40714e9b2" class="content-node text">
-<div class="content">
-  <strong>Oct. 2015 - Nov. 2015</strong> (2 months)<br/><strong>Post-doc researcher</strong>, Dept. of Geology, University of Oviedo<br/>SEM, EPMA and image analysis for characterizing deformation rock textures (project ref. FC-15-GRUPIN14-44; IP: Sergio Llana-Fúnez)
-</div>
-</div>
-<div id="85aac7826c4ff25df553e7a1bac69378" class="content-node text">
-<div class="content">
-  <strong>2013 - Oct. 2015</strong><br/>Research assistant (not-paid volunteer), Dept. of Geology, University of Oviedo
-</div>
-</div>
-<div id="d7b1d706c21d4e01fc696b891df023fc" class="content-node text">
-<div class="content">
-  <strong>2007 - 2013</strong><br/><strong>Ph.D. candidate</strong>, Dept. of Geology, University of Oviedo<br/>
-</div>
-</div>
-
-<div id="heading_d0d4b31d611e181a444f30d2bc582462" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_d0d4b31d611e181a444f30d2bc582462" class="anchor">#</a>
-    <h2><strong>Fellowships/Awards</strong></h2>
-  </div>
-</div>
-<div id="09f1416fed64e9ee809f326ace65e7c0" class="content-node text">
-<div class="content">
-  2017 - <a href="https://www.dropbox.com/s/dxidugd5ath1744/Seal%20of%20Excellence.pdf?dl=0" title="">Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA</a>
-</div>
-</div>
-<div id="3afd2af1bc45b0b0b06354b72ee94fac" class="content-node text">
-<div class="content">
-  2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016
-</div>
-</div>
-<div id="8c75e0d2a65183b5b7c8e6f13c1d86b1" class="content-node text">
-<div class="content">
-  2007 - Doctoral fellowship (4 years) in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain)
-</div>
-</div>
-
-<div id="heading_8d2de1cb76b60ac11e93784cf9a31bb9" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_8d2de1cb76b60ac11e93784cf9a31bb9" class="anchor">#</a>
-    <h2><strong>Publications</strong></h2>
-  </div>
-</div>
-
-<div id="heading_6ff6c8da9da8b847a86c8cc586cc74fc" class="content-node heading level-3">
-  <div class="content">
-    <a href="#heading_6ff6c8da9da8b847a86c8cc586cc74fc" class="anchor">#</a>
-    <h3><strong>Refereed journals</strong></h3>
-  </div>
-</div>
-<div id="7c7b68f0675a91c6a9c5e395f7684ecf" class="content-node text">
-<div class="content">
-  <strong>Submitted or in advanced state of preparation (only first author)</strong>
-</div>
-</div>
-<div id="025cdd890cd4a0be942007a1809c5bda" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong>, Llana-Fúnez S, Marcos A, and Martínez FJ. A model for ultramylonite band formation in quartz-feldspathic rocks within the semi-brittle field.
-</div>
-</div>
-<div id="0145e9805632f5778f869c33d835535e" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong>, García-Sansegundo J, and Martínez FJ. The significance of Permian and Serpukhovian zircon ages in the Bossots and Lys-Caillaouas granitoids (Pyrenean Axial Zone).
-</div>
-</div>
-<div id="fa6fda01e417b5ddbea185df1819ff05" class="content-node text">
-<div class="content">
-  <br/><strong>Published or in press (citable) peer-reviewed publications</strong>
-</div>
-</div>
-<div id="0a213055479fd81d8482e94ce874ecb3" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S (2016) <a href="http://www.sciencedirect.com/science/article/pii/S0191814116301778" title="">An extension of the Saltykov method to quantify 3D grain size distributions in mylonites</a><br/><em>Journal of Structural Geology</em> 93:149-161; doi: <a href="http://dx.doi.org/10.1016/j.jsg.2016.10.008" title="">10.1016/j.jsg.2016.10.008</a> <a href="https://www.dropbox.com/s/xrg3798euuu89ys/2016_JSG_Lopez.pdf?dl=0" title="">PDF</a>
-</div>
-</div>
-<div id="7dad4d69f8bb657d25bcfeb656f766b8" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong>, Aleinikoff J, Marcos A, Martínez FJ, Llana-Fúnez S. (2016) <a href="http://jgs.geoscienceworld.org/content/173/2/282.abstract" title="">An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain)</a>. <em>Journal of the Geological Society</em> 173:282-291; doi: <a href="http://dx.doi.org/10.1144/jgs2015-071" title="">10.1144/jgs2015-071</a> <a href="https://www.dropbox.com/s/p1cx5ugsk8ahws1/Journal%20of%20the%20Geological%20Society-2016-Lopez-Sanchez-282-91.pdf?dl=0" title="">PDF</a>
-</div>
-</div>
-<div id="5918b3d505cf2fe0ae874f10a13d1b42" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S (2015) <a href="http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf" title="">An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattometry studies</a>. <em>Solid Earth </em>6:475-495, Special issue: Deformation mechanisms and ductile strain localization in the lithosphere; doi: <a href="http://dx.doi.org/10.5194/se-6-475-2015" title="">10.5194/se-6-475-2015</a> 
-</div>
-</div>
-<div id="aacba226c6501146b45a431a1a77d5aa" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong>, Marcos A, Martínez FJ, Llana-Fúnez S, Iriondo A (2015) <a href="http://link.springer.com/article/10.1007/s00531-014-1119-1" title="">Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif</a>. <em>International Journal of Earth Sciences</em> 104(4):927-962; doi:<a href="http://dx.doi.org/10.1007/s00531-014-1119-1" title="">10.1007/s00531-014-1119-1</a> <a href="https://www.dropbox.com/s/csazfara9iofjgc/art%253A10.1007%252Fs00531-014-1119-1.pdf?dl=0" title="">PDF</a>
-</div>
-</div>
-<div id="45a864dcc6c732df4b3b709515051c0a" class="content-node text">
-<div class="content">
-  <strong>Lopez-Sanchez MA</strong>, Iriondo A, Marcos A and Martínez FJ (2015) <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9545097&fileId=S0016756814000272" title="">A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia</a>. <em>Geological Magazine</em> 152(2):341-350; doi:<a href="http://dx.doi.org/10.1017/S0016756814000272" title="">10.1017/S0016756814000272</a> <a href="https://www.dropbox.com/s/t8t1oenyjbqb86j/-GEO-GEO152_02-S0016756814000272a.pdf?dl=0" title="">PDF</a><br/><br/><strong>López-Sánchez MA</strong> (2007) <a href="http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF" title="">Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica)</a>. <em>Trabajos de Geología</em> 27: 97-157.
-</div>
-</div>
-
-<div id="heading_a53d810385c8fddf7c4a0cf569df899b" class="content-node heading level-3">
-  <div class="content">
-    <a href="#heading_a53d810385c8fddf7c4a0cf569df899b" class="anchor">#</a>
-    <h3><strong>Field Trip guides</strong></h3>
-  </div>
-</div>
-<div id="48122e307a32f84ec380329fbe0ed354" class="content-node text">
-<div class="content">
-  Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and <strong>Lopez-Sanchez MA</strong> (2011) <a href="https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011" title="">DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line</a>. <em>Deformation, Rheology and Tectonics (DRT - Oviedo) meeting</em> 42 pp + map.
-</div>
-</div>
-
-<div id="heading_a461b760490475ff9acf02fb68ee7551" class="content-node heading level-3">
-  <div class="content">
-    <a href="#heading_a461b760490475ff9acf02fb68ee7551" class="anchor">#</a>
-    <h3><strong>Meeting proceedings</strong></h3>
-  </div>
-</div>
-<div id="a3241446dbab16a055775e306cba8271" class="content-node text">
-<div class="content">
-  2017 - Llana-Fúnez S, Alonso JL, Caldera N and <strong>Lopez-Sanchez MA</strong>. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain). <em>Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Inverness, Scotland)</em>
-</div>
-</div>
-<div id="48ab07d0be53cd093280c3d767147a83" class="content-node text">
-<div class="content">
-  2017 - Llana-Fúnez S, de Paola N, Pozzi G and <strong>Lopez-Sanchez MA</strong>. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). <em>European Geoscience Union General Assembly</em>
-</div>
-</div>
-<div id="c5e8e0995b420b434f7e77e784bc47bc" class="content-node text">
-<div class="content">
-  2016 - <strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Oral). <em>European Geoscience Union General Assembly</em>
-</div>
-</div>
-<div id="90144ffe8c99df685147a0322449e11c" class="content-node text">
-<div class="content">
-  2016 - <strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Oral). <em>Congreso Geológico Nacional de España</em>
-</div>
-</div>
-<div id="14f3b343fa2af9aca37c8d0f032fc2b6" class="content-node text">
-<div class="content">
-  2012 -<strong> Lopez-Sanchez MA</strong>, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) <em>(Poster)</em>. <em>European Geoscience Union General Assembly</em><br/><br/>2012 - <strong>Lopez-Sanchez MA</strong>, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). <em>Congreso Geológico Nacional de España</em><br/><br/>2011 - <strong>López-Sánchez MA</strong>, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) <em>(Poster)</em>. <em>European Geoscience Union General Assembly</em><br/><br/>2011 - <strong>López-Sánchez MA</strong>, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) <em>(Poster)</em>. <em>Deformation, Rheology and Tectonics meeting (Oviedo)</em><br/><br/>2011 - <strong>López-Sánchez MA</strong>, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) <em>(Poster)</em>. <em>The Interrelationships Between Deformation and Metamorphism</em>. Abstract Volume. University of Granada. p.105<br/><br/>2011 - <strong>López-Sánchez MA</strong>, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) <em>(Poster)</em>. <em>The Interrelationships Between Deformation and Metamorphism</em>. Abstract Volume. University of Granada. pp.106-107<br/><br/>2010 - <strong>López-Sánchez MA</strong>, Marcos A, Martínez FJ and Llana-Fúnez S  <a href="http://metododirecto.pt/CNG2010/index.php/vol/article/viewFile/281/455" title="">Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula)</a> <strong>(Oral - by invitation)</strong>. <em>Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología</em>.<br/><br/>2009 - <strong>López-Sánchez MA</strong>. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) <em>(Poster)</em>. <em>Deformation, Rheology and Tectonics meeting (Liverpool)</em>
-</div>
-</div>
-
-<div id="heading_a3c3e696f4dddaad227b9c5d65c93d26" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_a3c3e696f4dddaad227b9c5d65c93d26" class="anchor">#</a>
-    <h2><strong>Scripts developed and maintained</strong></h2>
-  </div>
-</div>
-<div id="86af4f6546c0168b89b0e24e678de5d6" class="content-node text">
-<div class="content">
-  <strong>GrainSizeTools</strong>: A free and open-source Python script for estimating the grain size from thin sections<br/>Developed and maintained by: <strong>Lopez-Sanchez MA</strong> (stable)<br/>Info. &amp; download: <a href="http://marcoalopez.github.io/GrainSizeTools/" title="">http://marcoalopez.github.io/GrainSizeTools/</a>
-</div>
-</div>
-<div id="f22308f10eb4b9aa6b6cd86bdcc6fc47" class="content-node text">
-<div class="content">
-  <strong>Strength envelopes</strong>: A Python script to generate crust and lithoshere strenght envelopes<br/>Developed and maintained by: <strong>Lopez-Sanchez MA</strong> (currently under heavy development)<br/>Info. &amp; download: <a href="https://github.com/marcoalopez/Strength_envelopes" title="">https://github.com/marcoalopez/Strength_envelopes</a>
-</div>
-</div>
-<div id="60c5232d8b90c85763f447d270adf97f" class="content-node text">
-<div class="content">
-  <strong>JASPE</strong>: JASPE stands for <em>Just Another Stereoplot Python Environment</em><br/>Developed and maintained by: <strong>Lopez-Sanchez MA</strong> (currently under heavy development)<br/>Info. &amp; download: <a href="https://github.com/marcoalopez/JASPE" title="">https://github.com/marcoalopez/JASPE</a>
-</div>
-</div>
-<div id="ae1a80da2b133660e9624a007ce14190" class="content-node text">
-<div class="content">
-  <strong>Chemical age script</strong>: A free and open-source script to estimate the 'chemical' ages in monazites analyzed in electron microprobes<br/>Developed and maintained by: <strong>Lopez-Sanchez MA</strong><br/>Info. &amp; download: <a href="https://github.com/marcoalopez/chemical_age_script" title="">https://github.com/marcoalopez/chemical_age_script/</a>
-</div>
-</div>
-
-<div id="heading_9e587f28628528af66fc5416aaca4fd0" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_9e587f28628528af66fc5416aaca4fd0" class="anchor">#</a>
-    <h2><strong>Training (selected) courses</strong></h2>
-  </div>
-</div>
-<div id="45bbc9f50117d1a425879db9a2b4c8c4" class="content-node text">
-<div class="content">
-  <strong>2016</strong><br/><em>Thematic School – Recrystallization Mechanism in Materials</em><br/>Duration: 5 days (32 hours), Sète, France<br/>Coordinator: Maurine Montagnat<br/>Organized by the CNRS &quot;Groupement de Recherche&quot; on Recrystallization (GDR3436). <a href="https://www.dropbox.com/s/unjyoesu6ef9b5b/Attestation_Eng_Lopez.pdf?dl=0" title="">Certificate</a>
-</div>
-</div>
-<div id="6004b78a3dd5e6668b494e4d5e0e7f53" class="content-node text">
-<div class="content">
-  <strong>2015</strong><br/><em>Introduction to R Programming</em><br/>Duration: 10 hours<br/>Instructor: Filip Schouwenaars<br/>Microsoft edx course (DAT204x). <a href="https://s3.amazonaws.com/verify.edx.org/downloads/d308f676762943cc819f2ded2f95ae2b/Certificate.pdf" title="">Certificate</a>
-</div>
-</div>
-<div id="e6d792edb7a92c493d438eb460a78c93" class="content-node text">
-<div class="content">
-  <strong>2013</strong><br/><em>Introduction to computer science and programming using Python</em><br/>Duration: 210 hours<br/>Prof. Eric Grimson, Prof. John Guttag, Dr. Chris Terman and Dr. Larry Rudolph<br/>Massachusetts Institute of Technology edx course (MITx - 6.00x). <a href="https://www.dropbox.com/s/uracuo9ji3chgqi/CertificatePythonMIT.pdf?dl=0" title="">Certificate</a><br/><br/><strong>2012</strong><br/><em>Scanning Electron Microscopy and its applications to analyses of Rock</em>s <br/>Duration: 30 hours<br/>Prof. John Wheeler, Dr. Elisabetta Mariani and Dr. Dan Tatham. <br/>Department of Earth, Ocean and Ecological Sciences, University of Liverpool.<br/><br/><strong>2008</strong><br/><em>Training course in microtectonics</em><br/>Duration: 30 hours<br/>Prof. Cees W. Passchier<br/>Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
-</div>
-</div>
-
-<div id="heading_f0d2019314d14411ed9d2e4b6563a8b1" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_f0d2019314d14411ed9d2e4b6563a8b1" class="anchor">#</a>
-    <h2><strong>Analytical/technical skills</strong></h2>
-  </div>
-</div>
-<div id="list_item_139bb61cf454e7dc472a89cdf5a915af" class="content-node list-item level-1">
-<div class="content">
-  <strong>Scientific computing and programming</strong>. Experience in  <a href="https://www.python.org/" title="">Python </a>programming language and various scientific libraries such as <a href="http://www.numpy.org/" title="">Numpy</a>, <a href="http://www.scipy.org/" title="">Scipy</a>, <a href="http://matplotlib.org/" title="">Matplotlib</a> and <a href="http://pandas.pydata.org/" title="">Pandas</a>. I am also familiar with the basics of <a href="https://www.r-project.org/" title="">R programming language</a>.
-</div>
-</div>
-<div id="list_item_574c42e28899d71968bb553baba927e0" class="content-node list-item level-1">
-<div class="content">
-  <strong>Image analysis</strong> (<a href="http://developer.imagej.net/" title="">ImageJ</a>, Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
-</div>
-</div>
-<div id="list_item_e152f08f27772a783861730180d55fc1" class="content-node list-item level-1">
-<div class="content">
-  <strong>Scanning Electron Microscopy</strong> (BSD, <strong>EBSD</strong>); Familiar with the use of <strong>MTEX Matlab toolbox</strong>, <em>HKL Channel 5</em> and the <em>PFch5 script</em>
-</div>
-</div>
-<div id="list_item_f2a2d2454078f808290bca1f8bac8fe9" class="content-node list-item level-1">
-<div class="content">
-  <strong>Grain size analysis</strong>. I use my own tools/scripts. See an example in <a href="http://marcoalopez.github.io/GrainSizeTools/" title="">http://marcoalopez.github.io/GrainSizeTools/</a>
-</div>
-</div>
-<div id="list_item_c4a5d03396787414ce1278585564edf5" class="content-node list-item level-1">
-<div class="content">
-  <strong>Electron Probe Micro-analyser </strong>(EPMA). Monazite chemical dating (see <a href="https://github.com/marcoalopez/chemical_age_script" title="">https://github.com/marcoalopez/chemical_age_script</a>)
-</div>
-</div>
-<div id="list_item_bfd7fceb94f44b247879aa596169d2da" class="content-node list-item level-1">
-<div class="content">
-  Good theoretical background in understanding experimental data (i.e. statistics, interpolation and regression)
-</div>
-</div>
-<div id="list_item_6f8de6c0553ce5a4877034570649c90e" class="content-node list-item level-1">
-<div class="content">
-  Experience in geological mapping and <strong>Geographical Information Systems</strong> (GIS)
-</div>
-</div>
-<div id="list_item_3cf102b11d357e967f40070ac27f6c92" class="content-node list-item level-1">
-<div class="content">
-  Analysis of U-Pb geochronological data
-</div>
-</div>
-
-<div id="heading_92e408fa3ee450f81bd2e9d6ad92d493" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_92e408fa3ee450f81bd2e9d6ad92d493" class="anchor">#</a>
-    <h2><strong>Participation in Research Projects</strong></h2>
-  </div>
-</div>
-<div id="9ecaf5ab75c315d60e4f5f73bd0db175" class="content-node text">
-<div class="content">
-  <strong>2016</strong><strong> - present</strong><br/>Cataclasis y fracturación en rocas de la corteza continental (<em>Cataclasis and rock fracturing in the continental crust</em>). Project led by <a href="http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html" title="">Sergio Llana-Fúnez</a> Ref. MINECO-15-CGL2014-53388-P
-</div>
-</div>
-<div id="ef5f7b466a76a86cfee3406021fbb9a4" class="content-node text">
-<div class="content">
-  <strong>2015</strong><br/>Procesos geológicos modeladores del relieve de la cordillera cantábrica. Project led by <a href="http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html" title="">Sergio Llana-Fúnez</a> Ref. <em>FC-15-GRUPIN14-44</em>
-</div>
-</div>
-<div id="4b76b19157b9a79c1432ff3a83813482" class="content-node text">
-<div class="content">
-  <strong>2010-2014</strong><br/>La transición frágil-dúctil de la corteza del NO penínsular (<em>The brittle-ductile transition in the continental crust in North-western Iberia</em>). Project led by <a href="http://www.geol.uniovi.es/~slf/slf_at_Oviedo/Main.html" title="">Sergio Llana-Fúnez</a> <em>Ref. MICINN-10-CGL2010-14890</em><br/><br/><strong>2007-2010</strong><br/><em>The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone</em> (original title in spanish). Project led by Alberto Marcos. <em>Ref. CGL2006-08822/BTE</em>
-</div>
-</div>
-
-<div id="heading_4e721982e1a8e5303477ff491fc10a9e" class="content-node heading level-1">
-  <div class="content">
-    <a href="#heading_4e721982e1a8e5303477ff491fc10a9e" class="anchor">#</a>
-    <h1><strong>Teaching</strong></h1>
-  </div>
-</div>
-<div id="623ce2ec3c0299445292bd13ebf13dc0" class="content-node text">
-<div class="content">
-  <strong>Accredited as an assistant teacher by the National Agency for Quality Assesment and Accreditation of Spain (ANECA) in 2016</strong>
-</div>
-</div>
-
-<div id="heading_2bf2935de5ae50d32527357873101a23" class="content-node heading level-2">
-  <div class="content">
-    <a href="#heading_2bf2935de5ae50d32527357873101a23" class="anchor">#</a>
-    <h2><strong>Positions held (at universty level)</strong></h2>
-  </div>
-</div>
-<div id="24d95f4f7475eb70b401f17444876276" class="content-node text">
-<div class="content">
-  Graduate teaching assistant from <strong>2009</strong> to <strong>2011</strong>, University of Oviedo.
-</div>
-</div>
-<div id="4c6e7a9f368bad6a5b5b923296048e87" class="content-node text">
-<div class="content">
-  Laboratory sections taught: <em>Plate Tectonics (20 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)</em>
-</div>
-</div>
-<div id="c44ee9828a8b6822324c60a7d3ccbcea" class="content-node text">
-<div class="content">
-  Field Camp taught: <em>Geodynamics (10 hours); </em><em>Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)</em>
-</div>
-</div>
-
-<div id="heading_294a989dd59049fd7b22d395f18a68af" class="content-node heading level-1">
-  <div class="content">
-    <a href="#heading_294a989dd59049fd7b22d395f18a68af" class="anchor">#</a>
-    <h1><strong>Administrative experience</strong></h1>
-  </div>
-</div>
-<div id="0b472d4d5c8c39035d120e26dc56acc7" class="content-node text">
-<div class="content">
-  Deformation mechanisms, Rheology and Tectonics - <strong>DRT2011meeting organizing committee</strong>. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere
-</div>
-</div>
-
-<div id="heading_4274f00e9e40e8efb3fca70f1e631caa" class="content-node heading level-1">
-  <div class="content">
-    <a href="#heading_4274f00e9e40e8efb3fca70f1e631caa" class="anchor">#</a>
-    <h1><strong>Languages</strong></h1>
-  </div>
-</div>
-<div id="b4ad4db7ad0ce516b7c599572e94cffd" class="content-node text">
-<div class="content">
-  Spanish (and Galician) mother tongue<br/>English (fluent); Portuguese (reading fluently and listening comprehension)
-</div>
-</div>
-
-
-<div id="references" class="content-node references">
-  <div class="content">
-    
-
-    
-  </div>
-</div>
-
-<div id="publication_info" class="content-node publication-info">
-  <div class="content">
-
-
-
-    
-    
-    
-      <div class="authors">
-        
-          <div class="author" id="contributor_ebfc0a03b8dbb3eeb0da1b2597286e21">
-             <img class="author-image" src="contributor_ebfc0a03b8dbb3eeb0da1b2597286e21.jpg"/>
-            <div class="author-description">Marco is a postdoctoral researcher at the University of Oviedo currently working on rock deformation,  deformation microstructures, and rheology. He holds a Ph.D. in Geology from the University of Oviedo since 2013. He is actively looking for a postdoctoral position abroad.</div>
-          </div>
-        
-      </div>
-    
-
-    
-
-
-
-    <div class="copyright">
-      <!-- <div class="label">Copyright</div> -->
-      
-
-      
-      <div class="copyright-statement">
-        Copyright &copy; 2017; Header image: Unsplash (CC0)
-      </div>
-      
-      <div class="license">
-        This work has been identified as being free of known restrictions under copyright law, including all related and neighboring rights. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
-        
-        See <a href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
-        
-      </div>
-
-
-    </div>
-
-  </div>
-
-<div class="generator">
-  <div class="content">
-    This article was created with <a href="http://substance.io/composer">Substance</a>, an open self-publishing system.
-  </div>
-</div>
-
-</div>
-</div>
-
-
+<body class='typora-export' >
+<div  id='write'  class = 'is-node'><p><img src='https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.png' alt='' /></p><h1><a name='header-n479' class='md-header-anchor '></a><em>Ph.D.</em> Marco A. Lopez-Sanchez</h1><p><strong><em>Short bio</em></strong>: Marco is a postdoctoral researcher in the Dept. of Geology at University of Oviedo (Spain). He received his <em>Ph.D.</em> in Geology from the University of Oviedo in 2013 supervised by <a href='http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html'>Sergio Llana-Fúnez</a>. His thesis dealt with the study of a deep crustal-scale shear zone in the hinterland of the Variscan orogen. From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the Sergio Llana-Fúnez research group. So far, Marco has participated in four research projects.</p><p>His research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. Primary interests are rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis techniques, and understanding strain localization in nature. He also has academic interests in the geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing statistics, scientific computing, and programming to create scientific tools.</p><h2><a name='header-n485' class='md-header-anchor '></a>Personal details</h2><p><strong>Full name</strong>: Marco Antonio López Sánchez</p><p><strong>Current (work) address</strong>:
+Departamento de Geología<br/>
+Universidad de Oviedo<br/>
+Jesús Arias de Velasco s/n<br/>
+33005 Oviedo<br/>
+Asturias, Spain<br/>
+Tel: +34 985 103 120 (work)</p><p><strong>e-mail</strong>: _@geol.uniovi.es    _ -&gt; malopez</p><h3><a name='header-n498' class='md-header-anchor '></a><strong>On the web</strong></h3><p>web-page: <a href='http://bit.ly/geolUnioviMarco' target='_blank' >http://bit.ly/geolUnioviMarco</a><br/>
+CV (pdf): <a href='https://goo.gl/OnIYqH' target='_blank' >https://goo.gl/OnIYqH</a><br/>
+Orcid-ID: <a href='http://orcid.org/0000-0002-0261-9267' target='_blank' >http://orcid.org/0000-0002-0261-9267</a><br/>
+Research-ID: <a href='http://www.researcherid.com/rid/A-4290-2015'>A-4290-2015</a><br/>
+Scopus author ID: <a href='https://www.scopus.com/authid/detail.uri?authorId=56320859100'>56320859100 </a><br/>
+Google scholar: <a href='https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es'>scholar.google</a><br/>
+Microsoft academic: <a href='https://academic.microsoft.com/#/detail/2116864491'>2116864491</a><br/>
+Github page: <a href='https://github.com/marcoalopez' target='_blank' >https://github.com/marcoalopez</a><br/></p><p></p><h2><a name='header-n510' class='md-header-anchor '></a>Education</h2><p><strong>Jul 2013</strong> - <em>Ph.D.</em> in Geology, <em>cum laude</em> honours, <a href='http://www.geol.uniovi.es/'>Department of Geology</a>, <a href='http://www.uniovi.es/en/inicio'>Univ. of Oviedo</a>.<br/>
+Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez<br/>
+<strong>Thesis</strong>: <em>Análisis tectónico de la Falla de Vivero (Galicia, NW of Spain)</em></p><p><strong>Sep 2007</strong> - DEA (Masters of Science - <em>M.Sc.</em>) in Geology, Department of Geology, University of Oviedo. Project advisor: Prof. A. Marcos</p><p><strong>Jan 2006</strong> - Bachelor of Science (<em>B.Sc.</em>) in Geology, Department of Geology, University of Oviedo.</p><p></p><h2><a name='header-n521' class='md-header-anchor '></a>Research</h2><h3><a name='header-n522' class='md-header-anchor '></a>Professional experience (only academic related)</h3><p><strong>Jun 2017 - present</strong> - Post-doctoral researcher, Dept. of Geology, University of Oviedo</p><p><strong>Apr 2016 - Dec 2016</strong> - Post-doctoral researcher, Dept. of Geology, University of Oviedo</p><p><strong>Oct 2015 - Nov 2015</strong> - Post-doctoral researcher, Dept. of Geology, University of Oviedo</p><p><strong>2013 - 2015</strong> - Research assistant (not-paid volunteer), Dept. of Geology, University of Oviedo</p><p><strong>2007 - 2013</strong> - <em>Ph.D. candidate</em>, Dept. of Geology, University of Oviedo</p><p></p><h3><a name='header-n535' class='md-header-anchor '></a>Fellowship/Awards</h3><p>2017 - <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf'>Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA</a></p><p>2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016</p><p>2007 - Doctoral fellowship (4 years) in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain)</p><p></p><h3><a name='header-n544' class='md-header-anchor '></a>Publications</h3><h4><a name='header-n545' class='md-header-anchor '></a>Published or in press (citable) peer-reviewed publications</h4><p><strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S (2016) <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf'>An extension of the Saltykov method to quantify 3D grain size distributions in mylonites</a> <em>Journal of Structural Geology</em> <strong>93</strong>: 149-161; doi: <a href='http://dx.doi.org/10.1016/j.jsg.2016.10.008'>10.1016/j.jsg.2016.10.008</a></p><p><strong>Lopez-Sanchez MA</strong>, Aleinikoff J, Marcos A, Martínez FJ, Llana-Fúnez S. (2016) <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf'>An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain)</a>. <em>Journal of the Geological Society</em> <strong>173</strong>: 282-291; doi: <a href='http://dx.doi.org/10.1144/jgs2015-071'>10.1144/jgs2015-071</a></p><p><strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S (2015) <a href='http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf'>An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattometry studies</a>. <em>Solid Earth</em> <strong>6</strong>: 475-495, Special issue: Deformation mechanisms and ductile strain localization in the lithosphere; doi: <a href='http://dx.doi.org/10.5194/se-6-475-2015'>10.5194/se-6-475-2015</a></p><p><strong>Lopez-Sanchez MA</strong>, Marcos A, Martínez FJ, Llana-Fúnez S, Iriondo A (2015) <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf'>Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif</a>. <em>International Journal of Earth Sciences</em> <strong>104</strong>(4): 927-962; doi:<a href='http://dx.doi.org/10.1007/s00531-014-1119-1'>10.1007/s00531-014-1119-1</a></p><p><strong>Lopez-Sanchez MA</strong>, Iriondo A, Marcos A and Martínez FJ (2015) <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf'>A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia</a>. <em>Geological Magazine</em> <strong>152</strong>(2): 341-350; doi:<a href='http://dx.doi.org/10.1017/S0016756814000272'>10.1017/S0016756814000272</a></p><p><strong>López-Sánchez MA</strong> (2007) <a href='http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF'>Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica)</a>. <em>Trabajos de Geología</em> <strong>27</strong>: 97-157</p><h4><a name='header-n558' class='md-header-anchor '></a>Field Trip guides</h4><p>Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and <strong>Lopez-Sanchez MA</strong> (2011) <a href='https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011'>DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line</a>. <em>Deformation, Rheology and Tectonics (DRT - Oviedo) meeting</em> 42 pp + map.</p><h4><a name='header-n561' class='md-header-anchor '></a>Meeting proceedings</h4><ul><li>2017 - Llana-Fúnez S, Alonso JL, Caldera N and <strong>Lopez-Sanchez MA</strong>. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain). <em>Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Inverness, Scotland)</em><br/></li><li>2017 - Llana-Fúnez S, de Paola N, Pozzi G and <strong>Lopez-Sanchez MA</strong>. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). <em>European Geoscience Union General Assembly</em><br/></li><li>2016 - <strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Oral). <em>European Geoscience Union General Assembly</em> <br/></li><li>2016 - <strong>Lopez-Sanchez MA</strong> and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Oral). <em>Congreso Geológico Nacional de España</em><br/></li><li>2012 -<strong>Lopez-Sanchez MA</strong>, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) <em>(Poster)</em>. <em>European Geoscience Union General Assembly</em><br/></li><li>2012 - <strong>Lopez-Sanchez MA</strong>, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). <em>Congreso Geológico Nacional de España</em><br/></li><li>2011 - <strong>López-Sánchez MA</strong>, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) <em>(Poster)</em>. <em>European Geoscience Union General Assembly</em><br/></li><li>2011 - <strong>López-Sánchez MA</strong>, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) <em>(Poster)</em>. <em>Deformation, Rheology and Tectonics meeting (Oviedo)</em><br/></li><li>2011 - <strong>López-Sánchez MA</strong>, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) <em>(Poster)</em>. <em>The Interrelationships Between Deformation and Metamorphism</em> </li><li>2011 - <strong>López-Sánchez MA</strong>, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) <em>(Poster)</em>. <em>The Interrelationships Between Deformation and Metamorphism</em><br/></li><li>2010 - <strong>López-Sánchez MA</strong>, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) <strong>(Oral - by invitation)</strong>. <em>Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología</em>.<br/></li><li>2009 - <strong>López-Sánchez MA</strong>. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) <em>(Poster)</em>. <em>Deformation, Rheology and Tectonics meeting (Liverpool)</em><br/></li></ul><h3><a name='header-n600' class='md-header-anchor '></a>Scripts developed and maintained</h3><p><strong>GrainSizeTools</strong>: A free and open-source Python script for estimating the grain size from thin sections<br/>
+Developed and maintained by: <strong>Lopez-Sanchez MA</strong> (stable)<br/>
+Info. &amp; download: <a href='http://marcoalopez.github.io/GrainSizeTools/' target='_blank' >http://marcoalopez.github.io/GrainSizeTools/</a></p><p><strong>Strength envelopes</strong>: A Python script to generate crust and lithoshere strenght envelopes<br/>
+Developed and maintained by: <strong>Lopez-Sanchez MA</strong> (currently under heavy development)<br/>
+Info. &amp; download: <a href='https://github.com/marcoalopez/Strength_envelopes' target='_blank' >https://github.com/marcoalopez/Strength_envelopes</a></p><p><strong>JASPE</strong>: JASPE stands for <em>Just Another Stereoplot Python Environment</em><br/>
+Developed and maintained by: <strong>Lopez-Sanchez MA</strong> (currently under heavy development)<br/>
+Info. &amp; download: <a href='https://github.com/marcoalopez/JASPE' target='_blank' >https://github.com/marcoalopez/JASPE</a></p><p><strong>Chemical age script</strong>: A free and open-source script to estimate the &#39;chemical&#39; ages in monazites analyzed in electron microprobes<br/>
+Developed and maintained by: <strong>Lopez-Sanchez MA</strong><br/>
+Info. &amp; download: <a href='https://github.com/marcoalopez/chemical_age_script'>https://github.com/marcoalopez/chemical_age_script/</a></p><p></p><h3><a name='header-n619' class='md-header-anchor '></a>Training selected courses</h3><p><strong>2016</strong><br/>
+<em>Thematic School – Recrystallization Mechanism in Materials</em><br/>
+Duration: 5 days (32 hours), Sète, France<br/>
+Coordinator: Maurine Montagnat<br/>
+Organized by the CNRS &quot;Groupement de Recherche&quot; on Recrystallization (GDR3436). <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Attestation_Eng_Lopez.pdf'>Certificate</a></p><p><strong>2015</strong><br/>
+<em>Introduction to R Programming</em><br/>
+Duration: 10 hours<br/>
+Instructor: Filip Schouwenaars<br/>
+Microsoft edx course (DAT204x). <a href='https://s3.amazonaws.com/verify.edx.org/downloads/d308f676762943cc819f2ded2f95ae2b/Certificate.pdf'>Certificate</a></p><p><strong>2013</strong><br/>
+<em>Introduction to computer science and programming using Python</em><br/>
+Duration: 210 hours<br/>
+Prof. Eric Grimson, Prof. John Guttag, Dr. Chris Terman and Dr. Larry Rudolph<br/>
+Massachusetts Institute of Technology edx course (MITx - 6.00x). <a href='https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/CertificatePythonMIT.pdf'>Certificate</a></p><p><strong>2012</strong><br/>
+<em>Scanning Electron Microscopy and its applications to analyses of Rock</em>s<br/>
+Duration: 30 hours<br/>
+Prof. John Wheeler, Dr. Elisabetta Mariani and Dr. Dan Tatham<br/>
+Department of Earth, Ocean and Ecological Sciences, University of Liverpool</p><p><strong>2008</strong><br/>
+<em>Training course in microtectonics</em><br/>
+Duration: 30 hours<br/>
+Prof. Cees W. Passchier<br/>
+Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).</p><p></p><h3><a name='header-n652' class='md-header-anchor '></a>Analytical/technical skills</h3><ul><li><strong>Scientific computing and programming</strong>. Experience in <a href='https://www.python.org/'>Python </a>programming language and several scientific libraries such as <a href='http://www.numpy.org/'>Numpy</a>, <a href='http://www.scipy.org/'>Scipy</a>, <a href='http://matplotlib.org/'>Matplotlib</a>, and <a href='http://pandas.pydata.org/'>Pandas</a>. I am also familiar with the basics of <a href='https://www.r-project.org/'>R programming language</a>.</li><li><strong>Image analysis</strong> (<a href='http://developer.imagej.net/'>ImageJ</a>, Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.</li><li><strong>Scanning Electron Microscopy</strong> (BSD, <strong>EBSD</strong>); Familiar with the use of <strong>MTEX Matlab toolbox</strong>, <em>HKL Channel 5</em> and the <em>PFch5 script</em></li><li><strong>Grain size analysis</strong>. I use my own tools/scripts. See an example in <a href='http://marcoalopez.github.io/GrainSizeTools/' target='_blank' >http://marcoalopez.github.io/GrainSizeTools/</a></li><li><strong>Electron Probe Micro-analyser </strong>(EPMA). Including monazite chemical dating (see <a href='https://github.com/marcoalopez/chemical_age_script' target='_blank' >https://github.com/marcoalopez/chemical_age_script</a>)</li><li>Good theoretical background in understanding experimental data (i.e. statistics, interpolation and regression)</li><li>Experience in geological mapping and <strong>Geographical Information Systems</strong> (GIS)</li><li>U-Pb geochronological data treatment</li></ul><h3><a name='header-n679' class='md-header-anchor '></a>Participation in Research Projects</h3><p><strong>2016 - present</strong><br/>
+Cataclasis y fracturación en rocas de la corteza continental (<em>Cataclasis and rock fracturing in the continental crust</em>). Project led by <a href='http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html'>Sergio Llana-Fúnez</a> Ref. MINECO-15-CGL2014-53388-P</p><p><strong>2015</strong><br/>
+Procesos geológicos modeladores del relieve de la cordillera cantábrica. Project led by <a href='http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html'>Sergio Llana-Fúnez</a> Ref. <em>FC-15-GRUPIN14-44</em></p><p><strong>2010 - 2014</strong><br/>
+La transición frágil-dúctil de la corteza del NO penínsular (<em>The brittle-ductile transition in the continental crust in North-western Iberia</em>). Project led by <a href='http://www.geol.uniovi.es/~slf/slf_at_Oviedo/Main.html'>Sergio Llana-Fúnez</a> <em>Ref. MICINN-10-CGL2010-14890</em></p><p><strong>2007 - 2010</strong><br/>
+<em>The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone</em> (original title in spanish). Project led by Alberto Marcos. <em>Ref. CGL2006-08822/BTE</em></p><p></p><h2><a name='header-n694' class='md-header-anchor '></a>Teaching (at universty level)</h2><p><strong>Accredited as an assistant teacher by the National Agency for Quality Assessment and Accreditation of Spain (ANECA) in 2016</strong></p><p>Graduate teaching assistant from <strong>2009</strong> to <strong>2011</strong> and in <strong>2017</strong> at University of Oviedo</p><p>Laboratory sections taught: <em>Plate Tectonics (20 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)</em></p><p>Field Camp taught: <em>Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)</em></p><p></p><h2><a name='header-n705' class='md-header-anchor '></a>Administrative experience</h2><p><strong>Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee</strong>. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere</p><p></p><h2><a name='header-n710' class='md-header-anchor '></a>Languages</h2><p>Spanish (and Galician) mother tongue<br/>
+English (fluent); Portuguese (reading fluently and listening comprehension)</p><p><em>Last update</em>: 2017/10/05<br/>
+<em>Copyright © 2017; Leaves on header image by Christ Lawton on Unsplash (CC0)</em></p></div>
 </body>
 </html>
