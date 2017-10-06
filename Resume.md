@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.png)
+
 # *Ph.D.* Marco A. Lopez-Sanchez
 
 ***Short bio***: Marco is a postdoctoral researcher in the Dept. of Geology at University of Oviedo (Spain). He received his *Ph.D.* in Geology from the University of Oviedo in 2013 supervised by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html). His thesis dealt with the study of a deep crustal-scale shear zone in the hinterland of the Variscan orogen. From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the Sergio Llana-Fúnez research group. So far, Marco has participated in four research projects.
@@ -210,6 +211,6 @@ Spanish (and Galician) mother tongue
 English (fluent); Portuguese (reading fluently and listening comprehension)
 
 ## 
-*Last update*: 2017/10/05  
-*Copyright © 2017; Leaves on header image by Christ Lawton on Unsplash (CC0)*  
+*Last update*: 2017/10/06  
+*Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
