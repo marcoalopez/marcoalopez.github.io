@@ -18,7 +18,7 @@ Jesús Arias de Velasco s/n
 Asturias, Spain  
 Tel: +34 985 103 120 (work)
 
-**e-mail**: €€€@geol.uniovi.es (replace **€€€** with **malopez**)
+**e-mail**: &&&@geol.uniovi.es (replace **&&&** with **malopez**)
 
 ### **On the web**
 
