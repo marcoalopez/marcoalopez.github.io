@@ -2,7 +2,7 @@
 
 # *Ph.D.* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher in the Dept. of Geology at University of Oviedo (Spain). He received his *Ph.D.* in Geology from the University of Oviedo in 2013 supervised by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html). His thesis dealt with the study of a deep crustal-scale shear zone in the hinterland of the Variscan orogen. From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the Sergio Llana-Fúnez research group. So far, Marco has participated in four research projects.
+***Short bio***: Marco is a postdoctoral researcher in the Dept. of Geology at University of Oviedo (Spain). He received his *Ph.D.* in Geology from the University of Oviedo in 2013 supervised by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html). His thesis dealt with the study of a deep crustal-scale shear zone located in the hinterland of the Iberian massif. From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the Sergio Llana-Fúnez research group. So far, Marco has participated in four research projects.
 
 His research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. Primary interests are rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis techniques, and understanding strain localization in nature. He also has academic interests in the geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing statistics, scientific computing, and programming to create scientific tools.
 
@@ -22,11 +22,10 @@ Tel: +34 985 103 120 (work)
 
 ### **On the web**
 
-web-page: <http://bit.ly/geolUnioviMarco>  
-CV (pdf): <https://goo.gl/OnIYqH>  
+CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)   
 Orcid-ID: <http://orcid.org/0000-0002-0261-9267>  
 Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)  
-Scopus author ID: [56320859100 ](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
+Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Microsoft academic: [2116864491](https://academic.microsoft.com/#/detail/2116864491)  
 Github page: <https://github.com/marcoalopez>  
@@ -102,7 +101,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 - 2012 - **Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). *Congreso Geológico Nacional de España*  
 - 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
 - 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Oviedo)*  
-- 2011 - **López-Sánchez MA**, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism* 
+- 2011 - **López-Sánchez MA**, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*
 - 2011 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*  
 - 2010 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Oral - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*.  
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
@@ -210,7 +209,7 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 Spanish (and Galician) mother tongue  
 English (fluent); Portuguese (reading fluently and listening comprehension)
 
-## 
-*Last update*: 2017/10/06  
+##
+*Last update*: 2017/10/08  
 *Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
