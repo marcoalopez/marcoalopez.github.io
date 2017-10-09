@@ -159,7 +159,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Experience in [Python ](https://www.python.org/)programming language and several scientific libraries such as [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/).
+- **Scientific computing and programming**. Experience in [Python ](https://www.python.org/)programming language and several scientific libraries such as [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/) and the version control system Git.
 - **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
 - **Scanning Electron Microscopy** (BSD, **EBSD**); Familiar with the use of **MTEX Matlab toolbox**, *HKL Channel 5* and the *PFch5 script*
 - **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
