@@ -144,7 +144,7 @@ Microsoft edx course (DAT204x). [Certificate](https://s3.amazonaws.com/verify.ed
 **2013** - *Introduction to computer science and programming using Python*  
 Duration: 210 hours  
 Prof. Eric Grimson, Prof. John Guttag, Dr. Chris Terman and Dr. Larry Rudolph  
-Massachusetts Institute of Technology edx course (MITx - 6.00x). [Certificate](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/CertificatePythonMIT.pdf)
+Massachusetts Institute of Technology edx course (MITx - 6.00x). [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/c32e2dd3fd54496c9c88bb282e34f272/Certificate.pdf)
 
 **2012** - *Scanning Electron Microscopy and its applications to analyses of Rock*s  
 Duration: 30 hours  
@@ -210,7 +210,7 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 Spanish (and Galician) mother tongue  
 English (fluent); Portuguese (reading fluently and listening comprehension)
 
-##
+#
 *Last update*: 2017/10/08  
 *Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
