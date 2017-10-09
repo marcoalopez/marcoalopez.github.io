@@ -22,7 +22,8 @@ Tel: +34 985 103 120 (work)
 
 ### **On the web**
 
-CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)   
+Personal website: <https://marcoalopez.github.io/>  
+CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)  
 Orcid-ID: <http://orcid.org/0000-0002-0261-9267>  
 Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)  
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
