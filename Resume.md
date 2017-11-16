@@ -1,10 +1,10 @@
 ![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.png)
 
-# *Ph.D.* Marco A. Lopez-Sanchez
+# *PhD* Marco A. Lopez-Sanchez
 
 ***Short bio***: Marco is a postdoctoral researcher in the Dept. of Geology at University of Oviedo (Spain). He received his *Ph.D.* in Geology from the University of Oviedo in 2013 supervised by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html). His thesis dealt with the study of a deep crustal-scale shear zone located in the hinterland of the Iberian massif. From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the Sergio Llana-Fúnez research group. So far, Marco has participated in four research projects.
 
-His research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. Primary interests are rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis techniques, and understanding strain localization in nature. He also has academic interests in the geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing statistics, scientific computing, and programming to create scientific tools.
+His research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. Primary interests are rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD techniques, and understanding strain localization in nature. He also has academic interests in the geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing statistics, scientific computing, and programming to create scientific tools.
 
 ## Personal details
 
@@ -32,7 +32,6 @@ Microsoft academic: [2116864491](https://academic.microsoft.com/#/detail/2116864
 Github page: <https://github.com/marcoalopez>  
 
 
-
 ## Education
 
 **Jul 2013** - *Ph.D.* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
@@ -42,7 +41,6 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 **Sep 2007** - DEA (Masters of Science - *M.Sc.*) in Geology, Department of Geology, University of Oviedo. Project advisor: Prof. A. Marcos
 
 **Jan 2006** - Bachelor of Science (*B.Sc.*) in Geology, Department of Geology, University of Oviedo.
-
 
 
 ## Research
@@ -60,16 +58,15 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 **2007 - 2013** - *Ph.D. candidate*, Dept. of Geology, University of Oviedo
 
 
-
 ### Fellowship/Awards
+
+2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie Actions 7th FW) (2 years)
 
 2017 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf)
 
 2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016
 
-2007 - Doctoral fellowship (4 years) in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain)
-
-
+2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years) 
 
 ### Publications
 
@@ -108,7 +105,6 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
 
 
-
 ### Scripts developed and maintained
 
 **GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
@@ -123,10 +119,13 @@ Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 Developed and maintained by: **Lopez-Sanchez MA** (currently under heavy development)  
 Info. & download: <https://github.com/marcoalopez/JASPE>
 
-**Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analyzed in electron microprobes  
+**Nearest neighbour**: A Python script to estimate nearest neighbour distance and nearest neighbour Monte Carlo simulations  
 Developed and maintained by: **Lopez-Sanchez MA**  
-Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
+Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
+**Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analyzed in electron microprobes  
+Developed by: **Lopez-Sanchez MA**  (status: currently abandoned)
+Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
 
 ### Training selected courses
@@ -157,10 +156,9 @@ Prof. Cees W. Passchier
 Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
 
 
-
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Experience in [Python ](https://www.python.org/)programming language and several scientific libraries such as [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/) and the version control system Git.
+- **Scientific computing and programming**. Experience in [Python ](https://www.python.org/)programming language and several scientific libraries such as [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/), the version control system Git, and code repositories such as GitHub.
 - **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
 - **Scanning Electron Microscopy** (BSD, **EBSD**); Familiar with the use of **MTEX Matlab toolbox**, *HKL Channel 5* and the *PFch5 script*
 - **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
@@ -168,7 +166,6 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 - Good theoretical background in understanding experimental data (i.e. statistics, interpolation and regression)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
 - U-Pb geochronological data treatment
-
 
 
 ### Participation in Research Projects
@@ -186,7 +183,6 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 *The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone* (original title in spanish). Project led by Alberto Marcos. *Ref. CGL2006-08822/BTE*
 
 
-
 ## Teaching (at university level)
 
 **Accredited as an assistant teacher by the National Agency for Quality Assessment and Accreditation of Spain (ANECA) in 2016**
@@ -198,11 +194,9 @@ Laboratory sections taught: *Plate Tectonics (20 hours); Structural Geology (20 
 Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
 
-
 ## Administrative experience
 
 **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee**. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere
-
 
 
 ## Languages
@@ -210,7 +204,7 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 Spanish (and Galician) mother tongue  
 English (fluent); Portuguese (reading fluently and listening comprehension)
 
-#
-*Last update*: 2017/10/08  
+# 
+*Last update*: 2017/11/16  
 *Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
