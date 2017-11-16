@@ -66,7 +66,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016
 
-2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years) 
+2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years)
 
 ### Publications
 
@@ -204,7 +204,7 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 Spanish (and Galician) mother tongue  
 English (fluent); Portuguese (reading fluently and listening comprehension)
 
-# 
+#
 *Last update*: 2017/11/16  
 *Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
