@@ -70,6 +70,10 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 ### Publications
 
+#### In review, accepted or available as a pre-print
+
+**Lopez-Sanchez MA** and Llana-Fúnez S. *Ultramylonite Formation in Quartz-feldspathic Rocks within the Semi-brittle Field (Vivero fault, NW Spain)*. Submitted to the Journal of Geophysical Research: Solid Earth
+
 #### Published or in press (citable) peer-reviewed publications
 
 **Lopez-Sanchez MA** and Llana-Fúnez S (2016) [An extension of the Saltykov method to quantify 3D grain size distributions in mylonites](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) *Journal of Structural Geology* **93**: 149-161; doi: [10.1016/j.jsg.2016.10.008](http://dx.doi.org/10.1016/j.jsg.2016.10.008)
@@ -119,7 +123,7 @@ Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 Developed and maintained by: **Lopez-Sanchez MA** (currently under heavy development)  
 Info. & download: <https://github.com/marcoalopez/JASPE>
 
-**Nearest neighbour**: A Python script to estimate nearest neighbour distance and nearest neighbour Monte Carlo simulations  
+**Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
 Developed and maintained by: **Lopez-Sanchez MA**  
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
