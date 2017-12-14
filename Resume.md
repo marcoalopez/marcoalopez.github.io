@@ -31,7 +31,6 @@ Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOi
 Microsoft academic: [2116864491](https://academic.microsoft.com/#/detail/2116864491)  
 Github page: <https://github.com/marcoalopez>  
 
-
 ## Education
 
 **Jul 2013** - *Ph.D.* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
@@ -206,8 +205,8 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 ## Languages
 
 Spanish and Galician - mother tongue  
-English - fluent
-Portuguese - reading fluently and listening comprehension
+English - fluent  
+Portuguese - reading fluently and listening comprehension  
 French - elementary proficiency
 
 #
