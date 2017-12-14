@@ -10,7 +10,7 @@ His research interests range from different aspects of geodynamics, from microsc
 
 **Full name**: Marco Antonio López Sánchez
 
-**Current (work) address**:  
+**Work address**:  
 Departamento de Geología  
 Universidad de Oviedo  
 Jesús Arias de Velasco s/n  
@@ -76,21 +76,21 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 #### Published or in press (citable) peer-reviewed publications
 
-**Lopez-Sanchez MA** and Llana-Fúnez S (2016) [An extension of the Saltykov method to quantify 3D grain size distributions in mylonites](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) *Journal of Structural Geology* **93**: 149-161; doi: [10.1016/j.jsg.2016.10.008](http://dx.doi.org/10.1016/j.jsg.2016.10.008)
+[A5](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; doi: [10.1016/j.jsg.2016.10.008](http://dx.doi.org/10.1016/j.jsg.2016.10.008)
 
-**Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, Llana-Fúnez S. (2016) [An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain)](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf). *Journal of the Geological Society* **173**: 282-291; doi: [10.1144/jgs2015-071](http://dx.doi.org/10.1144/jgs2015-071)
+[A4](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf) - **Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, Llana-Fúnez S. (2016) An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain). *Journal of the Geological Society* **173**: 282-291; doi: [10.1144/jgs2015-071](http://dx.doi.org/10.1144/jgs2015-071)
 
-**Lopez-Sanchez MA** and Llana-Fúnez S (2015) [An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattometry studies](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf). *Solid Earth* **6**: 475-495, Special issue: Deformation mechanisms and ductile strain localization in the lithosphere; doi: [10.5194/se-6-475-2015](http://dx.doi.org/10.5194/se-6-475-2015)
+[A3](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf) - **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495, Special issue: Deformation mechanisms and ductile strain localization in the lithosphere; doi: [10.5194/se-6-475-2015](http://dx.doi.org/10.5194/se-6-475-2015)
 
-**Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, Iriondo A (2015) [Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf). *International Journal of Earth Sciences* **104**(4): 927-962; doi:[10.1007/s00531-014-1119-1](http://dx.doi.org/10.1007/s00531-014-1119-1)
+[A2](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**(4): 927-962; doi:[10.1007/s00531-014-1119-1](http://dx.doi.org/10.1007/s00531-014-1119-1)
 
-**Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ (2015) [A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf). *Geological Magazine* **152**(2): 341-350; doi:[10.1017/S0016756814000272](http://dx.doi.org/10.1017/S0016756814000272)
+[A1](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**(2): 341-350; doi:[10.1017/S0016756814000272](http://dx.doi.org/10.1017/S0016756814000272)
 
-**López-Sánchez MA** (2007) [Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica)](http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF). *Trabajos de Geología* **27**: 97-157
+[A0](http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF) - **López-Sánchez MA** (2007) Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica). *Trabajos de Geología* **27**: 97-157
 
 #### Field Trip guides
 
-Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) [DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011). *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map.
+[FT1](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011) - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map.
 
 #### Meeting proceedings
 
@@ -116,23 +116,23 @@ Developed and maintained by: **Lopez-Sanchez MA** (stable)
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 
 **Strength envelopes**: A Python script to generate crust and lithoshere strenght envelopes  
-Developed and maintained by: **Lopez-Sanchez MA** (currently under heavy development)  
+Developed and maintained by: **Lopez-Sanchez MA** (currently under development)  
 Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 
 **JASPE**: JASPE stands for *Just Another Stereoplot Python Environment*  
-Developed and maintained by: **Lopez-Sanchez MA** (currently under heavy development)  
+Developed and maintained by: **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/JASPE>
 
 **Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
-Developed and maintained by: **Lopez-Sanchez MA**  
+Developed and maintained by: **Lopez-Sanchez MA**  (stable)
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
 **Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analyzed in electron microprobes  
-Developed by: **Lopez-Sanchez MA**  (status: currently abandoned)
+Developed by: **Lopez-Sanchez MA**  (currently abandoned)
 Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
 
-### Training selected courses
+### Selected training courses
 
 **2016** - *Thematic School – Recrystallization Mechanism in Materials*  
 Duration: 5 days (32 hours), Sète, France  
@@ -162,12 +162,12 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Experience in [Python ](https://www.python.org/)programming language and several scientific libraries such as [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/), the version control system Git, and code repositories such as GitHub.
+- **Scientific computing and programming**. Experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/), the version control system Git, and code repositories such as GitHub.
 - **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
 - **Scanning Electron Microscopy** (BSD, **EBSD**); Familiar with the use of **MTEX Matlab toolbox**, *HKL Channel 5* and the *PFch5 script*
 - **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
-- Good theoretical background in understanding experimental data (i.e. statistics, interpolation and regression)
+- Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
 - U-Pb geochronological data treatment
 
@@ -193,7 +193,7 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 
 Graduate teaching assistant from **2009** to **2011** and in **2017** at University of Oviedo
 
-Laboratory sections taught: *Plate Tectonics (20 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
+Laboratory sections taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
 
 Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
@@ -205,10 +205,12 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 
 ## Languages
 
-Spanish (and Galician) mother tongue  
-English (fluent); Portuguese (reading fluently and listening comprehension)
+Spanish and Galician - mother tongue  
+English - fluent
+Portuguese - reading fluently and listening comprehension
+French - elementary proficiency
 
 #
-*Last update*: 2017/11/16  
+*Last update*: 2017/12/14  
 *Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
