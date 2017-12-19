@@ -33,7 +33,7 @@ Github page: <https://github.com/marcoalopez>
 
 ## Education
 
-**Jul 2013** - *Ph.D.* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
+**Jul 2013** - *PhD* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
 Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez  
 **Thesis**: *Análisis tectónico de la Falla de Vivero (Galicia, NW of Spain)*
 
@@ -46,15 +46,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 ### Professional experience (only academic related)
 
-**Jun 2017 - present** - Post-doctoral researcher, Dept. of Geology, University of Oviedo
-
-**Apr 2016 - Dec 2016** - Post-doctoral researcher, Dept. of Geology, University of Oviedo
-
-**Oct 2015 - Nov 2015** - Post-doctoral researcher, Dept. of Geology, University of Oviedo
+**Oct 2015 - Nov 2017** - Post-doctoral researcher, Dept. of Geology, University of Oviedo
 
 **2013 - 2015** - Research assistant (not-paid volunteer), Dept. of Geology, University of Oviedo
 
-**2007 - 2013** - *Ph.D. candidate*, Dept. of Geology, University of Oviedo
+**2007 - 2013** - *PhD candidate*, Dept. of Geology, University of Oviedo
 
 
 ### Fellowship/Awards
@@ -108,26 +104,26 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
 
 
-### Scripts developed and maintained
+### Scripts developed
 
 **GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
-Developed and maintained by: **Lopez-Sanchez MA** (stable)  
+Developed and maintained by **Lopez-Sanchez MA** (stable)  
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 
-**Strength envelopes**: A Python script to generate crust and lithoshere strenght envelopes  
-Developed and maintained by: **Lopez-Sanchez MA** (currently under development)  
+**Strength envelopes**: A Python script to generate crust and lithosphere strength envelopes  
+Developed and maintained by **Lopez-Sanchez MA** (currently under development)  
 Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 
 **JASPE**: JASPE stands for *Just Another Stereoplot Python Environment*  
-Developed and maintained by: **Lopez-Sanchez MA** (under development)  
+Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/JASPE>
 
 **Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
-Developed and maintained by: **Lopez-Sanchez MA**  (stable)
+Developed and maintained by **Lopez-Sanchez MA**  (stable)  
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
 **Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analyzed in electron microprobes  
-Developed by: **Lopez-Sanchez MA**  (currently abandoned)
+Developed by **Lopez-Sanchez MA**  (currently abandoned)  
 Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
 
@@ -145,12 +141,12 @@ Microsoft edx course (DAT204x). [Certificate](https://s3.amazonaws.com/verify.ed
 
 **2013** - *Introduction to computer science and programming using Python*  
 Duration: 210 hours  
-Prof. Eric Grimson, Prof. John Guttag, Dr. Chris Terman and Dr. Larry Rudolph  
+Prof. Eric Grimson, Prof. John Guttag, Dr Chris Terman and Dr Larry Rudolph  
 Massachusetts Institute of Technology edx course (MITx - 6.00x). [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/c32e2dd3fd54496c9c88bb282e34f272/Certificate.pdf)
 
 **2012** - *Scanning Electron Microscopy and its applications to analyses of Rock*s  
 Duration: 30 hours  
-Prof. John Wheeler, Dr. Elisabetta Mariani and Dr. Dan Tatham  
+Prof. John Wheeler, Dr Elisabetta Mariani and Dr Dan Tatham  
 Department of Earth, Ocean and Ecological Sciences, University of Liverpool
 
 **2008** - *Training course in microtectonics*  
@@ -183,7 +179,7 @@ Procesos geológicos modeladores del relieve de la cordillera cantábrica. Proje
 La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-ductile transition in the continental crust in North-western Iberia*). Project led by [Sergio Llana-Fúnez](http://www.geol.uniovi.es/~slf/slf_at_Oviedo/Main.html) *Ref. MICINN-10-CGL2010-14890*
 
 **2007 - 2010**  
-*The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone* (original title in spanish). Project led by Alberto Marcos. *Ref. CGL2006-08822/BTE*
+*The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone* (original title in Spanish). Project led by Alberto Marcos. *Ref. CGL2006-08822/BTE*
 
 
 ## Teaching (at university level)
@@ -210,6 +206,6 @@ Portuguese - reading fluently and listening comprehension
 French - elementary proficiency
 
 #
-*Last update*: 2017/12/14  
-*Copyright © 2017; Road on header image by Kamil Lehmann on Unsplash (CC0)*  
+*Last update*: 2017/12/15  
+*Copyright © 2017; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
