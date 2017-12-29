@@ -2,23 +2,24 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher in the Dept. of Geology at University of Oviedo (Spain). He received his *Ph.D.* in Geology from the University of Oviedo in 2013 supervised by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html). His thesis dealt with the study of a deep crustal-scale shear zone located in the hinterland of the Iberian massif. From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the Sergio Llana-Fúnez research group. So far, Marco has participated in four research projects.
+***Short bio***: Marco is a postdoctoral researcher in [Géosciences Montpellier](http://www.gm.univ-montp2.fr/?lang=fr) (Université de Montpellier - France). He received his *PhD* in Geology from the University of Oviedo (Spain) in 2013 supervised by Sergio Llana-Fúnez, Alberto Marcos and F. J. Martínez. His *PhD* thesis dealt with the study of an ancient crustal-scale shear zone located in the hinterland of the Iberian massif (Variscan orogeny). From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) (Oviedo, Spain) research group and, now, in the [Andrea Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (Montpellier, France) research group. So far, Marco has participated in five research projects.
 
-His research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. Primary interests are rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD techniques, and understanding strain localization in nature. He also has academic interests in the geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing statistics, scientific computing, and programming to create scientific tools.
+Marco research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD techniques, and understanding strain localization in nature. He also has academic interests in geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing scientific computing and programming to create scientific tools.
 
 ## Personal details
 
 **Full name**: Marco Antonio López Sánchez
 
-**Work address**:  
-Departamento de Geología  
-Universidad de Oviedo  
-Jesús Arias de Velasco s/n  
-33005 Oviedo  
-Asturias, Spain  
-Tel: +34 985 103 120 (work)
+**Work address**:   
+Géosciences Montpellier  
+Université de Montpellier  
+Campus Triolet cc060  
+Place Eugène Bataillon  
+34095 Montpellier Cedex05  
+France  
+Tel: *available soon*
 
-**e-mail**: &&&@geol.uniovi.es (replace **&&&** with **malopez**)
+**e-mail**: &&&@outlook.com (replace **&&&** with **marcoalopez**)
 
 ### **On the web**
 
@@ -28,7 +29,6 @@ Orcid-ID: <http://orcid.org/0000-0002-0261-9267>
 Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)  
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
-Microsoft academic: [2116864491](https://academic.microsoft.com/#/detail/2116864491)  
 Github page: <https://github.com/marcoalopez>  
 
 ## Education
@@ -46,9 +46,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 ### Professional experience (only academic related)
 
+**Jan 2018 - present** - Post-doctoral researcher, Géosciences Montpellier, Université de Montpellier
+
 **Oct 2015 - Nov 2017** - Post-doctoral researcher, Dept. of Geology, University of Oviedo
 
-**2013 - 2015** - Research assistant (not-paid volunteer), Dept. of Geology, University of Oviedo
+**2013 - 2015** - Research assistant (non-paid volunteer), Dept. of Geology, University of Oviedo
 
 **2007 - 2013** - *PhD candidate*, Dept. of Geology, University of Oviedo
 
@@ -65,11 +67,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 ### Publications
 
-#### In review, accepted or available as a pre-print
+#### **In review, accepted or available as a pre-print**
 
-**Lopez-Sanchez MA** and Llana-Fúnez S. *Ultramylonite Formation in Quartz-feldspathic Rocks within the Semi-brittle Field (Vivero fault, NW Spain)*. Submitted to the Journal of Geophysical Research: Solid Earth
+**Lopez-Sanchez MA** and Llana-Fúnez S. *Ultramylonite Formation in Quartzfeldspathic Rocks within the Semi-brittle Field (Vivero fault, NW Spain)*. In review
 
-#### Published or in press (citable) peer-reviewed publications
+#### **Published or in press (citable) peer-reviewed publications**
 
 [A5](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; doi: [10.1016/j.jsg.2016.10.008](http://dx.doi.org/10.1016/j.jsg.2016.10.008)
 
@@ -87,10 +89,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 [FT1](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011) - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map.
 
-#### Meeting proceedings
+#### **Meeting proceedings**
 
 - 2017 - Llana-Fúnez S, Alonso JL, Caldera N and **Lopez-Sanchez MA**. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain). *Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Inverness, Scotland)*  
-
 - 2017 - Llana-Fúnez S, de Paola N, Pozzi G and **Lopez-Sanchez MA**. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). *European Geoscience Union General Assembly*  
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Oral). *European Geoscience Union General Assembly*   
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Oral). *Congreso Geológico Nacional de España*  
@@ -111,7 +112,7 @@ Developed and maintained by **Lopez-Sanchez MA** (stable)
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 
 **Strength envelopes**: A Python script to generate crust and lithosphere strength envelopes  
-Developed and maintained by **Lopez-Sanchez MA** (currently under development)  
+Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 
 **JASPE**: JASPE stands for *Just Another Stereoplot Python Environment*  
@@ -206,6 +207,6 @@ Portuguese - reading fluently and listening comprehension
 French - elementary proficiency
 
 #
-*Last update*: 2017/12/15  
+*Last update*: 2017/12/29
 *Copyright © 2017; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
-*Hosted on GitHub Pages — This website was created with [Typora](https://typora.io/)*
+*Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
