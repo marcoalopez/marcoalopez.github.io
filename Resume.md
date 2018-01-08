@@ -2,9 +2,9 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher in [Géosciences Montpellier](http://www.gm.univ-montp2.fr/?lang=fr) (Université de Montpellier - France). He received his *PhD* in Geology from the University of Oviedo (Spain) in 2013 supervised by Sergio Llana-Fúnez, Alberto Marcos and F. J. Martínez. His *PhD* thesis dealt with the study of an ancient crustal-scale shear zone located in the hinterland of the Iberian massif (Variscan orogeny). From 2013 till now, he combined jobs outside academia as Geology teacher and self-employed geology consultant with post-doctoral training in the [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) (Oviedo, Spain) research group and, now, in the [Andrea Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) (Montpellier, France) research group. So far, Marco has participated in five research projects.
+***Short bio***: Marco is a postdoctoral researcher in [Géosciences Montpellier](http://www.gm.univ-montp2.fr/?lang=fr) (France). He received his *PhD* in Geology from the University of Oviedo (Spain) in 2013 with the study of an ancient crustal-scale shear zone located in the hinterland of the Iberian massif (Variscan orogeny). Until the end of 2017, he combined jobs outside academia as a Geology teacher and self-employed geologist with post-doctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) (Oviedo, Spain). Since 2018, he works as a full-time researcher in [Andréa Tommasi's](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) research group located in Montpellier (France). So far, Marco has participated in five research projects. At the moment, he puts all his efforts in the development of the [IDEA project](https://github.com/marcoalopez/IDEAproject).
 
-Marco research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD techniques, and understanding strain localization in nature. He also has academic interests in geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing scientific computing and programming to create scientific tools.
+Marco research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD techniques, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing [scientific computing and programming](https://github.com/marcoalopez) to create scientific tools.
 
 ## Personal details
 
@@ -29,12 +29,13 @@ Orcid-ID: <http://orcid.org/0000-0002-0261-9267>
 Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)  
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
-Github page: <https://github.com/marcoalopez>  
+Github page: <https://github.com/marcoalopez>   
+Twitter: [@lsmarcoa](https://twitter.com/lsmarcoa)
 
 ## Education
 
 **Jul 2013** - *PhD* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
-Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez  
+Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J. Martínez  
 **Thesis**: *Análisis tectónico de la Falla de Vivero (Galicia, NW of Spain)*
 
 **Sep 2007** - DEA (Masters of Science - *M.Sc.*) in Geology, Department of Geology, University of Oviedo. Project advisor: Prof. A. Marcos
@@ -46,13 +47,13 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. A. Marcos and F. J. Martínez
 
 ### Professional experience (only academic related)
 
-**Jan 2018 - present** - Post-doctoral researcher, Géosciences Montpellier, Université de Montpellier
+**Jan 2018 - present** - Postdoctoral researcher, Géosciences Montpellier, Université de Montpellier
 
-**Oct 2015 - Nov 2017** - Post-doctoral researcher, Dept. of Geology, University of Oviedo
+**Oct 2015 - Nov 2017** - Postdoctoral researcher, Dpto. de Geología, Universidad de Oviedo
 
-**2013 - 2015** - Research assistant (non-paid volunteer), Dept. of Geology, University of Oviedo
+**2013 - 2015** - Research assistant (non-paid volunteer), Dpto. de Geología, Universidad de Oviedo
 
-**2007 - 2013** - *PhD candidate*, Dept. of Geology, University of Oviedo
+**2007 - 2013** - *PhD candidate*, Departamento de Geología, Universidad de Oviedo
 
 
 ### Fellowship/Awards
@@ -171,7 +172,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 ### Participation in Research Projects
 
 **2016 - present**  
-Cataclasis y fracturación en rocas de la corteza continental (*Cataclasis and rock fracturing in the continental crust*). Project led by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) Ref. MINECO-15-CGL2014-53388-P
+Cataclasis y fracturación en rocas de la corteza continental (*Cataclasis and rock fracturing in the continental crust*). Project led by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) Ref. *MINECO-15-CGL2014-53388-P*
 
 **2015**  
 Procesos geológicos modeladores del relieve de la cordillera cantábrica. Project led by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) Ref. *FC-15-GRUPIN14-44*
@@ -187,7 +188,7 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 
 **Accredited as an assistant teacher by the National Agency for Quality Assessment and Accreditation of Spain (ANECA) in 2016**
 
-Graduate teaching assistant from **2009** to **2011** and in **2017** at University of Oviedo
+Graduate teaching assistant from **2009** to **2011** and in **2017** at Universidad de Oviedo
 
 Laboratory sections taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
 
@@ -203,10 +204,9 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 
 Spanish and Galician - mother tongue  
 English - fluent  
-Portuguese - reading fluently and listening comprehension  
-French - elementary proficiency
+French and Portuguese - elementary proficiency  
 
 #
-*Last update*: 2017/12/29
-*Copyright © 2017; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
+*Last update*: 20178/01/08
+*Copyright © 2018; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
