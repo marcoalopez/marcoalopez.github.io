@@ -19,8 +19,8 @@ Place Eugène Bataillon
 France  
 Tel: *available soon*
 
-**e-mails**:
-&&&@umontpellier.fr (replace &&& with *marco-antonio.lopez-sanchez*)
+**e-mails**:  
+&&&@umontpellier.fr (replace &&& with *marco-antonio.lopez-sanchez*)  
 &&&@outlook.com (replace &&& with *marcoalopez*)
 
 ### **On the web**
