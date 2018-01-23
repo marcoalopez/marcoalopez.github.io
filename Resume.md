@@ -19,7 +19,9 @@ Place Eugène Bataillon
 France  
 Tel: *available soon*
 
-**e-mail**: &&&@outlook.com (replace **&&&** with **marcoalopez**)
+**e-mails**:
+&&&@umontpellier.fr (replace &&& with *marco-antonio.lopez-sanchez*)
+&&&@outlook.com (replace &&& with *marcoalopez*)
 
 ### **On the web**
 
@@ -207,6 +209,6 @@ English - fluent
 French and Portuguese - elementary proficiency  
 
 #
-*Last update*: 20178/01/08
+*Last update*: 2018/01/23
 *Copyright © 2018; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
