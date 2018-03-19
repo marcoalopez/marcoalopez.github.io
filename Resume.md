@@ -11,17 +11,17 @@ Marco research interests range from different aspects of geodynamics, from micro
 **Full name**: Marco Antonio López Sánchez
 
 **Work address**:   
-Géosciences Montpellier  
+Géosciences Montpellier - CNRS  
 Université de Montpellier  
 Campus Triolet cc060  
 Place Eugène Bataillon  
 34095 Montpellier Cedex05  
 France  
-Tel: *available soon*
+Tel: (33) 4 67 14 30 64
 
 **e-mails**:  
-&&&@umontpellier.fr (replace &&& with *marco-antonio.lopez-sanchez*)  
-&&&@outlook.com (replace &&& with *marcoalopez*)
+&&&@umontpellier.fr (replace ampersand symbols with *marco-antonio.lopez-sanchez*)  
+&&&@outlook.com (replace ampersand symbols with *marcoalopez*)
 
 ### **On the web**
 
@@ -32,7 +32,7 @@ Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Github page: <https://github.com/marcoalopez>   
-Twitter: [@lsmarcoa](https://twitter.com/lsmarcoa)
+At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)  
 
 ## Education
 
@@ -72,7 +72,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **In review, accepted or available as a pre-print**
 
-**Lopez-Sanchez MA** and Llana-Fúnez S. *Ultramylonite Formation in Quartzfeldspathic Rocks within the Semi-brittle Field (Vivero fault, NW Spain)*. In review
+**Lopez-Sanchez MA** and Llana-Fúnez S. *A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain)*. In review
+
+**Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ. *The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone)*. In review
 
 #### **Published or in press (citable) peer-reviewed publications**
 
@@ -209,6 +211,6 @@ English - fluent
 French and Portuguese - elementary proficiency  
 
 #
-*Last update*: 2018/01/23
+*Last update*: 2018/03/20
 *Copyright © 2018; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
