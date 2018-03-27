@@ -2,7 +2,7 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher in [Géosciences Montpellier](http://www.gm.univ-montp2.fr/?lang=fr) (France). He received his *PhD* in Geology from the University of Oviedo (Spain) in 2013 with the study of an ancient crustal-scale shear zone located in the hinterland of the Iberian massif (Variscan orogeny). Until the end of 2017, he combined jobs outside academia as a Geology teacher and self-employed geologist with post-doctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) (Oviedo, Spain). Since 2018, he works as a full-time researcher in [Andréa Tommasi's](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) research group located in Montpellier (France). So far, Marco has participated in five research projects. At the moment, he puts all his efforts in the development of the [IDEA project](https://github.com/marcoalopez/IDEAproject).
+***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/?lang=fr) (France). He holds a *PhD* in Geology from the University of Oviedo in Spain with the study of an fossil crustal-scale shear zone located in the hinterland of the Iberian massif (Variscan orogeny). Until the end of 2017, he combined jobs outside academia as a Geology teacher and self-employed geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) at Oviedo (Spain). Since 2018, he works as a full-time researcher in [Andréa Tommasi's](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) research group at Montpellier. So far, Marco has participated in five research projects. At the moment, he puts all his efforts in the development of the [IDEA project](https://github.com/marcoalopez/IDEAproject).
 
 Marco research interests range from different aspects of geodynamics, from microscopic to orogen-scale processes. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD techniques, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. Marco also enjoys doing [scientific computing and programming](https://github.com/marcoalopez) to create scientific tools.
 
@@ -20,8 +20,8 @@ France
 Tel: (33) 4 67 14 30 64
 
 **e-mails**:  
-&&&@umontpellier.fr (replace ampersand symbols with *marco-antonio.lopez-sanchez*)  
-&&&@outlook.com (replace ampersand symbols with *marcoalopez*)
+&&& @umontpellier.fr (replace ampersand symbols with *marco-antonio.lopez-sanchez*)  
+&&& @outlook.com (replace ampersand symbols with *marcoalopez*)
 
 ### **On the web**
 
@@ -163,9 +163,9 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R programming language](https://www.r-project.org/), the version control system Git, and code repositories such as GitHub.
+- **Scientific computing and programming**. Experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab]() programming languages, version control systems such as Git, and code repositories such as GitHub.
 - **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
-- **Scanning Electron Microscopy** (BSD, **EBSD**); Familiar with the use of **MTEX Matlab toolbox**, *HKL Channel 5* and the *PFch5 script*
+- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**); Familiar with the use of EBSD software including **MTEX Matlab toolbox**, *AZtecHKL/Channel 5*, and the *PFch5 script*
 - **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
@@ -208,9 +208,9 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 
 Spanish and Galician - mother tongue  
 English - fluent  
-French and Portuguese - elementary proficiency  
+French and Portuguese - elementary 
 
 #
-*Last update*: 2018/03/20
+*Last update*: 2018/03/27
 *Copyright © 2018; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
