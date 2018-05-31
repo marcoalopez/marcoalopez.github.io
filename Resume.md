@@ -21,7 +21,6 @@ Tel: (33) 4 67 14 30 64
 
 **e-mails**:  
 &&& @umontpellier.fr (replace ampersand symbols with *marco-antonio.lopez-sanchez*)  
-&&& @outlook.com (replace ampersand symbols with *marcoalopez*)
 
 ### **On the web**
 
@@ -32,7 +31,7 @@ Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Github page: <https://github.com/marcoalopez>   
-At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)  
+At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
 
 ## Education
 
@@ -74,7 +73,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 **Lopez-Sanchez MA** and Llana-Fúnez S. *A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain)*. In review
 
-**Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ. *The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone)*. In review
+**Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ. *The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone)*. Accepted with minor modifications
 
 #### **Published or in press (citable) peer-reviewed publications**
 
@@ -120,7 +119,7 @@ Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 
-**JASPE**: JASPE stands for *Just Another Stereoplot Python Environment*  
+**JASPE**: *Just Another Stereoplot (in a) Python Environment*  
 Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/JASPE>
 
@@ -165,7 +164,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 - **Scientific computing and programming**. Experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab]() programming languages, version control systems such as Git, and code repositories such as GitHub.
 - **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
-- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**); Familiar with the use of EBSD software including **MTEX Matlab toolbox**, *AZtecHKL/Channel 5*, and the *PFch5 script*
+- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**). **MTEX Matlab toolbox**, *AZtecHKL/Channel 5*, and the *PFch5 script*
 - **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
@@ -175,7 +174,10 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Participation in Research Projects
 
-**2016 - present**  
+**2018 - present**
+ANR DREAM - Dynamic REcrystallization in Anisotropic Materials. Project led by Maurine Montagnat. Ref. *ANR-13-BS09-0001-01* 
+
+**2016 - 2017**  
 Cataclasis y fracturación en rocas de la corteza continental (*Cataclasis and rock fracturing in the continental crust*). Project led by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) Ref. *MINECO-15-CGL2014-53388-P*
 
 **2015**  
@@ -210,7 +212,8 @@ Spanish and Galician - mother tongue
 English - fluent  
 French and Portuguese - elementary 
 
-#
-*Last update*: 2018/03/27
+#  
+
+*Last update*: 2018/05/30
 *Copyright © 2018; Header image (the road) by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
