@@ -2,7 +2,7 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: I am a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *Ph.D.* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, I am working with [Andréa Tommasi's](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier. So far, I have participated in five research projects, and now I put all my efforts into the development of the [IDEA project](https://github.com/marcoalopez/IDEAproject).
+***Short bio***: I am a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *Ph.D.* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, I am working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier. So far, I have participated in five research projects, and now I put all my efforts into the development of the [IDEA project](https://github.com/marcoalopez/IDEAproject).
 
 My research interests include different aspects of geodynamics, from microscopic to orogen-scale processes. My primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and the creation of [tools for doing science](https://github.com/marcoalopez).
 
@@ -73,7 +73,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 **Lopez-Sanchez MA** and Llana-Fúnez S. *A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain)*. In review
 
-**Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ. *The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone)*. Accepted with minor modifications
+**Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ. *The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone)*. Accepted in *Geological Journal*
 
 #### **Published or in press (citable) peer-reviewed publications**
 
@@ -214,6 +214,6 @@ French and Portuguese - elementary
 
 #  
 
-*Last update*: 2018/06/01  
+*Last update*: 2018/06/13  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
