@@ -75,9 +75,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **Published or in press (citable) peer-reviewed publications**
 
-[A7](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/) - **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics in press*; <https://doi.org/10.1016/j.tecto.2018.07.026> 
+[A7](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/) - **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics - in press*; <https://doi.org/10.1016/j.tecto.2018.07.026> 
 
-[A6](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2018) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **X**: 1-16; https://doi.org/10.1002/gj.3283
+[A6](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2018) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal - in press*; https://doi.org/10.1002/gj.3283
 
 [A5](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) - **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; https://doi.org/10.1016/j.jsg.2016.10.008
 
@@ -216,6 +216,6 @@ French and Portuguese - elementary
 
 #  
 
-*Last update*: 2018/07/20  
+*Last update*: 2018/08/23  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
