@@ -71,9 +71,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **In review or available as a pre-print**
 
-**Lopez-Sanchez MA**. *GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size*. In review in *The Journal of Open Source Software*  [pre-print](https://github.com/openjournals/joss-papers/blob/joss.00863/joss.00863/10.21105.joss.00863.pdf)
+%-%-% 
 
 #### **Published or in press (citable) peer-reviewed publications**
+
+**Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**(30): 863, https://doi.org/10.21105/joss.00863 [PDF](http://joss.theoj.org/papers/10.21105/joss.00863)
 
 **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026> [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf) 
 
@@ -216,6 +218,6 @@ French and Portuguese - elementary
 
 #  
 
-*Last update*: 2018/08/23  
+*Last update*: 2018/10/07  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
