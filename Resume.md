@@ -30,6 +30,7 @@ Orcid-ID: <http://orcid.org/0000-0002-0261-9267>
 Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)  
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
+Publons: [1513594](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
 At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
 
