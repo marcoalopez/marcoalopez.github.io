@@ -2,9 +2,9 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. He holds a *PhD* in Geology from the University of Oviedo in Spain. In the past, he combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, he is working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier, where his research focuses on characterisation of deformation microstructures and annealing processes using in-situ monitoring.
+***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. He holds a *PhD* in Geology from the University of Oviedo in Spain. In the past, he combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, he is working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier, where his research focuses on characterisation of deformation microstructure and annealing processes using in-situ monitoring in an EBSD system.
 
-Marco research interests include different aspects of geodynamic processes from microscopic to orogen-scale. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using image analysis and EBSD, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and [a few other cool things](https://github.com/marcoalopez).
+Marco research interests include different aspects of geodynamic processes from microscopic to orogen-scale. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using EBSD and image analysis, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and a few other [cool things](https://github.com/marcoalopez).
 
 ## Personal details
 
@@ -20,7 +20,7 @@ France
 Tel: (33) 4 67 14 30 64
 
 **e-mails**:  
-&&& @umontpellier.fr (replace ampersand symbols with *marco-antonio.lopez-sanchez*)  
+&&& @umontpellier.fr (replace the triple ampersand symbol with *marco-antonio.lopez-sanchez*)  
 
 ### **On the web**
 
@@ -114,11 +114,15 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
 
 
-### Scripts developed
+### Selected scripts & codes
 
 **GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
 Developed and maintained by **Lopez-Sanchez MA** (stable)  
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
+
+**mtex_scripts**: matlab scripts for use with the MTEX toolbox  
+Developed and maintained by **Lopez-Sanchez MA** (under development)  
+Info. & download: <https://github.com/marcoalopez/mtex_scripts>
 
 **Strength envelopes**: A Python script to generate crust and lithosphere strength envelopes  
 Developed and maintained by **Lopez-Sanchez MA** (under development)  
@@ -167,9 +171,9 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab]() programming languages, version control systems such as Git, and code repositories such as GitHub.
+- **Scientific computing and programming**. Wide experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab]() programming languages, version control systems such as Git, and code repositories such as GitHub.
 - **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
-- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**). **MTEX Matlab toolbox**, *AZtecHKL/Channel 5*, and the *PFch5 script*
+- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**). Wide experience using the **MTEX Matlab toolbox**. Also *AZtecHKL/Channel 5*, and the *PFch5 script*
 - **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
@@ -219,6 +223,6 @@ French and Portuguese - elementary
 
 #  
 
-*Last update*: 2018/10/07  
+*Last update*: 2018/12/16  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
