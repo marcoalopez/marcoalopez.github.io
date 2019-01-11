@@ -2,9 +2,9 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. He holds a *PhD* in Geology from the University of Oviedo in Spain. In the past, he combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, he is working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier, where his research focuses on characterisation of deformation microstructure and annealing processes using in-situ monitoring in an EBSD system.
+***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. He holds a *PhD* in Geology from the University of Oviedo in Spain. In the past, he combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, he is working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier, where his research focuses on characterisation of microstructure and texture during deformation and annealing processes using in-situ monitoring in an EBSD or other systems. Although in the past I worked mainly with quartzofeldspathic rocks, currently the materials I work with are olivine, ice and magnesium.
 
-Marco research interests include different aspects of geodynamic processes from microscopic to orogen-scale. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure using EBSD and image analysis, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and a few other [cool things](https://github.com/marcoalopez).
+Marco research interests include different aspects of geodynamic processes from microscopic to orogen-scale. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure/texture using EBSD and image analysis, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and a few other cool [things](https://github.com/marcoalopez).
 
 ## Personal details
 
@@ -223,6 +223,6 @@ French and Portuguese - elementary
 
 #  
 
-*Last update*: 2018/12/16  
+*Last update*: 2019/01/11  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
