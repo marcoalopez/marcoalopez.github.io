@@ -2,7 +2,7 @@
 
 # *PhD* Marco A. Lopez-Sanchez
 
-***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. He holds a *PhD* in Geology from the University of Oviedo in Spain. In the past, he combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) located in Oviedo. Since the beginning of 2018, he is working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier, where his research focuses on characterisation of microstructure and texture during deformation and annealing processes using in-situ monitoring in an EBSD or other systems. Although in the past I worked mainly with quartzofeldspathic rocks, currently the materials I work with are olivine, ice and magnesium.
+***Short bio***: Marco is a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. He holds a *PhD* in Geology from the University of Oviedo in Spain. In the past, he combined jobs outside the academy as a Geology teacher and freelance geologist with postdoctoral training in the research group of [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html). Since the beginning of 2018, he is working with [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) in the *Manteau et Interfaces* research group in Montpellier, where his research focuses on characterisation of microstructure and texture during deformation and annealing processes using in-situ monitoring. Although in the past I worked mainly with quartzfeldspathic rocks, currently the materials I work with are olivine, ice, and magnesium.
 
 Marco research interests include different aspects of geodynamic processes from microscopic to orogen-scale. His primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure/texture using EBSD and image analysis, and understanding strain localization in nature. Other interests are geological mapping and evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and a few other cool [things](https://github.com/marcoalopez).
 
@@ -58,7 +58,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 **2007 - 2013** - *PhD candidate*, Departamento de Geología, Universidad de Oviedo
 
 
-### Fellowship/Awards
+### Fellowships/Awards
 
 2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie Actions 7th FW) (2 years)
 
@@ -67,6 +67,12 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016
 
 2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years)
+
+### Scientific activities as visitor researcher
+
+2019 - **Grenoble (France)**. Duration: 1.5 months. Experimental ice deformation using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
+
+2018 - **Saint-Étienne (France)**. Duration: 1 week. High temperature experimental deformation of Magnesium alloys (channel-die compression rig) at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (collab. R. Quey).
 
 ### Publications
 
@@ -100,6 +106,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **Meeting proceedings**
 
+- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD. *Final CREEP workshop (Les Houches - France)*
 - 2017 - Llana-Fúnez S, Alonso JL, Caldera N and **Lopez-Sanchez MA**. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain). *Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Inverness, Scotland)*  
 - 2017 - Llana-Fúnez S, de Paola N, Pozzi G and **Lopez-Sanchez MA**. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). *European Geoscience Union General Assembly*  
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Oral). *European Geoscience Union General Assembly*   
@@ -140,8 +147,12 @@ Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 Developed by **Lopez-Sanchez MA**  (currently abandoned)  
 Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
-
 ### Selected training courses
+
+**2018** - *Thematic School – Recrystallization Mechanism in Materials*  
+Duration: 3 days, Saint-Étienne, France  
+Coordinator: Maurine Montagnat  
+Organized by the CNRS "Groupement de Recherche" on Recrystallization (GDR3436)
 
 **2016** - *Thematic School – Recrystallization Mechanism in Materials*  
 Duration: 5 days (32 hours), Sète, France  
@@ -171,10 +182,15 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Wide experience with [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab]() programming languages, version control systems such as Git, and code repositories such as GitHub.
-- **Image analysis** ([ImageJ](http://developer.imagej.net/), Photoshop). Image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
-- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**). Wide experience using the **MTEX Matlab toolbox**. Also *AZtecHKL/Channel 5*, and the *PFch5 script*
-- **Grain size analysis**. I use my own tools/scripts. See an example in <http://marcoalopez.github.io/GrainSizeTools/>
+- **Scientific computing and programming**. Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab](), version control systems such as Git, and code repositories such as GitHub.
+- **Image acquisition and analysis**.
+  - Good theoretical background and practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) knowledge (for raw image extraction).
+  - Experience using [ImageJ](http://developer.imagej.net/) and [Scikit-Image](https://scikit-image.org/) (Python library) for image analysis, as well as developing my own codes. Noise reduction methods, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis. For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
+  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns (via image autocorrelation). DIC software's used: [DICe](https://github.com/dicengine/dice), 7D and [DICToolbox](https://github.com/ThomasChauve/DICToolbox).
+- **Experimental deformation**.  Experience in experimental deformation using in-situ monitoring. Experience in sample preparation (ice, magnesium, rocks). Basic experience with welding and Labview engineering software.
+- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**) data treatment. 
+  - Wide experience using the **MTEX Matlab toolbox**. I contributed to the MTEX through community scripts. See also https://github.com/marcoalopez/mtex_scripts
+  - Others: *AZtecHKL/Channel 5* and *PFch5 script*
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
@@ -223,6 +239,6 @@ French and Portuguese - elementary
 
 #  
 
-*Last update*: 2019/01/11  
+*Last update*: 2019/01/25  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
