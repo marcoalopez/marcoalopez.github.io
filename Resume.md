@@ -151,12 +151,11 @@ Info. & download: <https://github.com/marcoalopez/image_analysis>
 Developed by **Lopez-Sanchez MA**  (currently abandoned)  
 Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
-### Selected training courses
+### Selected training courses / workshops
 
-**2018** - *Thematic School – Recrystallization Mechanism in Materials*  
-Duration: 3 days, Saint-Étienne, France  
-Coordinator: Maurine Montagnat  
-Organized by the CNRS "Groupement de Recherche" on Recrystallization (GDR3436)
+**2018-19** - *CREEP (Complex RhEologies in Earth dynamics and industrial Processes) final workshop*  
+Duration: 5 days, [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France  
+Coordinator: Andrea Tommasi  
 
 **2016** - *Thematic School – Recrystallization Mechanism in Materials*  
 Duration: 5 days (32 hours), Sète, France  
