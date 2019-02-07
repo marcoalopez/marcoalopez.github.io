@@ -82,21 +82,29 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **Published or in press (citable) peer-reviewed publications**
 
+**2018**
+
 [PDF-08](http://joss.theoj.org/papers/10.21105/joss.00863) **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**(30): 863, https://doi.org/10.21105/joss.00863  
 
 [PDF-07](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026>  
 
-[PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2018) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal - in press*; https://doi.org/10.1002/gj.3283  
+[PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2018) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* 2018;1-16. https://doi.org/10.1002/gj.3283  
+
+**2016**
 
 [PDF-05](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; https://doi.org/10.1016/j.jsg.2016.10.008  
 
 [PDF-04](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf) **Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, and Llana-Fúnez S. (2016) An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain). *Journal of the Geological Society* **173**: 282-291; https://doi.org/10.1144/jgs2015-071  
+
+**2015**
 
 [PDF-03](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495, Special issue: Deformation mechanisms and ductile strain localization in the lithosphere; https://doi.org/10.5194/se-6-475-2015  
 
 [PDF-02](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**(4): 927-962; https://doi.org/10.1007/s00531-014-1119-1  
 
 [PDF-01](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**(2): 341-350; https://doi.org/10.1017/S0016756814000272  
+
+**pre-2015**
 
 **López-Sánchez MA** (2007) Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica). *Trabajos de Geología* **27**: 97-157 [link](http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF)
 
@@ -153,10 +161,10 @@ Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://
 
 ### Selected training courses / workshops
 
-**2018-19** - *4th Innovative Training Network CREEP workshop (EU-H2020)*  
+**2019** - *4th Innovative Training Network CREEP workshop (EU-H2020)*  
 Duration: 5 days, [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France  
-Coordinator: Andrea Tommasi
-This was a workshop focused on the rheology of geological materials. For details see [here](https://www.houches-school-physics.com/program/program-2019/4th-innovative-training-network-creep-workshop-404067.kjsp?RH=1529674446765)
+Coordinator: Andrea Tommasi  
+Workshop focused on the rheology of geological materials. For details see [here](https://www.houches-school-physics.com/program/program-2019/4th-innovative-training-network-creep-workshop-404067.kjsp?RH=1529674446765)
 
 **2016** - *Thematic School – Recrystallization Mechanism in Materials*  
 Duration: 5 days (32 hours), Sète, France  
@@ -190,10 +198,10 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 - **Image acquisition and analysis**.
   - Good theoretical background and practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) knowledge (for raw image extraction).
   - Experience using [ImageJ](http://developer.imagej.net/) and [Scikit-Image](https://scikit-image.org/) (Python library) for image analysis, as well as developing my own codes. Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis. For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
-  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns (via image autocorrelation). DIC software's used: [DICe](https://github.com/dicengine/dice), 7D and [DICToolbox](https://github.com/ThomasChauve/DICToolbox).
+  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns (via image autocorrelation). DIC software's used: [DICe](https://github.com/dicengine/dice).
 - **Experimental deformation**.  Experience in experimental deformation including in-situ monitoring. Experience in sample preparation (ice, magnesium, rocks). Basic experience with LabVIEW engineering software. Welding skills.
 - **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**) data treatment. 
-  - **Wide experience using the MTEX Matlab toolbox**. I contributed to the MTEX through community scripts. See also https://github.com/marcoalopez/mtex_scripts
+  - **Wide experience using the MTEX Matlab toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
   - Others: *AZtecHKL/Channel 5*, *PFch5 script*, and own codes.
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
@@ -243,6 +251,6 @@ French and Portuguese - assez pour me faire comprendre et survivre! :)
 
 #  
 
-*Last update*: 2019/02/02  
+*Last update*: 2019/02/07  
 *Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
