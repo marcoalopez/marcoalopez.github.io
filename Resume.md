@@ -26,11 +26,10 @@ Tel: (33) 4 67 14 30 64
 
 Personal website: <https://marcoalopez.github.io/>  
 CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)  
-Orcid-ID: <http://orcid.org/0000-0002-0261-9267>  
-Research-ID: [A-4290-2015](http://www.researcherid.com/rid/A-4290-2015)  
+Orcid-ID: <http://orcid.org/0000-0002-0261-9267>   
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
-Publons: [1513594](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
+Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
 At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
 
@@ -194,12 +193,12 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ### Analytical/technical skills
 
-- **Scientific computing and programming**. Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab](), version control systems such as Git, and code repositories such as GitHub.
+- **Scientific computing and programming**. Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab](), unit testing, version control systems such as Git, and code repositories such as GitHub.
 - **Image acquisition and analysis**.
-  - Good theoretical background and practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) knowledge (for raw image extraction).
+  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) knowledge (for raw image extraction).
   - Experience using [ImageJ](http://developer.imagej.net/) and [Scikit-Image](https://scikit-image.org/) (Python library) for image analysis, as well as developing my own codes. Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis. For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
-  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns (via image autocorrelation). DIC software's used: [DICe](https://github.com/dicengine/dice).
-- **Experimental deformation**.  Experience in experimental deformation including in-situ monitoring. Experience in sample preparation (ice, magnesium, rocks). Basic experience with LabVIEW engineering software. Welding skills.
+  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own Python codes.
+- **Experimental deformation**.  Experience using in-situ EBSD monitoring during annealing and deformation. Experience in sample preparation (ice, magnesium, rocks). Basic experience with LabVIEW engineering software. Welding skills.
 - **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**) data treatment. 
   - **Wide experience using the MTEX Matlab toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
   - Others: *AZtecHKL/Channel 5*, *PFch5 script*, and own codes.
@@ -251,6 +250,6 @@ French and Portuguese - assez pour me faire comprendre et survivre! :)
 
 #  
 
-*Last update*: 2019/02/07  
-*Copyright © 2018; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
+*Last update*: 2019/05/08  
+*Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
