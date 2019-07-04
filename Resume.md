@@ -87,7 +87,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 [PDF-07](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026>  
 
-[PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2018) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* 2018;1-16. https://doi.org/10.1002/gj.3283  
+[PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283  
 
 **2016**
 
@@ -250,6 +250,6 @@ French and Portuguese - assez pour me faire comprendre et survivre! :)
 
 #  
 
-*Last update*: 2019/05/08  
+*Last update*: 2019/07/04  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
