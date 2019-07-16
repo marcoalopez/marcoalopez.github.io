@@ -48,7 +48,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### Professional experience (only academic related)
 
-**2018 - present** - Postdoctoral researcher, Géosciences Montpellier, Université de Montpellier
+**2018 - present** - Postdoctoral researcher, Géosciences Montpellier & CNRS, Université de Montpellier
 
 **2015 - 2017** - Postdoctoral researcher, Dpto. de Geología, Universidad de Oviedo
 
@@ -81,13 +81,15 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **Published or in press (citable) peer-reviewed publications**
 
+**2019**
+
+[PDF-08](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283  
+
 **2018**
 
-[PDF-08](http://joss.theoj.org/papers/10.21105/joss.00863) **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**(30): 863, https://doi.org/10.21105/joss.00863  
+[PDF-07](http://joss.theoj.org/papers/10.21105/joss.00863) **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**(30): 863, https://doi.org/10.21105/joss.00863  
 
-[PDF-07](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026>  
-
-[PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283  
+[PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026>  
 
 **2016**
 
@@ -103,7 +105,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 [PDF-01](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**(2): 341-350; https://doi.org/10.1017/S0016756814000272  
 
-**pre-2015**
+**Other papers**
 
 **López-Sánchez MA** (2007) Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica). *Trabajos de Geología* **27**: 97-157 [link](http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF)
 
@@ -113,7 +115,14 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### **Meeting proceedings**
 
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD. *Final CREEP workshop (Les Houches - France)*
+- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD meting (Grenoble, France)*
+
+- 2019 - **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+
+- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Oral). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+- 2019 - Cárdenes V, **Lopez-Sanchez MA**, Barou, F, Olona, J and Llana-Fúnez S. Seismic anisotropy in fine-grained slates from NW Spain (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+
+- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD (poster). *Final CREEP workshop (Les Houches - France)*
 - 2017 - Llana-Fúnez S, Alonso JL, Caldera N and **Lopez-Sanchez MA**. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain). *Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Inverness, Scotland)*  
 - 2017 - Llana-Fúnez S, de Paola N, Pozzi G and **Lopez-Sanchez MA**. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). *European Geoscience Union General Assembly*  
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Oral). *European Geoscience Union General Assembly*   
@@ -131,31 +140,24 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 ### Selected scripts & codes
 
 **GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
-Developed and maintained by **Lopez-Sanchez MA** (stable)  
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 
 **mtex_scripts**: matlab scripts for use with the MTEX toolbox  
-Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/mtex_scripts>
 
 **Strength envelopes**: A Python script to generate crust and lithosphere strength envelopes  
-Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 
 **JASPE**: *Just Another Stereoplot (in a) Python Environment*  
-Developed and maintained by **Lopez-Sanchez MA** (under development)  
 Info. & download: <https://github.com/marcoalopez/JASPE>
 
 **Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
-Developed and maintained by **Lopez-Sanchez MA**  (stable)  
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
 **Image analysis**: Python code snippets for image analysis  
-Developed and maintained by **Lopez-Sanchez MA**  (under development)  
 Info. & download: <https://github.com/marcoalopez/image_analysis>
 
-**Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analyzed in electron microprobes  
-Developed by **Lopez-Sanchez MA**  (currently abandoned)  
+**Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analysed in electron microprobes  
 Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
 ### Selected training courses / workshops
@@ -195,15 +197,15 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 - **Scientific computing and programming**. Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab](), unit testing, version control systems such as Git, and code repositories such as GitHub.
 - **Image acquisition and analysis**.
-  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) knowledge (for raw image extraction).
-  - Experience using [ImageJ](http://developer.imagej.net/) and [Scikit-Image](https://scikit-image.org/) (Python library) for image analysis, as well as developing my own codes. Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis. For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
+  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) for raw image extraction.
+  - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) for image analysis, as well as developing my own codes. Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis. For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
   - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own Python codes.
 - **Experimental deformation**.  Experience using in-situ EBSD monitoring during annealing and deformation. Experience in sample preparation (ice, magnesium, rocks). Basic experience with LabVIEW engineering software. Welding skills.
 - **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**) data treatment. 
   - **Wide experience using the MTEX Matlab toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
   - Others: *AZtecHKL/Channel 5*, *PFch5 script*, and own codes.
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
-- Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression)
+- Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
 - U-Pb geochronological data treatment
 
@@ -250,6 +252,6 @@ French and Portuguese - assez pour me faire comprendre et survivre! :)
 
 #  
 
-*Last update*: 2019/07/04  
+*Last update*: 2019/07/16  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
