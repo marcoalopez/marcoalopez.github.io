@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.jpg)
+![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.png)
 
 # *PhD* Marco A. Lopez-Sanchez
 
@@ -252,6 +252,6 @@ French and Portuguese - assez pour me faire comprendre et survivre! :)
 
 #  
 
-*Last update*: 2019/09/15  
+*Last update*: 2019/07/16  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
