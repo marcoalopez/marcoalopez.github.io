@@ -6,6 +6,8 @@
 
 My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale. My primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization in nature. Other interests are the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
 
+[TOC]
+
 ## Personal details
 
 **Full name**: Marco Antonio López Sánchez
@@ -22,7 +24,7 @@ Tel: (33) 4 67 14 30 64
 **e-mails**:  
 &&& @umontpellier.fr (replace the triple ampersand symbol with *marco-antonio.lopez-sanchez*)  
 
-### **On the web**
+## On the web
 
 Personal website: <https://marcoalopez.github.io/>  
 CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)  
@@ -46,13 +48,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ## Research
 
-### Professional experience (only academic related)
+### Appointments (only academic related)
 
 **2018 - present** - Postdoctoral researcher, Géosciences Montpellier & CNRS, Université de Montpellier
 
 **2015 - 2017** - Postdoctoral researcher, Dpto. de Geología, Universidad de Oviedo
-
-**2013 - 2015** - Research assistant (non-paid volunteer), Dpto. de Geología, Universidad de Oviedo
 
 **2007 - 2013** - *PhD candidate*, Departamento de Geología, Universidad de Oviedo
 
@@ -75,11 +75,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### Publications
 
-#### **In review or available as a pre-print**
+#### In review or available as a pre-print
 
-%-%-% 
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted Oct. 2019.
 
-#### **Published or in press (citable) peer-reviewed publications**
+#### Published or in press (citable) peer-reviewed publications
 
 **2019**
 
@@ -105,7 +105,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 [PDF-01](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**(2): 341-350; https://doi.org/10.1017/S0016756814000272  
 
-**Other papers**
+**Others**
 
 **López-Sánchez MA** (2007) Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica). *Trabajos de Geología* **27**: 97-157 [link](http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF)
 
@@ -113,7 +113,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 [FT1](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011) - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map.
 
-#### **Meeting proceedings**
+#### Meeting proceedings
 
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD meting (Grenoble, France)*
 
@@ -136,6 +136,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 - 2010 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Oral - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*.  
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
 
+### Peer review activity
+
+- 2018 - present: Reviewer for Tectonophysics, Image Analysis and Stereology, Italian Journal of Geosciences.
+
+- 2019 - present: Reviewer for the US National Science Foundation (NFS)
 
 ### Selected scripts & codes
 
@@ -203,7 +208,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 - **Experimental deformation**.  Experience using in-situ EBSD monitoring during annealing and deformation. Experience in sample preparation (ice, magnesium, rocks). Basic experience with LabVIEW engineering software. Welding skills.
 - **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**) data treatment. 
   - **Wide experience using the MTEX Matlab toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
-  - Others: *AZtecHKL/Channel 5*, *PFch5 script*, and own codes.
+  - Others: *AZtec HKL/Channel 5*, *PFch5 script*, and own codes.
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
@@ -252,6 +257,6 @@ French and Portuguese - assez pour me faire comprendre et survivre! :)
 
 #  
 
-*Last update*: 2019/09/15  
+*Last update*: 2019/10/16  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
