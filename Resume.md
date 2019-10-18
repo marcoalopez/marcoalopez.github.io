@@ -21,8 +21,8 @@ Place Eugène Bataillon
 France  
 Tel: (33) 4 67 14 30 64
 
-**e-mails**:  
-&&& @umontpellier.fr (replace the triple ampersand symbol with *marco-antonio.lopez-sanchez*)  
+**e-mail**:  
+marco-antonio.lopez-sanchez [to be found at] umontpellier.fr  
 
 ## On the web
 
@@ -77,7 +77,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted Oct. 2019.
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted in October 2019.
 
 #### Published or in press (citable) peer-reviewed publications
 
