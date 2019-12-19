@@ -4,13 +4,13 @@
 
 ***Short bio***: I am a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interests include rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization in nature. Other interests are the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interests include characterization of rock microstructure/texture through EBSD and image analysis, rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, and understanding strain localization in nature. Other interests are the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
 
 [TOC]
 
 ## Personal details
 
-**Full name**: Marco Antonio López Sánchez
+**Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
 **Work address**:   
 Géosciences Montpellier - CNRS  
@@ -79,7 +79,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted in October 2019.
+**Lopez-Sanchez MA**. *Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations* Submitted to JSG in December 2019
+
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted MSEA in November 2019.
 
 #### Published or in press (citable) peer-reviewed publications
 
@@ -255,10 +257,12 @@ Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Field
 
 Spanish and Galician - mother tongue  
 English - fluent  
-French and Portuguese - assez pour me faire comprendre et survivre! :)
+French - B1
+Portuguese - Posso falar um bocadinho! :)
+
 
 #  
 
-*Last update*: 2019/12/16  
+*Last update*: 2019/12/19  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
