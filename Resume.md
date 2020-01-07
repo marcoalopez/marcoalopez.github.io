@@ -79,7 +79,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 #### In review or available as a pre-print
 
-**Lopez-Sanchez MA**. *Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations* Submitted to JSG in December 2019
+Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotropy of Slates: From Classical Studies to New Experimental Results.* Submitted to JSG in January 2020
+
+**Lopez-Sanchez MA**. *Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations.* Submitted to JSG in December 2019
 
 **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted MSEA in November 2019.
 
