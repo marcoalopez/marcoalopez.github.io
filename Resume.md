@@ -1,14 +1,12 @@
 ![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-# *PhD* Marco A. Lopez-Sanchez
+**Short bio**: I am a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
 
-***Short bio***: I am a postdoctoral researcher at [Géosciences Montpellier - CNRS](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
-
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interests include characterization of rock microstructure/texture through EBSD and image analysis, rock deformation and rheology, crustal-scale shear zones, crustal strength modelling, and understanding strain localization in nature. Other interests are the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization in nature at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
 
 [TOC]
 
-## Personal details
+# Personal details
 
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
@@ -24,7 +22,7 @@ Tel: (33) 4 67 14 30 64
 **e-mail**:  
 marco-antonio.lopez-sanchez [to be found at] umontpellier.fr  
 
-## On the web
+# On the web
 
 Personal website: <https://marcoalopez.github.io/>  
 CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)  
@@ -37,7 +35,7 @@ At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?articl
 Outreach: https://medium.com/@marcoalopez
 
 
-## Education
+# Education
 
 **Jul 2013** - *PhD* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
 Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J. Martínez  
@@ -48,9 +46,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 **Jan 2006** - Bachelor of Science (*B.Sc.*) in Geology, Department of Geology, University of Oviedo.
 
 
-## Research
+# Research
 
-### Appointments (only academic related)
+## Appointments (only academic related)
 
 **2018 - present** - Postdoctoral researcher, Géosciences Montpellier & CNRS, Université de Montpellier
 
@@ -59,9 +57,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 **2007 - 2013** - *PhD candidate*, Departamento de Geología, Universidad de Oviedo
 
 
-### Fellowships/Awards
+## Fellowships/Awards
 
-2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie Actions 7th FW) (2 years)
+2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie COFUND Actions FP7) (2 years)
 
 2017 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf)
 
@@ -69,23 +67,23 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years)
 
-### Scientific activities as visitor researcher
+## Scientific activities as visitor researcher
 
 2019 - **Grenoble (France)**. Duration: 1.5 months. Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
 2018 - **Saint-Étienne (France)**. Duration: 1 week. High temperature experimental deformation of magnesium alloys in a channel-die compression rig at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (collab. R. Quey).
 
-### Publications
+## Publications
 
-#### In review or available as a pre-print
+### In review or available as a pre-print
+
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted to Mat. Char. in January 2020.
 
 Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotropy of Slates: From Classical Studies to New Experimental Results.* Submitted to JSG in January 2020
 
 **Lopez-Sanchez MA**. *Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations.* Submitted to JSG in December 2019
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted MSEA in November 2019.
-
-#### Published or in press (citable) peer-reviewed publications
+### Published or in press (citable) peer-reviewed publications
 
 **2019**
 
@@ -115,11 +113,11 @@ Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotr
 
 **López-Sánchez MA** (2007) Estudio geológico de la Falla de Vivero y estructuras asociadas en la región de Guntín (Lugo, NO de la Península Ibérica). *Trabajos de Geología* **27**: 97-157 [link](http://www.geol.uniovi.es/TDG/Volumen27/TG27-06.PDF)
 
-#### Field Trip guides
+### Field Trip guides
 
 [FT1](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011) - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map.
 
-#### Meeting proceedings
+### Meeting proceedings
 
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD meting (Grenoble, France)*
 
@@ -142,13 +140,13 @@ Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotr
 - 2010 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Oral - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*.  
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
 
-### Peer review activity
+## Peer review activity
 
 - 2018 - present: Reviewer for Tectonophysics, Image Analysis and Stereology, Italian Journal of Geosciences.
 
 - 2019 - present: Reviewer for the US National Science Foundation (NFS)
 
-### Selected scripts & codes
+## Selected scripts & codes
 
 **GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
@@ -171,7 +169,7 @@ Info. & download: <https://github.com/marcoalopez/image_analysis>
 **Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analysed in electron microprobes  
 Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
-### Selected training courses / workshops
+## Selected training courses / workshops
 
 **2019** - *4th Innovative Training Network CREEP workshop (EU-H2020)*  
 Duration: 5 days, [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France  
@@ -204,7 +202,7 @@ Prof. Cees W. Passchier
 Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
 
 
-### Analytical/technical skills
+## Analytical/technical skills
 
 - **Scientific computing and programming**. Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab](), unit testing, version control systems such as Git, and code repositories such as GitHub.
 - **Image acquisition and analysis**.
@@ -221,7 +219,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 - U-Pb geochronological data treatment
 
 
-### Participation in Research Projects
+## Participation in Research Projects
 
 **2018 - present**
 ANR DREAM - Dynamic REcrystallization in Anisotropic Materials. Project led by Maurine Montagnat. Ref. *ANR-13-BS09-0001-01*
@@ -239,7 +237,7 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 *The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone* (original title in Spanish). Project led by Alberto Marcos. *Ref. CGL2006-08822/BTE*
 
 
-## Teaching (at university level)
+# Teaching (at university level)
 
 **Accredited as an assistant teacher by the National Agency for Quality Assessment and Accreditation of Spain (ANECA) in 2016**
 
@@ -250,12 +248,12 @@ Laboratory sections taught: *Plate Tectonics (30 hours); Structural Geology (20 
 Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
 
-## Administrative experience
+# Administrative experience
 
 **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee**. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere
 
 
-## Languages
+# Languages
 
 Spanish and Galician - mother tongue  
 English - fluent  
@@ -265,6 +263,6 @@ Portuguese - Posso falar um bocadinho! :)
 
 #  
 
-*Last update*: 2019/12/19  
+*Last update*: 2020/01/12  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
