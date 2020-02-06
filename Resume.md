@@ -204,23 +204,6 @@ Prof. Cees W. Passchier
 Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
 
 
-## Analytical/technical skills
-
-- **Scientific computing and programming**. Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/). I am also familiar with the basics of [R](https://www.r-project.org/) and [Matlab](), unit testing, version control systems such as Git, and code repositories such as GitHub.
-- **Image acquisition and analysis**.
-  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) for raw image extraction.
-  - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) for image analysis, as well as developing my own codes. Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis. For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
-  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own Python codes.
-- **Experimental deformation**.  Experience using in-situ EBSD monitoring during annealing and deformation. Experience in sample preparation (ice, magnesium, rocks). Basic experience with LabVIEW engineering software. Welding skills.
-- **Scanning Electron Microscopy** (BSD, **Backscatter diffraction - EBSD**) data treatment. 
-  - **Wide experience using the MTEX Matlab toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
-  - Others: *AZtec HKL/Channel 5*, *PFch5 script*, and own codes.
-- **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
-- Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
-- Experience in geological mapping and **Geographical Information Systems** (GIS)
-- U-Pb geochronological data treatment
-
-
 ## Participation in Research Projects
 
 **2018 - present**
@@ -237,6 +220,29 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 
 **2007 - 2010**  
 *The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone* (original title in Spanish). Project led by Alberto Marcos. *Ref. CGL2006-08822/BTE*
+
+# Analytical/technical skills
+
+- **Scientific computing and programming**. 
+  - Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/).
+  - Known basics of [R](https://www.r-project.org/) and [Matlab]()
+  - unit testing, version control systems (Git), and code repositories such as GitHub.
+- **Image acquisition and analysis**.
+  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) for raw image extraction.
+  - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) - Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
+  - For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
+  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own Python codes.
+- **Experimental deformation**.  
+  - Experience using in-situ EBSD monitoring during annealing and deformation.
+  - Experience in sample preparation (ice - cold rooms, metals, and rocks).
+  - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
+  - Others: Basic experience with LabVIEW. Welding skills.
+- **Electron Backscatter diffraction (EBSD)** data treatment. 
+  - **Wide experience using the MTEX MATLAB toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
+  - Others: *AZtec HKL/Channel 5*, *PFch5 script*, and own codes.
+- **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
+- Experience in geological mapping and **Geographical Information Systems** (GIS)
+- U-Pb geochronological data treatment
 
 
 # Teaching (at university level)
@@ -265,6 +271,6 @@ Portuguese - Posso falar um bocadinho! :)
 
 #  
 
-*Last update*: 2020/02/01  
+*Last update*: 2020/02/06  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
