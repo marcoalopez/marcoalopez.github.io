@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
+ di![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
 **Short bio**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
 
@@ -225,15 +225,15 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 
 - **Scientific computing and programming**. 
   - Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/).
-  - Known basics of [R](https://www.r-project.org/) and [Matlab]()
-  - unit testing, version control systems (Git), and code repositories such as GitHub.
+  - [MATLAB]() and basic knowledge of [R](https://www.r-project.org/) 
+  - Familiarized with unit testing, version control systems (Git), and code repositories such as GitHub.
 - **Image acquisition and analysis**.
   - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) for raw image extraction.
-  - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) - Noise reduction, image enhancement, grain segmentation, shape descriptors, grain size, and spatial analysis.
+  - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) - Noise reduction, image enhancement, grain segmentation, shape descriptors, and spatial analysis.
   - For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
   - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own Python codes.
-- **Experimental deformation**.  
-  - Experience using in-situ EBSD monitoring during annealing and deformation.
+- **Experimental deformation and annealing**.  
+  - Broad experience setting up annealing and deformation experiments in different configurations. In situ EBSD monitoring, tension and creep experiments. 
   - Experience in sample preparation (ice - cold rooms, metals, and rocks).
   - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
   - Others: Basic experience with LabVIEW. Welding skills.
@@ -271,6 +271,6 @@ Portuguese - Posso falar um bocadinho! :)
 
 #  
 
-*Last update*: 2020/02/06  
+*Last update*: 2020/02/07  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
