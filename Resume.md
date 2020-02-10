@@ -1,4 +1,4 @@
- di![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
+![](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
 **Short bio**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
 
