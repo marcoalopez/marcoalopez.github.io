@@ -80,11 +80,11 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted to Mat. Char. in January 2020.
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted to Mat. Char. in January 2020 (favourable response - moderate revision required)
 
 Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotropy of Slates: From Classical Studies to New Experimental Results.* Submitted to JSG in January 2020
 
-**Lopez-Sanchez MA**. *Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations.* Submitted to JSG in December 2019
+**Lopez-Sanchez MA**. *Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations.* (Accepted in J. Struc. Geol. with minor revision)
 
 ### Published or in press (citable) peer-reviewed publications
 
@@ -271,8 +271,8 @@ Portuguese - Posso falar um bocadinho! :)
 
 #  
 
-*Last update*: 2020/02/07  
-*Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
+*Last update*: 2020/03/03  
+*Copyright © 2020; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
 
 ![https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
