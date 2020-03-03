@@ -274,3 +274,5 @@ Portuguese - Posso falar um bocadinho! :)
 *Last update*: 2020/02/07  
 *Copyright © 2019; Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
+
+![https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
