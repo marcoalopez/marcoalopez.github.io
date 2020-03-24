@@ -88,7 +88,7 @@ Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotr
 ### Published or in press (citable) peer-reviewed publications
 
 **2020**
-[PDF-09](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf) **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology in press* https://doi.org/10.1016/j.jsg.2020.104042
+[PDF-09](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf) **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042
 
 **2019**
 
