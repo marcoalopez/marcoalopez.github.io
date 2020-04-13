@@ -80,9 +80,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments*. Submitted to Materials Characterization in January 2020 (favourable response - moderate revision required)
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD annealing experiments*. Submitted to Materials Characterization in January 2020 (favourable response - moderate revision required)
 
-Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotropy of Slates: From Classical Studies to New Experimental Results.* Submitted to JSG in January 2020 favourable response - moderate revision required)
+Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotropy of Slates: From Classical Studies to New Results.* Accepted in JSG
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -271,6 +271,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2020; *Last update*: 2020/03/16  
+Copyright © 2020; *Last update*: 2020/04/13  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
