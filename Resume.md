@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**Short bio**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
+**Short bio**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture (CPO) during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
 
 My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
 
@@ -33,7 +33,7 @@ Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOi
 Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
 At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
-Outreach: https://medium.com/@marcoalopez
+Outreach: https://medium.com/@marcoalopez and https://buttondown.email/marcoalopez
 
 
 # Education
@@ -80,7 +80,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD annealing experiments*. Submitted to Materials Characterization in January 2020 (favourable response - moderate revision required)
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments*. Submitted to Materials Characterization in January 2020 (favourable response - revision submitted)
 
 Wenk HR, Yu R, Cardenes V, **Lopez-Sanchez MA**, Sintubin M. *Fabric and Anisotropy of Slates: From Classical Studies to New Results.* Accepted in JSG
 
@@ -271,6 +271,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2020; *Last update*: 2020/04/13  
+Copyright © 2020; *Last update*: 2020/04/27  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
