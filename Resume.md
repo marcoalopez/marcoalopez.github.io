@@ -80,12 +80,14 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments*. Submitted to Materials Characterization in January 2020 (favourable response - revision submitted)
+
 
 
 ### Published or in press (citable) peer-reviewed publications
 
 **2020**
+
+**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  *Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments*. Submitted to Materials Characterization in January 2020 **Accepted 2020/05/12**
 
 Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **in press**: 104066 https://doi.org/10.1016/j.jsg.2020.104066
 
