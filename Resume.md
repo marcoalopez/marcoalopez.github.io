@@ -87,9 +87,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 **2020**
 
-**Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **Accepted 2020/05/12**
+[PDF-11]() **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **in press**: 110382 https://doi.org/10.1016/j.matchar.2020.110382
 
-Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **in press**: 104066 https://doi.org/10.1016/j.jsg.2020.104066
+PDF-10 Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **in press**: 104066 https://doi.org/10.1016/j.jsg.2020.104066
 
 [PDF-09](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf) **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042
 
