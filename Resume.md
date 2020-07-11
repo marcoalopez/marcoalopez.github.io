@@ -87,35 +87,35 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 **2020**
 
-- [PDF-11](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382
+- **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)  
 
-- PDF-10 Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **in press**: 104066 https://doi.org/10.1016/j.jsg.2020.104066
+- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **in press**: 104066 https://doi.org/10.1016/j.jsg.2020.104066  
 
-- [PDF-09](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf) **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042
+- **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
 
 **2019**
 
-- [PDF-08](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283  
+- **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf)  
 
 **2018**
 
-- [PDF-07](http://joss.theoj.org/papers/10.21105/joss.00863) **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**: 863, https://doi.org/10.21105/joss.00863  
+- **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**: 863, https://doi.org/10.21105/joss.00863 / [get the PDF !](http://joss.theoj.org/papers/10.21105/joss.00863)  
 
-- [PDF-06](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026>  
+- **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026> / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf)  
 
 **2016**
 
-- [PDF-05](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; https://doi.org/10.1016/j.jsg.2016.10.008  
+- **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; https://doi.org/10.1016/j.jsg.2016.10.008 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf)  
 
-- [PDF-04](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf) **Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, and Llana-Fúnez S. (2016) An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain). *Journal of the Geological Society* **173**: 282-291; https://doi.org/10.1144/jgs2015-071  
+- **Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, and Llana-Fúnez S. (2016) An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain). *Journal of the Geological Society* **173**: 282-291; https://doi.org/10.1144/jgs2015-071 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf)   
 
 **2015**
 
-- [PDF-03](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf) **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495; https://doi.org/10.5194/se-6-475-2015  
+- **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495; https://doi.org/10.5194/se-6-475-2015 / [get the PDF !](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf)  
 
-- [PDF-02](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**: 927-962; https://doi.org/10.1007/s00531-014-1119-1  
+- **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**: 927-962; https://doi.org/10.1007/s00531-014-1119-1 / [det the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf)  
 
-- [PDF-01](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf) **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**: 341-350; https://doi.org/10.1017/S0016756814000272  
+- **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**: 341-350; https://doi.org/10.1017/S0016756814000272 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf)   
 
 **Others**
 
