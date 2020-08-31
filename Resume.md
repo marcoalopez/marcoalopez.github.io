@@ -2,7 +2,7 @@
 
 **Short bio**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture (CPO) during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and other cool [things](https://github.com/marcoalopez).
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and open source for doing cool [things](https://github.com/marcoalopez).
 
 [TOC]
 
@@ -33,18 +33,21 @@ Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOi
 Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
 At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
-Outreach: https://medium.com/@marcoalopez and https://buttondown.email/marcoalopez
+Outreach: https://medium.com/@marcoalopez or https://buttondown.email/marcoalopez
 
 
 # Education
 
-**Jul 2013** - *PhD* in Geology, *cum laude* honours, [Department of Geology](http://www.geol.uniovi.es/), [Univ. of Oviedo](http://www.uniovi.es/en/inicio).  
-Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J. Martínez  
-**Thesis**: *Análisis tectónico de la Falla de Vivero (Galicia, NW of Spain)*
+**2013** 
+**PhD** in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
+Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (in Spanish)_
+Advisors: Sergio Llana-Fúnez, Alberto Marcos and Francisco J. Martínez  
+Topic: Analysis of the microstructure, metamorphism processes, and age of a crustal-scale fossil shear zone.
 
-**Sep 2007** - DEA (Masters of Science - *M.Sc.*) in Geology, Department of Geology, University of Oviedo. Project advisor: Prof. A. Marcos
+**2007** - DEA (**MSc**) in Geology, University of Oviedo and University of Barcelona (interuniversity program)  
+Project advisor: Alberto Marcos
 
-**Jan 2006** - Bachelor of Science (*B.Sc.*) in Geology, Department of Geology, University of Oviedo.
+**2006** - Bachelor of Science (**BSc**) in Geology, University of Oviedo.
 
 
 # Research
@@ -72,9 +75,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ## Scientific activities as visitor researcher
 
-2019 - **Grenoble (France)**. Duration: 1.5 months. Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
+2019 - **Grenoble (France)**. Duration: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
-2018 - **Saint-Étienne (France)**. Duration: 1 week. High temperature experimental deformation of magnesium alloys in a channel-die compression rig at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (collab. R. Quey).
+2018 - **Saint-Étienne (France)**. Duration: 1 week. **Goal**: High temperature experimental deformation of magnesium alloys in a channel-die compression rig at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (collab. R. Quey).
 
 ## Publications
 
@@ -87,9 +90,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 **2020**
 
-- **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)  
 
-- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **138**: 104066 https://doi.org/10.1016/j.jsg.2020.104066  / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_Wenk.pdf)
+- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. (2020) Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **138**: 104066 https://doi.org/10.1016/j.jsg.2020.104066  / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_Wenk.pdf)
 
 - **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
 
@@ -113,7 +116,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 - **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495; https://doi.org/10.5194/se-6-475-2015 / [get the PDF !](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf)  
 
-- **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**: 927-962; https://doi.org/10.1007/s00531-014-1119-1 / [det the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**: 927-962; https://doi.org/10.1007/s00531-014-1119-1 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf)  
 
 - **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**: 341-350; https://doi.org/10.1017/S0016756814000272 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf)   
 
@@ -123,7 +126,7 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ### Field Trip guides
 
-[FT1](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011) - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map.
+Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [get the PDF!](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
 ### Meeting proceedings
 
@@ -149,9 +152,9 @@ Advisor: Sergio Llana-Fúnez. Co-advisors: Profs. Alberto Marcos and Francisco J
 
 ## Peer review activity
 
-- 2018 - present: Reviewer for Tectonophysics, Image Analysis and Stereology, Italian Journal of Geosciences.
+- **Journal articles:** *Tectonophysics*, *Image Analysis and Stereology*, *Italian Journal of Geosciences* (2017 to present)
 
-- 2019 - present: Reviewer for the US National Science Foundation (NFS)
+- **Research grants:** US National Science Foundation (NFS) grant reviewer in 2019.
 
 ## Selected scripts & codes
 
@@ -211,20 +214,23 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ## Participation in Research Projects
 
-**2018 - present**
-ANR DREAM - Dynamic REcrystallization in Anisotropic Materials. Project led by Maurine Montagnat. Ref. *ANR-13-BS09-0001-01*
+**2018 – present** 
+Marie Curie Integrated Training Network (ITN) CREEP (PI: Andrea Tommasi). Ref: MSCA-ITN-2015-ETN. **Role**: One-year full-time CNRS postdoctoral contract under this project and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
+
+**2018 - 2019**  
+ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). Ref: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
 
 **2016 - 2017**  
-Cataclasis y fracturación en rocas de la corteza continental (*Cataclasis and rock fracturing in the continental crust*). Project led by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) Ref. *MINECO-15-CGL2014-53388-P*
+MINECO (Spanish) research project: _*Fracturing and cataclasis in continental crust rocks*_ (PI. Sergio Llana-Fúnez). Ref: MINECO-15-CGL2014-53388-P. **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
 
 **2015**  
-Procesos geológicos modeladores del relieve de la cordillera cantábrica. Project led by [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) Ref. *FC-15-GRUPIN14-44*
+GRUPIN (regional) research project: _Procesos geológicos modeladores del relieve de la cordillera cantábrica_ (PI. Sergio Llana-Fúnez). Ref: GRUPIN14-044. **Role**: Part-time (2 months) postdoctoral contract under this project.
 
-**2010 - 2014**  
-La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-ductile transition in the continental crust in North-western Iberia*). Project led by [Sergio Llana-Fúnez](http://www.geol.uniovi.es/~slf/slf_at_Oviedo/Main.html) *Ref. MICINN-10-CGL2010-14890*
+**2010 - 2013**  
+MICINN (Spanish) research project: _The brittle-ductile transition in the continental crust in North-western Iberia_ (PI. Sergio Llana-Fúnez). Ref: MICINN-10-CGL2010-14890. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
 
 **2007 - 2010**  
-*The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone* (original title in Spanish). Project led by Alberto Marcos. *Ref. CGL2006-08822/BTE*
+MICINN (Spanish) research project: _The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ (original title in Spanish) (PI. Alberto Marcos) Ref: MICINN-06-CGL2006-08822/BTE. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
 
 # Analytical/technical skills
 
@@ -250,15 +256,17 @@ La transición frágil-dúctil de la corteza del NO penínsular (*The brittle-du
 - U-Pb geochronological data treatment
 
 
-# Teaching (at university level)
+# Teaching at university level and workshops
 
-**Accredited as an assistant teacher by the National Agency for Quality Assessment and Accreditation of Spain (ANECA) in 2016**
+**2020** – Workshop instructor: “*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France).
 
-Graduate teaching assistant from **2009** to **2011** and in **2017** at Universidad de Oviedo
+**2016**: Accredited as an assistant teacher by the _National Agency for Quality Assessment and Accreditation of Spain_ (ANECA) in 2016.
 
-Laboratory sections taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
+**2009 - 2011**: Graduate teaching assistant at the Universidad de Oviedo during my pre-doctoral stage (~130 hours of experience)
 
-Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
+- Laboratory sections taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
+
+- Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
 
 # Administrative experience
@@ -274,6 +282,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2020; *Last update*: 2020/07/10  
+Copyright © 2020; *Last update*: 2020/09/01  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
