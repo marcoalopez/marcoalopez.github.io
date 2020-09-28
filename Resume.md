@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**Short bio**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture (CPO) during deformation and annealing using in-situ monitoring and SEM-EBSD. Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium.
+**About me**: I am a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and texture (CPO) during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD) and Digital Image Correlation (DIC). Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium alloys.
 
 My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and open source for doing cool [things](https://github.com/marcoalopez).
 
@@ -40,14 +40,14 @@ Outreach: https://medium.com/@marcoalopez or https://buttondown.email/marcoalope
 
 **2013** 
 **PhD** in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
-Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (in Spanish)_
+Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
 Advisors: Sergio Llana-Fúnez, Alberto Marcos and Francisco J. Martínez  
 Topic: Analysis of the microstructure, metamorphism processes, and age of a crustal-scale fossil shear zone.
 
-**2007** - DEA (**MSc**) in Geology, University of Oviedo and University of Barcelona (interuniversity program)  
+**2007** - Diploma of Advanced Studies (**DEA**) in the (interuniversity) program “_Exploration, analysis and modelling of basins and orogenic systems_” from the University of Oviedo and University of Barcelona  
 Project advisor: Alberto Marcos
 
-**2006** - Bachelor of Science (**BSc**) in Geology, University of Oviedo.
+**2006** - I graduated with a **Bachelor of Science in Geology** from the University of Oviedo in January 2006.
 
 
 # Research
@@ -56,7 +56,7 @@ Project advisor: Alberto Marcos
 
 **2020 - present** - CNRS postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France)
 
-**2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France)
+**2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France). _24 months of full-time postdoc_.
 
 **2015 - 2017** - Postdoctoral researcher, Departamento de Geología, Universidad de Oviedo. *This includes several full and part-time postdoc contracts that add up to a year of experience within this period*
 
@@ -161,11 +161,11 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 **GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 
+**Strength envelopes**: A set of Jupyter notebooks to generate crust and lithoshere strenght envelopes  
+Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
+
 **mtex_scripts**: matlab scripts for use with the MTEX toolbox  
 Info. & download: <https://github.com/marcoalopez/mtex_scripts>
-
-**Strength envelopes**: A Python script to generate crust and lithosphere strength envelopes  
-Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
 
 **JASPE**: *Just Another Stereoplot (in a) Python Environment*  
 Info. & download: <https://github.com/marcoalopez/JASPE>
