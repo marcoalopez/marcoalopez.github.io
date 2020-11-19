@@ -83,7 +83,9 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. In review.
 
+Cardenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. Submitted in 11/2020. In review.
 
 
 ### Published or in press (citable) peer-reviewed publications
