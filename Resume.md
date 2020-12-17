@@ -2,7 +2,7 @@
 
 **About me**: Hello, I’m Marco. I’m a [CNRS](http://www.cnrs.fr/) postdoctoral researcher at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC). Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium alloys.
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, the interaction between rock deformation, fluids and metamorphism, and the establishment of the absolute time at which deformation processes occur. I also enjoy programming for data analysis and open source for doing some cool [things](https://github.com/marcoalopez).
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I also enjoy programming for doing some cool [things](https://github.com/marcoalopez) and an advocate of open source in science.
 
 [TOC]
 
@@ -54,7 +54,7 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2020 - present** - CNRS postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France)
+**2020 - present** - CNRS “ingénieur de recherche” at Géosciences Montpellier, Université de Montpellier (France)
 
 **2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France). _24 months of full-time postdoc_.
 
@@ -284,6 +284,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2020; *Last update*: 2020/11/18  
+Copyright © 2020; *Last update*: 2020/12/17  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
