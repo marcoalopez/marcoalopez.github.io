@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hello, I’m Marco. I’m a [CNRS](http://www.cnrs.fr/) research associate (ingénieur de recherche) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC). Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium alloys.
+**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (ingénieur de recherche) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC). Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium alloys.
 
 My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks and minerals, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. Indeed, I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
@@ -54,7 +54,7 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2020 - present** - CNRS “ingénieur de recherche” at Géosciences Montpellier, Université de Montpellier (France)
+**2020 - present** - CNRS research associate “ingénieur de recherche” at Géosciences Montpellier, Université de Montpellier (France)
 
 **2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France). _24 months of full-time postdoc_.
 
@@ -83,9 +83,13 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. In review.
+**Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by high-spatial resolution electron backscatter diffraction. Submitted in 01/2021. _In review_.
 
-Cardenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. Submitted in 11/2020. In review.
+Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. Submitted in 01/2021. _In review_.
+
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. _In review_.
+
+Cardenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. Submitted in 11/2020. _In review_.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -216,8 +220,11 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ## Participation in Research Projects
 
-**2018 – present** 
-Marie Curie Integrated Training Network (ITN) CREEP (PI: Andrea Tommasi). Ref: MSCA-ITN-2015-ETN. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project and covered some expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
+**2021 – present**  
+ERC Advanced Grant RhEoVOLUTION (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2021 to Jan 2022).
+
+**2018 – 2021**  
+Marie Curie Integrated Training Network (ITN) CREEP (PI: Andrea Tommasi). Ref: MSCA-ITN-2015-ETN. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2020 to Jan 2021) and covered some expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
 
 **2018 - 2019**  
 ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). Ref: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France (e.g. my stay in Grenoble).
@@ -238,7 +245,7 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 
 - **Scientific computing and programming**. 
   - Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/).
-  - [MATLAB]() and basic knowledge of [R](https://www.r-project.org/) 
+  - [MATLAB]() and basic knowledge of [R](https://www.r-project.org/) and Julia. 
   - Familiarized with unit testing, version control systems (Git), and code repositories such as GitHub.
 - **Image acquisition and analysis**.
   - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) for raw image extraction.
