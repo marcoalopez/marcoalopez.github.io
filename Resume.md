@@ -221,10 +221,10 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 ## Participation in Research Projects
 
 **2021 – present**  
-ERC Advanced Grant RhEoVOLUTION (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2021 to Jan 2022).
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year full-time contract (research associate) under this project (Jan 2021 to Jan 2022).
 
 **2018 – 2021**  
-Marie Curie Integrated Training Network (ITN) CREEP (PI: Andrea Tommasi). Ref: MSCA-ITN-2015-ETN. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2020 to Jan 2021) and covered some expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
+[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). Grant agreement ID: 642029. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2020 to Jan 2021) and covered some expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
 
 **2018 - 2019**  
 ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). Ref: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France (e.g. my stay in Grenoble).
@@ -291,6 +291,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2020; *Last update*: 2020/12/17  
+Copyright © 2020; *Last update*: 2021/01/08  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
