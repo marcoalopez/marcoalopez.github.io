@@ -83,9 +83,9 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by high-spatial resolution electron backscatter diffraction. Submitted in 01/2021. _In review_.
+**Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by high-spatial resolution electron backscatter diffraction. Submitted in 01/2021. [Grab the preprint here](https://eartharxiv.org/repository/view/1973/)
 
-Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. Submitted in 01/2021. _In review_.
+Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. Submitted in 01/2021. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. _In review_.
 
@@ -291,6 +291,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2020; *Last update*: 2021/01/08  
+Copyright © 2021; *Last update*: 2021/01/13  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
