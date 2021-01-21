@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on characterising the evolution of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) techniques. More info here: https://marcoalopez.github.io/IDEAproject/
+**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on characterizing the evolution of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) techniques. More info here: https://marcoalopez.github.io/IDEAproject/
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is the study of how the microstructure and crystallographic preferred orientation of its components affect the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties.  Other interests are crustal strength modelling, understanding strain localization at all scales, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. Indeed, I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is to understand how microstructure and crystallographic preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. Indeed, I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
 [TOC]
 
@@ -17,7 +17,7 @@ Campus Triolet cc060
 Place Eugène Bataillon  
 34095 Montpellier Cedex05  
 France  
-Tel: (33) 4 67 14 30 64
+Tel: (33) 4 67 14 30 64  
 
 **e-mail**:  
 marco-antonio.lopez-sanchez [to be found at] umontpellier.fr  
@@ -168,7 +168,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 
 **Strength envelopes**: A set of Jupyter notebooks to generate crust and lithoshere strenght envelopes  
-Info. & download: <https://github.com/marcoalopez/Strength_envelopes>
+Info. & download: https://marcoalopez.github.io/strength_envelopes/
 
 **mtex_scripts**: matlab scripts for use with the MTEX toolbox  
 Info. & download: <https://github.com/marcoalopez/mtex_scripts>
