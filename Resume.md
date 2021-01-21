@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (ingénieur de recherche) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on the characterisation of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC). Although in the past I worked mainly with quartz-feldspathic rocks, the materials I currently work with are olivine, ice, and magnesium alloys.
+**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on characterising the evolution of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) techniques. More info here: https://marcoalopez.github.io/IDEAproject/
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth materials (mineral physics). My primary interest is the study of the mechanical properties of rocks and minerals, which include how rocks response to an applied force (deformation & rheology), characterization of rock microstructure/texture through EBSD and image analysis, and understanding strain localization at all scales. Other interests are crustal strength modelling, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. Indeed, I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is the study of how the microstructure and crystallographic preferred orientation of its components affect the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties.  Other interests are crustal strength modelling, understanding strain localization at all scales, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. Indeed, I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
 [TOC]
 
@@ -54,7 +54,7 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2020 - present** - CNRS research associate “ingénieur de recherche” at Géosciences Montpellier, Université de Montpellier (France)
+**2020 - present** - CNRS research associate “_ingénieur de recherche_” at Géosciences Montpellier, Université de Montpellier (France)
 
 **2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France). _24 months of full-time postdoc_.
 
@@ -73,7 +73,7 @@ Project advisor: Alberto Marcos
 
 2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years)
 
-## Scientific activities as visitor researcher
+## Scientific activities as a visitor researcher
 
 2019 - **Grenoble (France)**. Duration: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
@@ -89,7 +89,7 @@ Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation o
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. _In review_.
 
-Cardenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. Submitted in 11/2020. _In review_.
+Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. Submitted in 11/2020. _In review_.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -291,6 +291,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/01/13  
+Copyright © 2021; *Last update*: 2021/01/21  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
