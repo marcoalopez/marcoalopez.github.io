@@ -158,7 +158,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ## Peer review activity
 
-- **Journal articles:** *Tectonophysics*, *Image Analysis and Stereology*, *Italian Journal of Geosciences* (2017 to present)
+- **Journal articles:** _Tectonophysics (2), Journal of Structural Geology (1), Image Analysis and Stereology (1), Italian Journal of Geosciences (1)_ (2017 to present)
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer in 2019.
 
@@ -291,6 +291,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/02/15  
+Copyright © 2021; *Last update*: 2021/02/17  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
