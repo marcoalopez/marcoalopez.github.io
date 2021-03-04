@@ -89,7 +89,7 @@ Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation o
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. _In review_.
 
-Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. Submitted in 11/2020. _In review_.
+Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Accepted in Tectonophysics 2021/03/04_
 
 
 ### Published or in press (citable) peer-reviewed publications
