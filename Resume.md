@@ -65,6 +65,8 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
+2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the reserach project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf)
+
 2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie Clarín-COFUND Actions FP7) (2 years)
 
 2017 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf)
@@ -293,6 +295,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/03/23  
+Copyright © 2021; *Last update*: 2021/03/26  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
