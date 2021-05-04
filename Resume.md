@@ -2,7 +2,7 @@
 
 **About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), where my research focuses on characterizing the evolution of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) techniques. More info here: https://marcoalopez.github.io/IDEAproject/
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is to understand how microstructure and crystallographic preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. Indeed, I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
+My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is to understand how microstructure and crystal preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
 [TOC]
 
@@ -33,7 +33,10 @@ Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOi
 Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
 At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
-Outreach: [Marco A. Lopez-Sanchez (@lsmarcoa) / Twitter](https://twitter.com/lsmarcoa), https://medium.com/@marcoalopez or https://buttondown.email/marcoalopez
+Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
+Outreach:
+[Marco A. Lopez-Sanchez (@lsmarcoa) / Twitter](https://twitter.com/lsmarcoa),  
+https://medium.com/@marcoalopez 
 
 
 # Education
@@ -96,7 +99,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 
 **2021**
 
-- Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics in press_: 228815 https://doi.org/10.1016/j.tecto.2021.228815
+- Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815
 
 **2020**
 
@@ -174,8 +177,8 @@ Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
 **Strength envelopes**: A set of Jupyter notebooks to generate crust and lithoshere strenght envelopes  
 Info. & download: https://marcoalopez.github.io/strength_envelopes/
 
-**mtex_scripts**: matlab scripts for use with the MTEX toolbox  
-Info. & download: <https://github.com/marcoalopez/mtex_scripts>
+**Jupyter4DICe**: a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
+Info. & download: https://github.com/marcoalopez/Jupyter4DICe
 
 **JASPE**: *Just Another Stereoplot (in a) Python Environment*  
 Info. & download: <https://github.com/marcoalopez/JASPE>
@@ -183,13 +186,13 @@ Info. & download: <https://github.com/marcoalopez/JASPE>
 **Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
-**Image analysis**: Python code snippets for image analysis  
-Info. & download: <https://github.com/marcoalopez/image_analysis>
 
-**Chemical age script**: A free and open-source script to estimate the 'chemical' ages in monazites analysed in electron microprobes  
-Info. & download: [https://github.com/marcoalopez/chemical_age_script/](https://github.com/marcoalopez/chemical_age_script)
 
 ## Selected training courses / workshops
+
+**2021** - *Advanced workshop on digital image correlation*  
+Duration: 120 hours, [Virtual EBSD 2021 meeting](https://www.rms.org.uk/rms-event-calendar/2021-events/ebsd-2021.html)   
+Coordinator:  João Quinta da Fonseca  
 
 **2019** - *4th Innovative Training Network CREEP workshop (EU-H2020)*  
 Duration: 5 days, [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France  
@@ -249,20 +252,20 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 
 - **Scientific computing and programming**. 
   - Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/).
-  - [MATLAB]() and basic knowledge of [R](https://www.r-project.org/) and [Julia](https://julialang.org/). 
+  - Basic knowledge of [MATLAB](), [R](https://www.r-project.org/) and [Julia](https://julialang.org/) programming languages. 
   - Familiarized with unit testing, version control systems (Git), and code repositories such as GitHub.
 - **Image acquisition and analysis**.
-  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) for raw image extraction.
+  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) - raw image extraction.
   - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) - Noise reduction, image enhancement, grain segmentation, shape descriptors, and spatial analysis.
   - For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
-  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own Python codes.
+  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own [Python codes](https://github.com/marcoalopez/Jupyter4DICe).
 - **Experimental deformation and annealing**.  
   - Broad experience setting up annealing and deformation experiments in different configurations. In situ EBSD monitoring, tension and creep experiments. 
   - Experience in sample preparation (ice - cold rooms, metals, and rocks).
   - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
   - Others: Basic experience with LabVIEW. Welding skills.
 - **Electron Backscatter diffraction (EBSD)** data treatment. 
-  - **Wide experience using the MTEX MATLAB toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
+  - **Wide experience using the MTEX toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
   - Others: *AZtec HKL/Channel 5*, *PFch5 script*, and own codes.
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
