@@ -88,8 +88,6 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by high-spatial resolution electron backscatter diffraction. Submitted in 01/2021. [Grab the preprint here](https://eartharxiv.org/repository/view/1973/)
-
 Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. Submitted in 01/2021. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. _In review_.
@@ -99,6 +97,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 
 **2021**
 
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Accepted for publication in Tectonophysics._ [Grab the preprint here](https://eartharxiv.org/repository/view/1973/) 
 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815
 
 **2020**
@@ -165,7 +164,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ## Peer review activity
 
-- **Journal articles:** _Tectonophysics (2), Journal of Structural Geology (1), Image Analysis and Stereology (1), Italian Journal of Geosciences (1)_ (2017 to present)
+- **Journal articles:** _Tectonophysics, Journal of Structural Geology, Image Analysis and Stereology, Italian Journal of Geosciences_ 
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer in 2019.
 
