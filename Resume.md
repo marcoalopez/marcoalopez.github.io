@@ -88,9 +88,9 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. Submitted in 01/2021. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
+Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. *Tectonophysics*, accepted with major revision in April 2021, _in revision_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. Submitted in 11/2020. _In review_.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*, accepted with major revision in Feb. 2021, _in revision_.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -227,7 +227,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 ## Participation in Research Projects
 
 **2021 – present**  
-[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year full-time contract (research associate) under this project (Jan 2021 to Jan 2022).
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year _CNRS ingénieur de recherche_ full-time contract (as part of the main team) under this project (Jan 2021 to Jan 2022).
 
 **2018 – 2021**  
 [Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). Grant agreement ID: 642029. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2020 to Jan 2021) and covered some expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
