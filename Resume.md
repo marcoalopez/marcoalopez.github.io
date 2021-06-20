@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), being part of the [The Project - RhEOVOLUTION](https://erc-rheovolution.gm.univ-montp2.fr/team/) and where my research focuses on characterizing the evolution of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) techniques. More info also here: https://marcoalopez.github.io/IDEAproject/
+**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html), being part of the [The Project - RhEOVOLUTION](https://erc-rheovolution.gm.univ-montp2.fr/team/) and where my research focuses on characterizing the evolution of microstructure and crystallographic preferred orientation during deformation and annealing using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) [techniques](https://github.com/marcoalopez/Jupyter4DICe). More info also here: https://marcoalopez.github.io/IDEAproject/
 
 My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is to understand how microstructure and crystal preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, the evolution of ancient orogens, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
@@ -88,7 +88,7 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Barou F, Rutter EH. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. *Tectonophysics*, accepted with major revision in April 2021, _in revision_. [Grab the preprint here](http://arxiv.org/abs/2101.03362)
+Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. *Tectonophysics*, accepted with major revision in April 2021, _in revision_. [Preprint here](http://arxiv.org/abs/2101.03362)
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*, accepted with major revision in Feb. 2021, _in revision_.
 
@@ -297,6 +297,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/05/14  
+Copyright © 2021; *Last update*: 2021/06/20  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
