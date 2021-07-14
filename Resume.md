@@ -26,7 +26,6 @@ marcoalopez [to be found at] outlook.com
 # On the web
 
 Personal website: <https://marcoalopez.github.io/>  
-CV (pdf): [Resume_pdf](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf)  
 Orcid-ID: <http://orcid.org/0000-0002-0261-9267>   
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
@@ -92,7 +91,7 @@ Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. D
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*, accepted with major revision in Feb. 2021, _in revision_.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. Submitted to _Seismological Research Letters._ in June 2021.
+**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. Submitted to _Seismological Research Letters._ Submitted in July 2021.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -299,6 +298,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/07/07  
+Copyright © 2021; *Last update*: 2021/07/14  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
