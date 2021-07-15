@@ -87,8 +87,6 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. *Tectonophysics*, accepted with major revision in April 2021, _in revision_. [Preprint here](http://arxiv.org/abs/2101.03362)
-
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*, accepted with major revision in Feb. 2021, _in revision_.
 
 **Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. Submitted to _Seismological Research Letters._ Submitted in July 2021.
@@ -99,6 +97,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 **2021**
 
 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics in press:_ 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint here](https://eartharxiv.org/repository/view/1973/) 
+- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. *Tectonophysics*, accepted. [Preprint here](http://arxiv.org/abs/2101.03362)
 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815
 
 **2020**
@@ -230,8 +229,8 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 **2021 – present**  
 [ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year _CNRS ingénieur de recherche_ full-time contract (as part of the main team) under this project (Jan 2021 to Jan 2022).
 
-**2018 – 2021**  
-[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). Grant agreement ID: 642029. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project (Jan 2020 to Jan 2021) and covered some expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
+**2018 – 2020**  
+[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). Grant agreement ID: 642029. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
 
 **2018 - 2019**  
 ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). Ref: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France (e.g. my stay in Grenoble).
@@ -298,6 +297,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/07/14  
+Copyright © 2021; *Last update*: 2021/07/15  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
