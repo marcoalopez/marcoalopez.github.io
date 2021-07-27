@@ -97,7 +97,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 **2021**
 
 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics in press:_ 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint here](https://eartharxiv.org/repository/view/1973/) 
-- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics, in press_: 228997. [Preprint here](http://arxiv.org/abs/2101.03362)
+- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics, in press_: 228997. https://doi.org/10.1016/j.tecto.2021.228997 [Preprint here](http://arxiv.org/abs/2101.03362)
 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815
 
 **2020**
@@ -298,6 +298,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/07/23  
+Copyright © 2021; *Last update*: 2021/07/27  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
