@@ -89,15 +89,15 @@ Project advisor: Alberto Marcos
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*, accepted with major revision in Feb. 2021, _in revision_.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. Submitted to _Seismological Research Letters._ Submitted in July 2021.
+**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021.
 
 
 ### Published or in press (citable) peer-reviewed publications
 
 **2021**
 
-- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics in press:_ 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint](https://eartharxiv.org/repository/view/1973/) 
-- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics, in press_: 228997. https://doi.org/10.1016/j.tecto.2021.228997 [Preprint](http://arxiv.org/abs/2101.03362)
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint](https://eartharxiv.org/repository/view/1973/) 
+- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228997. https://doi.org/10.1016/j.tecto.2021.228997 [Preprint](http://arxiv.org/abs/2101.03362)
 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815 [Preprint](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228815_Cardenesetal_preprint.pdf)
 
 **2020**
