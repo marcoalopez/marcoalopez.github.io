@@ -67,6 +67,8 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
+2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
+
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the reserach project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf)
 
 2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie Clarín-COFUND Actions FP7) (2 years)
@@ -298,6 +300,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/07/29  
+Copyright © 2021; *Last update*: 2021/09/01  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
