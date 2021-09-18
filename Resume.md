@@ -144,7 +144,8 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ### Meeting proceedings
 
-- 2021 - Llana-Fúnez S, Cárdenes, V, **Lopez-Sanchez, MA**, Olona J, Barou F. Anisotropía sísmica en pizarras de techar del  noroeste peninsular: medida directa y  cálculo de velocidades a partir de  orientación cristalográfica preferente (Oral). _X Congreso Geológico de España (Victoria-Gasteiz, Spain)_
+- 2021 - Llana-Fúnez S, de Paz-Álvarez MI, **Lopez-Sanchez MA**, Bernasconi SM, Alonso JL, Berrezueta E, Méndez A, Stoll HM. Carbon-oxygen isotope analysis of fault rocks in carbonates from different orogenic cycles in the Cantabrian Zone (N Spain): similarities and differences. _European Geoscience Union General Assembly 2021_
+- 2021 - Llana-Fúnez S, Cárdenes, V, **Lopez-Sanchez MA**, Olona J, Barou F. Anisotropía sísmica en pizarras de techar del  noroeste peninsular: medida directa y  cálculo de velocidades a partir de  orientación cristalográfica preferente (Oral). _X Congreso Geológico de España (Victoria-Gasteiz, Spain)_
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Oral). *GRD Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD meeting (Grenoble, France)*
