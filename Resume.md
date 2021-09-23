@@ -89,9 +89,9 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*, accepted with major revision in Feb. 2021, _in revision_.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*. Status: awaiting second round review.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Accepted with minor revision in Sept. 2021
+**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Status: accepted after minor revision in Sept. 2021 (awaiting Wang's reply).
 
 
 ### Published or in press (citable) peer-reviewed publications
