@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, a [CNRS](http://www.cnrs.fr/) research associate (_ingénieur de recherche_) at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France. I hold a *PhD* in Geology from the University of Oviedo in Spain. In the past, I combined jobs outside the academy as a geology teacher and freelance geologist with postdoctoral training in [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group. At the beginning of 2018, I joined the *Manteau et Interfaces* research group in Montpellier under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) with an MSCA-COFUND grant to develop the project IDEA, more info here https://marcoalopez.github.io/IDEAproject/. I am now part of the project [RhEOVOLUTION](https://erc-rheovolution.gm.univ-montp2.fr/team/) crew, where my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) [techniques](https://github.com/marcoalopez/Jupyter4DICe). 
+**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a *PhD* in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I returned to research as a postdoc, first training in the [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group (1 year). From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) [techniques](https://github.com/marcoalopez/Jupyter4DICe). By 2022, I am starting a new research stage in Uniovi to develop the [OUTCROP project]() as principal investigator.
 
-My research interests include different aspects of geodynamic processes from the microscopic to the orogenic scale and exploring the physical properties of Earth solid materials (rock/mineral physics). My primary interest is to understand how microstructure and crystal preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
+My research interests include exploring the physical properties of Earth solid materials (rock/mineral physics) and understand the dynamic processes occurring in the Earth lithosphere (its outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
 [TOC]
 
@@ -11,16 +11,15 @@ My research interests include different aspects of geodynamic processes from the
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
 **Work address**:   
-Géosciences Montpellier - CNRS  
-Université de Montpellier  
-Campus Triolet cc060  
-Place Eugène Bataillon  
-34095 Montpellier Cedex05  
-France  
-Tel: (33) 4 67 14 30 64  
+Departamento de Geología  
+Universidad de Oviedo  
+Calle Jesús Arias de velasco s/n  
+33005 Oviedo  
+Principado de Asturias, Spain  
+Tel: (34) 98 510  xxxx  
 
 **e-mail**:  
-marco-antonio.lopez-sanchez [to be found at] umontpellier.fr  
+marcoalopez [to be found at] uniovi.es  
 marcoalopez [to be found at] outlook.com
 
 # On the web
@@ -40,11 +39,10 @@ https://medium.com/@marcoalopez
 
 # Education
 
-**2013** 
-**PhD** in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
+**2013** - PhD in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
 Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
 Advisors: Sergio Llana-Fúnez, Alberto Marcos and Francisco J. Martínez  
-Topic: Analysis of the microstructure, metamorphism processes, and age of a crustal-scale fossil shear zone.
+Topic: Analysis of the microstructure, metamorphism, and age of a crustal-scale fossil shear zone.
 
 **2007** - Diploma of Advanced Studies (**DEA**) in the (interuniversity) program “_Exploration, analysis and modelling of basins and orogenic systems_” from the University of Oviedo and University of Barcelona  
 Project advisor: Alberto Marcos
@@ -56,7 +54,9 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2020 - present** - CNRS research associate “_ingénieur de recherche_” at Géosciences Montpellier, Université de Montpellier (France)
+**2022 - present** - Research fellow at Geology Department, Universidad de Oviedo (Spain)
+
+**2020 - 2021** - CNRS research associate at Géosciences Montpellier, Université de Montpellier (2 years, full-time)
 
 **2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France). _24 months of full-time postdoc_.
 
@@ -66,6 +66,10 @@ Project advisor: Alberto Marcos
 
 
 ## Fellowships/Awards
+
+2021 - Margarita Salas estabilización grant. Budget 166 000 € for two years (87 000 € salary + 79 000 € for research)
+
+2021 - Margarita Salas joven grant  104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas estabilización* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
 
@@ -89,9 +93,9 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Nature Communications*. Status: awaiting second round review.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Earth and Planetary Science Letters*. Status: In review.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Status: accepted after minor revision in Sept. 2021 (awaiting Wang's reply).
+**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Status: accepted after minor revision in Sept. 2021.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -146,9 +150,9 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 - 2021 - Llana-Fúnez S, de Paz-Álvarez MI, **Lopez-Sanchez MA**, Bernasconi SM, Alonso JL, Berrezueta E, Méndez A, Stoll HM. Carbon-oxygen isotope analysis of fault rocks in carbonates from different orogenic cycles in the Cantabrian Zone (N Spain): similarities and differences. _European Geoscience Union General Assembly 2021_
 - 2021 - Llana-Fúnez S, Cárdenes, V, **Lopez-Sanchez MA**, Olona J, Barou F. Anisotropía sísmica en pizarras de techar del  noroeste peninsular: medida directa y  cálculo de velocidades a partir de  orientación cristalográfica preferente (Oral). _X Congreso Geológico de España (Victoria-Gasteiz, Spain)_
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Oral). *GRD Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GRD meeting (Grenoble, France)*
+- 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GDR meeting (Grenoble, France)*
 - 2019 - **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Oral). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - 2019 - Cárdenes V, **Lopez-Sanchez MA**, Barou, F, Olona, J and Llana-Fúnez S. Seismic anisotropy in fine-grained slates from NW Spain (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
@@ -170,7 +174,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 - **Journal articles:** _Tectonophysics, Journal of Structural Geology, Image Analysis and Stereology, Italian Journal of Geosciences_ 
 
-- **Research grants:** US National Science Foundation (NFS) grant reviewer in 2019.
+- **Research grants:** US National Science Foundation (NFS) grant reviewer
 
 ## Selected scripts & codes
 
@@ -182,9 +186,6 @@ Info. & download: https://marcoalopez.github.io/strength_envelopes/
 
 **Jupyter4DICe**: a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
 Info. & download: https://github.com/marcoalopez/Jupyter4DICe
-
-**JASPE**: *Just Another Stereoplot (in a) Python Environment*  
-Info. & download: <https://github.com/marcoalopez/JASPE>
 
 **Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
@@ -230,23 +231,26 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ## Participation in Research Projects
 
-**2021 – present**  
-[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). Grant agreement ID: 882450. **Role**: One-year _CNRS ingénieur de recherche_ full-time contract (as part of the main team) under this project (Jan 2021 to Jan 2022).
+**2021 - present**
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties and water content of the Cabo Ortegal complex](). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 74000 € (Dec 2021 to Dec 2023)
 
-**2018 – 2020**  
-[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). Grant agreement ID: 642029. **Role**: One-year full-time CNRS _ingénieur de recherche_ (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
+**2021**  
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022).
+
+**2019 – 2020**  
+[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). **Grant agreement ID**: 642029. **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
 
 **2018 - 2019**  
-ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). Ref: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France (e.g. my stay in Grenoble).
+ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). **Grant agreement ID**: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
 
 **2016 - 2017**  
-MINECO (Spanish) research project: _*Fracturing and cataclasis in continental crust rocks*_ (PI. Sergio Llana-Fúnez). Ref: MINECO-15-CGL2014-53388-P. **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
+MINECO (Spanish) research project: _*Fracturing and cataclasis in continental crust rocks*_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MINECO-15-CGL2014-53388-P. **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
 
 **2015**  
-GRUPIN (regional) research project: _Procesos geológicos modeladores del relieve de la cordillera cantábrica_ (PI. Sergio Llana-Fúnez). Ref: GRUPIN14-044. **Role**: Part-time (2 months) postdoctoral contract under this project.
+GRUPIN (regional) research project: _Procesos geológicos modeladores del relieve de la cordillera cantábrica_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: GRUPIN14-044. **Role**: Part-time (2 months) postdoctoral contract under this project.
 
 **2010 - 2013**  
-MICINN (Spanish) research project: _The brittle-ductile transition in the continental crust in North-western Iberia_ (PI. Sergio Llana-Fúnez). Ref: MICINN-10-CGL2010-14890. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
+MICINN (Spanish) research project: _The brittle-ductile transition in the continental crust in North-western Iberia_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MICINN-10-CGL2010-14890. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
 
 **2007 - 2010**  
 MICINN (Spanish) research project: _The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ (original title in Spanish) (PI. Alberto Marcos) Ref: MICINN-06-CGL2006-08822/BTE. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
@@ -301,6 +305,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2021; *Last update*: 2021/09/14  
+Copyright © 2022; *Last update*: 2022/01/06  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
