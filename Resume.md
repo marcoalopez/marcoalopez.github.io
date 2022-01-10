@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a *PhD* in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I returned to research as a postdoc, first training in the [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group (1 year). From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and Digital Image Correlation (DIC) [techniques](https://github.com/marcoalopez/Jupyter4DICe). By 2022, I am starting a new research stage in Uniovi to develop the [OUTCROP project]() as principal investigator.
+**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a Ph.D. in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I returned to research as a postdoc, first training in the [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group where mu research mainly focuses on characterizing rock microstructure using image analysis (1 year). From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [OUTCROP project]() as principal investigator.
 
-My research interests include exploring the physical properties of Earth solid materials (rock/mineral physics) and understand the dynamic processes occurring in the Earth lithosphere (its outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affects the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
+My research interests include exploring the physical properties of Earth solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth lithosphere (its outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
 [TOC]
 
@@ -16,10 +16,10 @@ Universidad de Oviedo
 Calle Jesús Arias de velasco s/n  
 33005 Oviedo  
 Principado de Asturias, Spain  
-Tel: (34) 98 510  xxxx  
+Tel: (34) 98 510  (available soon)  
 
 **e-mail**:  
-marcoalopez [to be found at] uniovi.es  
+(available soon) [to be found at] uniovi.es  
 marcoalopez [to be found at] outlook.com
 
 # On the web
@@ -54,22 +54,22 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2022 - present** - Research fellow at Geology Department, Universidad de Oviedo (Spain)
+**2022 - present** - Researcher in the Department of Geology at the University of Oviedo (Spain)
 
-**2020 - 2021** - CNRS research associate at Géosciences Montpellier, Université de Montpellier (2 years, full-time)
+**2020 - 2021** - CNRS research associate in Géosciences Montpellier at the Université de Montpellier (2 years, full-time)
 
-**2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher at Géosciences Montpellier, Université de Montpellier (France). _24 months of full-time postdoc_.
+**2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher in Géosciences Montpellier at the Université de Montpellier (France). _24 months of full-time postdoc_.
 
-**2015 - 2017** - Postdoctoral researcher, Departamento de Geología, Universidad de Oviedo. *This includes several full and part-time postdoc contracts that add up to a year of experience within this period*
+**2015 - 2017** - Postdoctoral researcher in the Department of Geology at the University of Oviedo (Spain). *This includes several full and part-time postdoc contracts that add up to a year of experience within this period*
 
-**2007 - 2013** - *PhD candidate*, Departamento de Geología, Universidad de Oviedo
+**2007 - 2013** - *PhD candidate*, Department of Geology at the University of Oviedo.
 
 
 ## Fellowships/Awards
 
-2021 - Margarita Salas estabilización grant. Budget 166 000 € for two years (87 000 € salary + 79 000 € for research)
+2021 - Margarita Salas estabilización grant. Two-year contract to develop the OUTCROP project as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
 
-2021 - Margarita Salas joven grant  104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas estabilización* grant
+2021 - Margarita Salas joven grant . Two-year contract to develop the OUTCROP project as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas estabilización* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
 
@@ -95,48 +95,48 @@ Project advisor: Alberto Marcos
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Earth and Planetary Science Letters*. Status: In review.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Status: accepted after minor revision in Sept. 2021.
+**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Status: Accepted
 
 
 ### Published or in press (citable) peer-reviewed publications
 
 **2021**
 
-- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 [Preprint](https://eartharxiv.org/repository/view/1973/) 
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228916_Lopez-Sanchez.pdf) 
 - Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228997. https://doi.org/10.1016/j.tecto.2021.228997 [Preprint](http://arxiv.org/abs/2101.03362)
 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815 [Preprint](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228815_Cardenesetal_preprint.pdf)
 
 **2020**
 
-- **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)  
 
-- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. (2020) Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **138**: 104066 https://doi.org/10.1016/j.jsg.2020.104066  / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_Wenk.pdf)
+- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. (2020) Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **138**: 104066 https://doi.org/10.1016/j.jsg.2020.104066  / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_Wenk.pdf)
 
-- **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
+- **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
 
 **2019**
 
-- **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA**, García-Sansegundo J, and Martínez, FJ (2019) The significance of early Permian and early Carboniferous U-Pb zircon ages in the Bossòts and Lys-Caillaouas granitoids (Pyrenean Axial Zone). *Geological Journal* **54**: 2048-2063  https://doi.org/10.1002/gj.3283 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_GJour_Lopez-Sanchez.pdf)  
 
 **2018**
 
-- **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**: 863, https://doi.org/10.21105/joss.00863 / [get the PDF !](http://joss.theoj.org/papers/10.21105/joss.00863)  
+- **Lopez-Sanchez MA** (2018) GrainSizeTools: a Python script for grain size analysis and paleopiezometry based on grain size. *Journal of Open Source Software* **3**: 863, https://doi.org/10.21105/joss.00863 / [PDF](http://joss.theoj.org/papers/10.21105/joss.00863)  
 
-- **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026> / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA** and Llana-Fúnez S (2018) A cavitation-seal mechanism for ultramylonite formation in quartzfeldspathic rocks within the semi-brittle field (Vivero fault, NW Spain). *Tectonophysics* **745**: 132-153 <https://doi.org/10.1016/j.tecto.2018.07.026> / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2018_Tecto_Lopez-Sanchez.pdf)  
 
 **2016**
 
-- **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; https://doi.org/10.1016/j.jsg.2016.10.008 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA** and Llana-Fúnez S (2016) An extension of the Saltykov method to quantify 3D grain size distributions in mylonites *Journal of Structural Geology* **93**: 149-161; https://doi.org/10.1016/j.jsg.2016.10.008 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JSG_Lopez-Sanchez.pdf)  
 
-- **Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, and Llana-Fúnez S. (2016) An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain). *Journal of the Geological Society* **173**: 282-291; https://doi.org/10.1144/jgs2015-071 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf)   
+- **Lopez-Sanchez MA**, Aleinikoff J, Marcos A, Martínez FJ, and Llana-Fúnez S. (2016) An example of low Th/U zircon overgrowths of magmatic origin in a late orogenic variscan intrusive: the San Ciprián Massif (NW Spain). *Journal of the Geological Society* **173**: 282-291; https://doi.org/10.1144/jgs2015-071 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2016_JGS_Lopez-Sanchez-282-91.pdf)   
 
 **2015**
 
-- **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495; https://doi.org/10.5194/se-6-475-2015 / [get the PDF !](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf)  
+- **Lopez-Sanchez MA** and Llana-Fúnez S (2015) An evaluation of different measures of dynamically recrystallized grain size for paleopiezometry or paleowattmetry studies. *Solid Earth* **6**: 475-495; https://doi.org/10.5194/se-6-475-2015 / [PDF](http://www.solid-earth.net/6/475/2015/se-6-475-2015.pdf)  
 
-- **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**: 927-962; https://doi.org/10.1007/s00531-014-1119-1 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf)  
+- **Lopez-Sanchez MA**, Marcos A, Martínez FJ, Llana-Fúnez S, and Iriondo A (2015) Setting new constrains on the age of crustal-scale normal fault (Vivero Fault): Implications for the evolution of Variscan orogeny in the Iberian Massif. *International Journal of Earth Sciences* **104**: 927-962; https://doi.org/10.1007/s00531-014-1119-1 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_IJES_Lopez-Sanchez.pdf)  
 
-- **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**: 341-350; https://doi.org/10.1017/S0016756814000272 / [get the PDF !](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf)   
+- **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**: 341-350; https://doi.org/10.1017/S0016756814000272 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2015_GMag_Lopez-Sanchez.pdf)   
 
 **Others**
 
@@ -144,7 +144,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 
 ### Field Trip guides
 
-Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [get the PDF!](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
+Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
 ### Meeting proceedings
 
@@ -231,8 +231,8 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ## Participation in Research Projects
 
-**2021 - present**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties and water content of the Cabo Ortegal complex](). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 74000 € (Dec 2021 to Dec 2023)
+**2022 - present**
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties and water content of the Cabo Ortegal complex](). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 79000 € (2 years)
 
 **2021**  
 [ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022).
@@ -305,6 +305,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/01/06  
+Copyright © 2022; *Last update*: 2022/01/11  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
