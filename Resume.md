@@ -19,8 +19,8 @@ Principado de Asturias, Spain
 Tel: (34) 98 510  (available soon)  
 
 **e-mail**:  
-(available soon) [to be found at] uniovi.es  
-marcoalopez [to be found at] outlook.com
+lopezmarco [to be found at] uniovi.es (main, institutional)  
+marcoalopez [to be found at] outlook.com (personal)
 
 # On the web
 
@@ -30,7 +30,7 @@ Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorI
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
-At Géosciences Montpellier: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
+At Uniovi: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach:
 [Marco A. Lopez-Sanchez (@lsmarcoa) / Twitter](https://twitter.com/lsmarcoa),  
