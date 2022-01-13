@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a Ph.D. in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I returned to research as a postdoc, first training in the [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group where mu research mainly focuses on characterizing rock microstructure using image analysis (1 year). From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [OUTCROP project]() as principal investigator.
+**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc in where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [project OUTCROP]() as principal investigator.
 
 My research interests include exploring the physical properties of Earth solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth lithosphere (its outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
@@ -54,7 +54,7 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2022 - present** - Researcher in the Department of Geology at the University of Oviedo (Spain)
+**2022 - present** - Research associate in the Department of Geology at the University of Oviedo (Spain)
 
 **2020 - 2021** - CNRS research associate in Géosciences Montpellier at the Université de Montpellier (2 years, full-time)
 
@@ -67,9 +67,9 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
-2021 - Margarita Salas estabilización grant. Two-year contract to develop the OUTCROP project as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
+2021 - Margarita Salas estabilización grant. Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
 
-2021 - Margarita Salas joven grant . Two-year contract to develop the OUTCROP project as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas estabilización* grant
+2021 - Margarita Salas joven grant . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas estabilización* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
 
