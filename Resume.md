@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc in where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [project OUTCROP]() as principal investigator.
+**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc in where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
 
 My research interests include exploring the physical properties of Earth solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth lithosphere (its outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
@@ -16,7 +16,7 @@ Universidad de Oviedo
 Calle Jesús Arias de velasco s/n  
 33005 Oviedo  
 Principado de Asturias, Spain  
-Tel: (34) 98 510  (available soon)  
+Tel: (34) 98 510 xxxx (available soon)  
 
 **e-mail**:  
 lopezmarco [to be found at] uniovi.es (main, institutional)  
@@ -305,6 +305,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/01/11  
+Copyright © 2022; *Last update*: 2022/01/16  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
