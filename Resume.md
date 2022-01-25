@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hi, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc in where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
+**About me**: Hola, I’m Marco, an earth scientist working in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc in where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to 2021, I joined the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years), then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEOVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
 
 My research interests include exploring the physical properties of Earth solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth lithosphere (its outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, including how rocks respond to an applied force (deformation and rheology) or their seismic properties. Other interests are [crustal strength modelling](https://github.com/marcoalopez/strength_envelopes), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy programming and am an advocate of open source and open science. I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming.
 
@@ -30,7 +30,7 @@ Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorI
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
 Github page: <https://github.com/marcoalopez>   
-At Uniovi: [link](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr)   
+At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach:
 [Marco A. Lopez-Sanchez (@lsmarcoa) / Twitter](https://twitter.com/lsmarcoa),  
@@ -67,15 +67,15 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
-2021 - Margarita Salas estabilización grant. Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
+2021 - Margarita Salas Estabilización Grant. Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
 
-2021 - Margarita Salas joven grant . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas estabilización* grant
+2021 - Margarita Salas joven Grant . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Estabilización* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the reserach project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf)
 
-2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.clarinasturias.es/?lang=en) (Marie Sklodowska-Curie Clarín-COFUND Actions FP7) (2 years)
+2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=Clarin2017) (Marie Sklodowska-Curie Clarín-COFUND Actions FP7) (2 years)
 
 2017 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf)
 
@@ -95,7 +95,7 @@ Project advisor: Alberto Marcos
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Earth and Planetary Science Letters*. Status: In review.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Submitted in July 2021. Status: Accepted
+**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Status: Accepted
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -232,7 +232,7 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 ## Participation in Research Projects
 
 **2022 - present**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties and water content of the Cabo Ortegal complex](). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 79000 € (2 years)
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 79000 € (2 years)
 
 **2021**  
 [ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022).
@@ -305,6 +305,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/01/16  
+Copyright © 2022; *Last update*: 2022/01/25  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
