@@ -67,7 +67,7 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
-2021 - [Margarita Salas Estabilización Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
+2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
 
 2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Estabilización* grant
 
@@ -95,10 +95,12 @@ Project advisor: Alberto Marcos
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Earth and Planetary Science Letters*. Status: In review.
 
-**Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ Status: Accepted
-
 
 ### Published or in press (citable) peer-reviewed publications
+
+**2022**
+
+- **Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ https://doi.org/10.1785/0220210191 / [PDF]()
 
 **2021**
 
@@ -305,6 +307,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/01/31  
+Copyright © 2022; *Last update*: 2022/03/03  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
