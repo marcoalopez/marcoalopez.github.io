@@ -69,7 +69,7 @@ Project advisor: Alberto Marcos
 
 2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research)
 
-2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Estabilización* grant
+2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 € for two years (84 000 € salary + 20 000 € for research). Status: <font color=#FF0000>**rejected**</font> in favour of *Margarita Salas Estabilización* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
 
@@ -100,7 +100,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 
 **2022**
 
-- **Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ https://doi.org/10.1785/0220210191 / [PDF]()
+- **Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ https://doi.org/10.1785/0220210191 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2022_Lopez-Sanchez_Demouchy_Thoraval_srl-2021191.1-2.pdf)
 
 **2021**
 
@@ -148,19 +148,14 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental e
 
 Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
-### Meeting proceedings
+### Meeting proceedings (only first author)
 
-- 2021 - Llana-Fúnez S, de Paz-Álvarez MI, **Lopez-Sanchez MA**, Bernasconi SM, Alonso JL, Berrezueta E, Méndez A, Stoll HM. Carbon-oxygen isotope analysis of fault rocks in carbonates from different orogenic cycles in the Cantabrian Zone (N Spain): similarities and differences. _European Geoscience Union General Assembly 2021_
-- 2021 - Llana-Fúnez S, Cárdenes, V, **Lopez-Sanchez MA**, Olona J, Barou F. Anisotropía sísmica en pizarras de techar del  noroeste peninsular: medida directa y  cálculo de velocidades a partir de  orientación cristalográfica preferente (Oral). _X Congreso Geológico de España (Victoria-Gasteiz, Spain)_
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GDR meeting (Grenoble, France)*
 - 2019 - **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Oral). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- 2019 - Cárdenes V, **Lopez-Sanchez MA**, Barou, F, Olona, J and Llana-Fúnez S. Seismic anisotropy in fine-grained slates from NW Spain (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD (poster). *Final CREEP workshop (Les Houches - France)*
-- 2017 - Llana-Fúnez S, Alonso JL, Caldera N and **Lopez-Sanchez MA**. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain). *Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Inverness, Scotland)*  
-- 2017 - Llana-Fúnez S, de Paola N, Pozzi G and **Lopez-Sanchez MA**. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). *European Geoscience Union General Assembly*  
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Oral). *European Geoscience Union General Assembly*   
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Oral). *Congreso Geológico Nacional de España*  
 - 2012 -**Lopez-Sanchez MA**, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
@@ -234,10 +229,10 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 ## Participation in Research Projects
 
 **2022 - present**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 79000 € (2 years)
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 166 000 € (87 000 € salary + 79 000 € for research) (2 years)
 
 **2021**  
-[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022).
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently collaborator.
 
 **2019 – 2020**  
 [Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). **Grant agreement ID**: 642029. **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
@@ -281,7 +276,7 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 - U-Pb geochronological data treatment
 
 
-# Teaching at university level and workshops
+# Teaching and workshops
 
 **2020** – Workshop instructor: “*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France).
 
@@ -307,6 +302,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/03/03  
+Copyright © 2022; *Last update*: 2022/03/10  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
