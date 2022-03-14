@@ -58,7 +58,7 @@ Project advisor: Alberto Marcos
 
 **2020 - 2021** - CNRS research associate in Géosciences Montpellier at the Université de Montpellier (2 years, full-time)
 
-**2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher in Géosciences Montpellier at the Université de Montpellier (France). _24 months of full-time postdoc_.
+**2018 - 2020** - Marie Sklodowska-Curie Clarín-COFUND postdoctoral researcher in Géosciences Montpellier at the Université de Montpellier, France. (2 years, full-time).
 
 **2015 - 2017** - Postdoctoral researcher in the Department of Geology at the University of Oviedo (Spain). *This includes several full and part-time postdoc contracts that add up to a year of experience within this period*
 
@@ -67,7 +67,7 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
-2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget 166 000 € (87 000 € salary + 79 000 € for research).
+2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
 
 2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €  (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Retención* grant
 
@@ -84,6 +84,8 @@ Project advisor: Alberto Marcos
 2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years)
 
 ## Scientific activities as a visitor researcher
+
+2022 - **Montpellier (France)**. Duration: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ monitoring at Geosciences Montpellier (collaboration as member of the RhEoVOLUTION project)
 
 2019 - **Grenoble (France)**. Duration: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
@@ -302,6 +304,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/03/13  
+Copyright © 2022; *Last update*: 2022/03/14  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
