@@ -85,7 +85,7 @@ Project advisor: Alberto Marcos
 
 ## Scientific activities as a visitor researcher
 
-2022 - **Montpellier (France)**. Duration: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ monitoring at Geosciences Montpellier (collaboration as member of the RhEoVOLUTION project)
+2022 - **Montpellier (France)**. Duration: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring at Geosciences Montpellier (collaboration as member of the RhEoVOLUTION project)
 
 2019 - **Grenoble (France)**. Duration: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
@@ -94,6 +94,8 @@ Project advisor: Alberto Marcos
 ## Publications
 
 ### In review or available as a pre-print
+
+**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. *Earth and Planetary Science Letters*. Status: Submitted.
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Earth and Planetary Science Letters*. Status: In review.
 
@@ -305,6 +307,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/03/16  
+Copyright © 2022; *Last update*: 2022/03/20  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
