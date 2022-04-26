@@ -95,16 +95,16 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H Submitted to *Earth and Planetary Science Letters*. Status: In review
+**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. *Earth and Planetary Science Letters*. Status: In review.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. In review in *Earth and Planetary Science Letters*.
 
 
 ### Published or in press (citable) peer-reviewed publications
 
 **2022**
 
-- **Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters._ https://doi.org/10.1785/0220210191 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2022_Lopez-Sanchez_Demouchy_Thoraval_srl-2021191.1-2.pdf)
+- **Lopez-Sanchez MA**, Demouchy S, Thoraval, C. Comment on “If not brittle: Ductile, Plastic, or Viscous? By Kelin Wang. _Seismological Research Letters_ **93** (3): 1960-1965_ https://doi.org/10.1785/0220210191 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2022_Lopez-Sanchez_Demouchy_Thoraval_srl-2021191.1-2.pdf)
 
 **2021**
 
@@ -174,7 +174,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ## Peer review activity
 
-- **Journal articles:** _Tectonophysics, Journal of Structural Geology, Image Analysis and Stereology, Italian Journal of Geosciences_ 
+- **Journal articles:** _Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, Image Analysis and Stereology, Italian Journal of Geosciences_ 
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
@@ -307,6 +307,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/03/28  
+Copyright © 2022; *Last update*: 2022/04/26  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
