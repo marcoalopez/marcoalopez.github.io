@@ -67,17 +67,19 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
+2022 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
+
 2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
 
 2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €  (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Retención* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
 
-2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the reserach project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf)
+2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
 2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=Clarin2017) (Marie Sklodowska-Curie Clarín-COFUND Actions FP7) (2 years)
 
-2017 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf)
+2017 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal IDEA](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence.pdf) **Score: 88.6/100**
 
 2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016
 
@@ -307,6 +309,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022/04/26  
+Copyright © 2022; *Last update*: 2022-05-06  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
