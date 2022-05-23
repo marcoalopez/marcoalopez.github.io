@@ -73,7 +73,7 @@ Project advisor: Alberto Marcos
 
 2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €  (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Retención* grant
 
-2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of 87.30 (ref. RYC2020-030549-I). Status: in reserve
+2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of **87.30/100** (ref. RYC2020-030549-I). Status: in reserve
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
@@ -298,7 +298,7 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 
 # Administrative experience
 
-**Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee**. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere
+**Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee**. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
 
 
 # Languages
@@ -309,6 +309,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-05-06  
+Copyright © 2022; *Last update*: 2022-05-23  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
