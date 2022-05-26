@@ -17,6 +17,7 @@ Calle Jesús Arias de velasco s/n
 33005 Oviedo  
 Principado de Asturias, Spain  
 Tel: (34) 98 510 xxxx (available soon)  
+Room: 2-23A
 
 **e-mail**:  
 lopezmarco [to be found at] uniovi.es (main, institutional)  
@@ -156,6 +157,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ### Meeting proceedings (only first author)
 
+- 2022 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Oral). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
 - 2022 - **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX (Oral - invited). _Freiberg online MTEX Workshop 2022_
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
@@ -309,6 +311,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-05-23  
+Copyright © 2022; *Last update*: 2022-05-26  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
