@@ -16,7 +16,7 @@ Universidad de Oviedo
 Calle Jesús Arias de velasco s/n  
 33005 Oviedo  
 Principado de Asturias, Spain  
-Tel: (34) 98 510 xxxx (available soon)  
+Tel: (34) 98 510 2933  
 Room: 2-23A
 
 **e-mail**:  
@@ -74,7 +74,7 @@ Project advisor: Alberto Marcos
 
 2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €  (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Retención* grant
 
-2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of **87.30/100** (ref. RYC2020-030549-I). Status: in reserve
+2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of **87.3/100** (ref. RYC2020-030549-I). Status: in reserve
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
@@ -311,6 +311,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-05-26  
+Copyright © 2022; *Last update*: 2022-06-01  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
