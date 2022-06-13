@@ -100,7 +100,7 @@ Project advisor: Alberto Marcos
 
 **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Liu W, Barou F. Experimental evidence for a weak amphibole-rich deep crust in orogens. In review in *Earth and Planetary Science Letters*.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F. Experimental evidence for a weak calcic-amphibole-rich deep crust in orogens. In review.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -157,6 +157,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ### Meeting proceedings (only first author)
 
+- 2022 -  **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Oral). _6th International Workshop on Rock Physics (13 -17 June)_. A Coruña, Spain. https://lameroc.eu/
 - 2022 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Oral). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
 - 2022 - **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX (Oral - invited). _Freiberg online MTEX Workshop 2022_
 - 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Oral). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
@@ -311,6 +312,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-06-01  
+Copyright © 2022; *Last update*: 2022-06-13  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
