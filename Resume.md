@@ -29,7 +29,7 @@ Personal website: <https://marcoalopez.github.io/>
 Orcid-ID: <http://orcid.org/0000-0002-0261-9267>   
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
-Publons / Research-ID: [A-4290-2015](https://publons.com/author/1513594/marco-a-lopez-sanchez#profile)  
+Research-ID: https://www.webofscience.com/wos/author/rid/A-4290-2015  
 Github page: <https://github.com/marcoalopez>   
 At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
@@ -98,7 +98,7 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Strain localisation and microstructure evolution in polycrystalline ice by in-situ strain field measurements. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
+**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record: evidence from in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F. Experimental evidence for a weak calcic-amphibole-rich deep crust in orogens. In review _JGR: Solid Earth_.
 
@@ -194,6 +194,8 @@ Info. & download: https://marcoalopez.github.io/strength_envelopes/
 
 **Jupyter4DICe**: a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
 Info. & download: https://github.com/marcoalopez/Jupyter4DICe
+
+**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in development). Info. & download: https://github.com/marcoalopez/Python_course
 
 **Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
 Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
@@ -313,6 +315,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-07-11  
+Copyright © 2022; *Last update*: 2022-08-22  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
