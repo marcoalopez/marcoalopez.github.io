@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hola, I’m Marco, an earth scientist in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to the end of 2021, I worked as a postdoc in the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years) and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEoVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation and heating using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Uniovi to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
+**About me**: Hola, I’m Marco, an earth scientist in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to the end of 2021, I worked as a postdoc in the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years) and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEoVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation and heating using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Spain to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
 
 My research interests include exploring the physical properties of Earth's solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) or the seismic/elastic properties of solid Earth materials. Other interests are [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and my YouTube channel [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
 
@@ -29,7 +29,7 @@ Personal website: <https://marcoalopez.github.io/>
 Orcid-ID: <http://orcid.org/0000-0002-0261-9267>   
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
-Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
+Research-ID: https://www.webofscience.com/wos/author/record/666433  
 Github page: <https://github.com/marcoalopez>   
 At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
@@ -100,7 +100,7 @@ Project advisor: Alberto Marcos
 
 **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record: evidence from in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F. Experimental evidence for a weak calcic-amphibole-rich deep crust in orogens. In review _JGR: Solid Earth_.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F. Experimental evidence for a weak calcic-amphibole-rich deep crust in orogens. In review in _JGR: Solid Earth_.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -302,7 +302,7 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 - Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
 
-# Administrative experience
+# Organisation of R&D activities
 
 **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee**. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
 
@@ -315,6 +315,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-08-26  
+Copyright © 2022; *Last update*: 2022-11-10  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
