@@ -2,7 +2,7 @@
 
 **About me**: Hola, I’m Marco, an earth scientist in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to the end of 2021, I worked as a postdoc in the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years) and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEoVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation and heating using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Spain to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
 
-My research interests include exploring the physical properties of Earth's solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) or the seismic/elastic properties of solid Earth materials. Other interests are [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and my YouTube channel [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
+I use observational, experimental and computational approaches to study the physical properties of Earth's solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) or the seismic/elastic properties of solid Earth materials. Other interests are [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and my YouTube channel [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
 
 [TOC]
 
@@ -100,7 +100,7 @@ Project advisor: Alberto Marcos
 
 **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record: evidence from in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F. Experimental evidence for a weak calcic-amphibole-rich deep crust in orogens. In review in _JGR: Solid Earth_.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. In review in _GRL_.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -241,11 +241,15 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 ## Participation in Research Projects
 
-**2022 - present**
+**2022 - 2023 (active)**
 [OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 166 000 € (87 000 € salary + 79 000 € for research) (2 years)
 
-**2021**  
-[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently collaborator.
+**2022 - 2026 (active)**
+
+[ASTRACAN project: Analysis of the Bay of Biscay Seismicity and crustal structure at its Southwestern margin (5° to 9°W). Offshore Onshore links between seismic clusters and structures]() (PIs: Gabriela Fernández-Viejo and Sergio Llana-Fúnez). **Grant agreement ID**: . **Role**: Collaborator
+
+**2021 - 2025 (active)**  
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
 
 **2019 – 2020**  
 [Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). **Grant agreement ID**: 642029. **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
@@ -291,13 +295,15 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 
 # Teaching and workshops
 
+**2022 - 2023**: 80 hours of laboratory practice in _Structural Geology_ (40 hours) and _Interpretation of geological maps_ (40 hours) at the University of Oviedo (Geology Degree).  
+
 **2020** – Workshop instructor: “*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France).
 
 **2016**: Accredited as an assistant teacher by the _National Agency for Quality Assessment and Accreditation of Spain_ (ANECA) in 2016.
 
-**2009 - 2011**: Graduate teaching assistant at the Universidad de Oviedo during my pre-doctoral stage (~130 hours of experience)
+**2009 - 2011**: Teaching assistant (pre-doctoral stage) at the University of Oviedo (~130 hours of experience, Degrees in Geology and Mining Engineering). 
 
-- Laboratory sections taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
+- Laboratory practice taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
 
 - Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
@@ -315,6 +321,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-11-10  
+Copyright © 2022; *Last update*: 2022-11-29  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
