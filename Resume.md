@@ -34,7 +34,7 @@ Github page: <https://github.com/marcoalopez>
 At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach:
-[Marco A. Lopez-Sanchez (@lsmarcoa) / Twitter](https://twitter.com/lsmarcoa),  
+[@lsmarcoa](https://twitter.com/lsmarcoa), https://fediscience.org/@marcoalopez   
 https://medium.com/@marcoalopez 
 
 
@@ -100,7 +100,7 @@ Project advisor: Alberto Marcos
 
 **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record: evidence from in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
-Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. In review in _GRL_.
+Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. In review in _Geophysical Research Letters_.
 
 
 ### Published or in press (citable) peer-reviewed publications
@@ -321,6 +321,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-11-29  
+Copyright © 2022; *Last update*: 2022-12-12  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
