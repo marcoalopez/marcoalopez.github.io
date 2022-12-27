@@ -16,7 +16,7 @@ Universidad de Oviedo
 Calle Jesús Arias de velasco s/n  
 33005 Oviedo  
 Principado de Asturias, Spain  
-Tel: (34) 985 10 2933 (alternative way: +34 985 10 3000 and then dial the extension 2933)  
+Tel: (34) 985 10 2933 (alternative: +34 985 10 3000 and then dial the extension 2933)  
 Room: 2-23A
 
 **e-mail**:  
@@ -98,7 +98,7 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record: evidence from in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
+**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. In review in _Geophysical Research Letters_.
 
@@ -202,6 +202,40 @@ Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 
 
 
+## Participation in Research Projects
+
+### Active research projects
+
+**2022 - 2023**
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 166 000 € (87 000 € salary + 79 000 € for research) (2 years).
+
+**2022 - 2026**
+
+[ASTRACAN project: Analysis of the Bay of Biscay Seismicity and crustal structure at its Southwestern margin (5° to 9°W). Offshore Onshore links between seismic clusters and structures]() (PIs: Gabriela Fernández-Viejo and Sergio Llana-Fúnez). **Grant agreement ID**: . **Role**: Collaborator.
+
+**2021 - 2025**  
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
+
+### Past research projects
+
+**2019 – 2020**  
+[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). **Grant agreement ID**: 642029. **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
+
+**2018 - 2019**  
+ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). **Grant agreement ID**: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
+
+**2016 - 2017**  
+MINECO (Spanish) research project: _*Fracturing and cataclasis in continental crust rocks*_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MINECO-15-CGL2014-53388-P. **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
+
+**2015**  
+GRUPIN (regional) research project: _Procesos geológicos modeladores del relieve de la cordillera cantábrica_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: GRUPIN14-044. **Role**: Part-time (2 months) postdoctoral contract under this project.
+
+**2010 - 2013**  
+MICINN (Spanish) research project: _The brittle-ductile transition in the continental crust in North-western Iberia_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MICINN-10-CGL2010-14890. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
+
+**2007 - 2010**  
+MICINN (Spanish) research project: _The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ (original title in Spanish) (PI. Alberto Marcos) Ref: MICINN-06-CGL2006-08822/BTE. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
+
 ## Selected training courses / workshops
 
 **2021** - *Advanced workshop on digital image correlation*  
@@ -238,37 +272,6 @@ Duration: 30 hours
 Prof. Cees W. Passchier  
 Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
 
-
-## Participation in Research Projects
-
-**2022 - 2023 (active)**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 166 000 € (87 000 € salary + 79 000 € for research) (2 years)
-
-**2022 - 2026 (active)**
-
-[ASTRACAN project: Analysis of the Bay of Biscay Seismicity and crustal structure at its Southwestern margin (5° to 9°W). Offshore Onshore links between seismic clusters and structures]() (PIs: Gabriela Fernández-Viejo and Sergio Llana-Fúnez). **Grant agreement ID**: . **Role**: Collaborator
-
-**2021 - 2025 (active)**  
-[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
-
-**2019 – 2020**  
-[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). **Grant agreement ID**: 642029. **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
-
-**2018 - 2019**  
-ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). **Grant agreement ID**: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
-
-**2016 - 2017**  
-MINECO (Spanish) research project: _*Fracturing and cataclasis in continental crust rocks*_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MINECO-15-CGL2014-53388-P. **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
-
-**2015**  
-GRUPIN (regional) research project: _Procesos geológicos modeladores del relieve de la cordillera cantábrica_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: GRUPIN14-044. **Role**: Part-time (2 months) postdoctoral contract under this project.
-
-**2010 - 2013**  
-MICINN (Spanish) research project: _The brittle-ductile transition in the continental crust in North-western Iberia_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MICINN-10-CGL2010-14890. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
-
-**2007 - 2010**  
-MICINN (Spanish) research project: _The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ (original title in Spanish) (PI. Alberto Marcos) Ref: MICINN-06-CGL2006-08822/BTE. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
-
 # Analytical/technical skills
 
 - **Scientific computing and programming**. 
@@ -291,6 +294,7 @@ MICINN (Spanish) research project: _The tectonic evolution of an orogen in the t
 - **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
 - Experience in geological mapping and **Geographical Information Systems** (GIS)
 - U-Pb geochronological data treatment
+- Perple_X for thermodynamic modelling
 
 
 # Teaching and workshops
@@ -321,6 +325,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-12-13  
+Copyright © 2022; *Last update*: 2022-12-27  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
