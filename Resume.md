@@ -2,7 +2,7 @@
 
 **About me**: Hola, I’m Marco, an earth scientist in the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After spending a few years away from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc where my research focused mainly on characterizing rock microstructure through image analysis. From 2018 to the end of 2021, I worked as a postdoc in the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the direction of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html). First with an MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years) and then as a [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEoVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation and heating using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. By 2022, I am starting a new research stage in Spain to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator.
 
-I use observational, experimental and computational approaches to study the physical properties of Earth's solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) or the seismic/elastic properties of solid Earth materials. Other interests are [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and my YouTube channel [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
+I use observational, experimental and computational approaches to study the physical properties of Earth's solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) or the seismic/elastic properties of solid Earth materials. Other interests are [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, modelling of seismic properties in rocks, and the interaction between rock deformation, fluids, and metamorphism. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
 
 [TOC]
 
@@ -34,11 +34,13 @@ Github page: <https://github.com/marcoalopez>
 At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach:
-[@lsmarcoa](https://twitter.com/lsmarcoa), https://fediscience.org/@marcoalopez   
+[@lsmarcoa](https://twitter.com/lsmarcoa) // https://fediscience.org/@marcoalopez   
 https://medium.com/@marcoalopez 
 
 
-# Education
+# Education / Research accreditations
+
+**2023** - Accredited with the i3 certification (Research Activity, I3 Programme) from the Spanish research agency.
 
 **2013** - PhD in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
 Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
@@ -88,11 +90,13 @@ Project advisor: Alberto Marcos
 
 ## Scientific activities as a visitor researcher
 
-2022 - **Montpellier (France)**. Duration: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring at Geosciences Montpellier (collaboration as member of the RhEoVOLUTION project)
+2022 - **[IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain)**. **Duration**: 1 week. **Goal**: Learn how to use the Perple_X tool (thermodynamic modelling) and planning of research project in collaboration with J.A. Padrón-Navarta.
 
-2019 - **Grenoble (France)**. Duration: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods at [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
+2022 - **Geosciences Montpellier (Montpellier, France)**. **Duration**: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring (collaboration as member of the RhEoVOLUTION project)
 
-2018 - **Saint-Étienne (France)**. Duration: 1 week. **Goal**: High temperature experimental deformation of magnesium alloys in a channel-die compression rig at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (collab. R. Quey).
+2019 -  **[Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) (Grenoble, France)****. **Duration**: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
+
+2018 - **[École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (Saint-Étienne, France)**. **Duration**: 1 week. **Goal**: High temperature experimental deformation of magnesium alloys in a channel-die compression rig (collab. R. Quey).
 
 ## Publications
 
@@ -156,6 +160,8 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.
 Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
 ### Meeting proceedings (only first author)
+
+- 2023 - **Lopez-Sanchez MA**. Seismic Modelling Using EBSD. **Invited keynote speaker**. _Freiberg MTEX Workshop 2023_ https://mtex-toolbox.github.io/workshop23
 
 - 2022 - **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Talk). _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
 
@@ -325,6 +331,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2022; *Last update*: 2022-12-27  
+Copyright © 2023; *Last update*: 2023-01-06  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
