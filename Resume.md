@@ -40,7 +40,7 @@ https://medium.com/@marcoalopez
 
 # Education / Research accreditations
 
-**2023** - Accredited with the i3 certification (Research Activity, I3 Programme) from the Spanish research agency.
+**2023** - I3 Certification of Research Activity (I3 Programme of the Spanish Research Agency)  
 
 **2013** - PhD in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
 Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
@@ -331,6 +331,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-01-06  
+Copyright © 2023; *Last update*: 2023-01-08  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
