@@ -16,7 +16,7 @@ Universidad de Oviedo
 Calle Jesús Arias de velasco s/n  
 33005 Oviedo  
 Principado de Asturias, Spain  
-Tel: (34) 985 10 2933 (alternative: +34 985 10 3000 and then dial the extension 2933)  
+Tel: (34) 985 102 933 (alternative: +34 98510 3000 and then dial the extension 2933)  
 Room: 2-23A
 
 **e-mail**:  
@@ -40,7 +40,7 @@ https://medium.com/@marcoalopez
 
 # Education / Research accreditations
 
-**2023** - I3 Certification of Research Activity (I3 Programme of the Spanish Research Agency)  
+**2023** - i3 research activity certification (i3 Programme of the Spanish Research Agency)  
 
 **2013** - PhD in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
 Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
@@ -74,7 +74,7 @@ Project advisor: Alberto Marcos
 
 2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
 
-2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €  (84 000 € salary + 20 000 € for research). Status: rejected in favour of *Margarita Salas Retención* grant
+2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Status: rejected in favour of *Margarita Salas Retención* grant
 
 2021 - Positive assessment in the Ramón y Cajal programme 2021 (Spain) with a score of **87.3/100** (ref. RYC2020-030549-I).
 
@@ -90,7 +90,7 @@ Project advisor: Alberto Marcos
 
 ## Scientific activities as a visitor researcher
 
-2022 - **[IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain)**. **Duration**: 1 week. **Goal**: Learn how to use the Perple_X tool (thermodynamic modelling) and planning of research project in collaboration with J.A. Padrón-Navarta.
+2022 - **[IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain)**. **Duration**: 1 week. **Goal**: Learn how to use the [Perple_X](https://www.perplex.ethz.ch/) (thermodynamic modelling) and planning of research project in collaboration with J.A. Padrón-Navarta.
 
 2022 - **Geosciences Montpellier (Montpellier, France)**. **Duration**: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring (collaboration as member of the RhEoVOLUTION project)
 
@@ -213,34 +213,34 @@ Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
 ### Active research projects
 
 **2022 - 2023**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Role**: Principal investigator, budget 166 000 € (87 000 € salary + 79 000 € for research) (2 years).
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa Margarita Salas Retención](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0298). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
 
 **2022 - 2026**
 
-[ASTRACAN project: Analysis of the Bay of Biscay Seismicity and crustal structure at its Southwestern margin (5° to 9°W). Offshore Onshore links between seismic clusters and structures]() (PIs: Gabriela Fernández-Viejo and Sergio Llana-Fúnez). **Grant agreement ID**: . **Role**: Collaborator.
+[ASTRACAN project: Analysis of the Bay of Biscay Seismicity and crustal structure at its Southwestern margin (5° to 9°W). Offshore Onshore links between seismic clusters and structures](). **Grant agreement ID**: MCIU-22-PID2021-123116NB-I00. **Funded under**: Ministerio de Ciencia e Innovación. **PIs**: G. Fernández-Viejo y S. Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 2022 – 2026. **Total cost**: €203.280  **Role**: Study the influence of microfracturing on seismic response.
 
 **2021 - 2025**  
-[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) (PI: Andrea Tommasi). **Grant agreement ID**: 882450. **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
+[ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) **Grant agreement ID**: 882450. **Funded under**: EXCELLENT SCIENCE - European Research Council (ERC). **PI**: Andrea Tommasi. **Host institution:** CNRS, Geosciences Montpellier. **Dates**: 11/2020 – 10/2025. **Total cost**: €2.500.000 **Link**: https://doi.org/10.3030/882450 **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
 
 ### Past research projects
 
 **2019 – 2020**  
-[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029) (PI: Andrea Tommasi). **Grant agreement ID**: 642029. **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
+[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029). **Grant agreement ID**: 642029. **Funded under**: H2020-EU.1.3. **PI**: Andrea Tommasi. **Host institution:** CNRS, Geosciences Montpellier. **Dates**: 04/2015 – 03/2019. **Total cost**: €3.661.113 **Link**: https://doi.org/10.3030/642029 **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
 
 **2018 - 2019**  
-ANR DREAM French research project: _Dynamic REcrystallization in Anisotropic Materials_ (PI. Maurine Montagnat). **Grant agreement ID**: ANR-13-BS09-0001-01. **Role**: Covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period in France.
+_Dynamic REcrystallization in Anisotropic Materials (DREAM)_. **Grant agreement ID**: ANR-13-BS09-0001. **Funded under**: French National Research Agency (ANR) **PI**: Maurine Montagnat. **Host institution:** Laboratoire de Glaciologie et de Géophysique de l'Environnement, Université Grenoble-Alpes. **Dates**: 2014 – 2018. **Total cost**: €413.911 **Link**: https://anr.fr/Project-ANR-13-BS09-0001 **Role**: Covered research expenses during my stage (1.5 months) in the *Institut des Géosciences de l'Environnement* to perform ice creep experiments using digital image correlation methods.
 
 **2016 - 2017**  
-MINECO (Spanish) research project: _*Fracturing and cataclasis in continental crust rocks*_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MINECO-15-CGL2014-53388-P. **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
+_*Fracturing and cataclasis in continental crust rocks*_. **Grant agreement ID**: MINECO-15-CGL2014-53388-P. **Funded under**: Ministerio de Economía y Competitividad. **PI**: Sergio Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 01/2015 – 09/2018. **Total cost**: €81.070 **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
 
 **2015**  
-GRUPIN (regional) research project: _Procesos geológicos modeladores del relieve de la cordillera cantábrica_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: GRUPIN14-044. **Role**: Part-time (2 months) postdoctoral contract under this project.
+_Procesos geológicos modeladores del relieve de la cordillera cantábrica_. **Grant agreement ID**: GRUPIN14-044. **Funded under**: Gobierno del Principado de Asturias. **PI**: Sergio Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 2015 – 2017. **Total cost**: €151.425 **Role**: Part-time (2 months) postdoctoral contract under this project.
 
-**2010 - 2013**  
-MICINN (Spanish) research project: _The brittle-ductile transition in the continental crust in North-western Iberia_ (PI. Sergio Llana-Fúnez). **Grant agreement ID**: MICINN-10-CGL2010-14890. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
+**2011 - 2013**  
+_The brittle-ductile transition in the continental crust in North-western Iberia_. **Grant agreement ID**: MICINN-10-CGL2010-14890. **Funded under**: Ministerio de Ciencia e Innovación. **PI**: Sergio Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo.  **Dates**: 2011 – 2013. **Total cost**: €133.100 **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
 
-**2007 - 2010**  
-MICINN (Spanish) research project: _The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ (original title in Spanish) (PI. Alberto Marcos) Ref: MICINN-06-CGL2006-08822/BTE. **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
+**2007 - 2009**  
+_The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ **Grant agreement ID**. MICINN-06-CGL2006-08822/BTE. **Funded under**: Ministerio de Ciencia e Innovación. **PI**: Alberto Marcos. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 2006 – 2009. **Total cost**: €84.700 **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
 
 ## Selected training courses / workshops
 
@@ -331,6 +331,6 @@ French - B1
 Portuguese - Posso falar um bocadinho! :)
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-01-08  
+Copyright © 2023; *Last update*: 2023-01-23       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
