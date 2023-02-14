@@ -86,7 +86,7 @@ Project advisor: Alberto Marcos
 
 2016 - Early Career Scientist’s Travel Award for EGU General Assembly 2016
 
-2007 - Predoctoral fellowship in the Severo Ochoa Program (FICYT, Principality of Asturias, Spain) (4 years)
+2007 - [Predoctoral fellowship in the Severo Ochoa Program](https://www.ficyt.es/pri/docs/ConcesionNuevasPredoc07.pdf) (FICYT, Principality of Asturias, Spain) (4 years)
 
 ## Scientific activities as a visitor researcher
 
@@ -331,6 +331,6 @@ French - B1
 Portuguese
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-01-30       
+Copyright © 2023; *Last update*: 2023-02-14       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
