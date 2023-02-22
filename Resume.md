@@ -167,8 +167,8 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 - 2022 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Talk). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
 - 2022 - **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX **(Talk - invited)**. _Freiberg online MTEX Workshop 2022_
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by sub-grain rotation in olivine-rich rocks (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Texture evolution during dynamic recrystallization in olivine-rich rocks (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Talk). *GDR meeting (Grenoble, France)*
 - 2019 - **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Talk). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
@@ -177,10 +177,10 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 - 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Talk). *Congreso Geológico Nacional de España*  
 - 2012 -**Lopez-Sanchez MA**, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
 - 2012 - **Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). *Congreso Geológico Nacional de España*  
-- 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
 - 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Oviedo)*  
 - 2011 - **López-Sánchez MA**, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*
 - 2011 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*  
+- 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
 - 2010 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Talk - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*.  
 - 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
 
@@ -331,6 +331,6 @@ French - B1
 Portuguese
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-02-14       
+Copyright © 2023; *Last update*: 2023-02-22       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
