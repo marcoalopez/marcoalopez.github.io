@@ -161,7 +161,7 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 ### Meeting proceedings (only first author)
 
-- 2023 - **Lopez-Sanchez MA**. Seismic Modelling Using EBSD. **Invited keynote speaker**. _Freiberg MTEX Workshop 2023_ https://mtex-toolbox.github.io/workshop23
+- 2023 - **Lopez-Sanchez MA**. Seismic modelling using EBSD data: why, how, limitations and good practices. **Invited keynote speaker**. _Freiberg MTEX Workshop 2023_ https://mtex-toolbox.github.io/workshop23
 
 - 2022 - **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Talk). _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
 
@@ -331,6 +331,6 @@ French - B1
 Portuguese
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-02-22       
+Copyright © 2023; *Last update*: 2023-03-14       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
