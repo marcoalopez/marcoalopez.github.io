@@ -102,7 +102,7 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H In review in *Earth and Planetary Science Letters*.
+**Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H Status: minor revision in *Earth and Planetary Science Letters*.
 
 Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. In review in _Geophysical Research Letters_.
 
@@ -331,6 +331,6 @@ French - B1
 Portuguese
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-03-14       
+Copyright © 2023; *Last update*: 2023-03-20       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
