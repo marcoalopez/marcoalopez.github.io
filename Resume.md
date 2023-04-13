@@ -158,34 +158,25 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.
 
 Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
-### Meeting proceedings (only first author)
+### Meeting proceedings (only talks in the last 3 years and invited talks)
 
-- 2023 - **Lopez-Sanchez MA**. Seismic modelling using EBSD data: why, how, limitations and good practices. **Invited keynote speaker**. _Freiberg MTEX Workshop 2023_ https://mtex-toolbox.github.io/workshop23
+For a full list of meeting proceedings see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/meeting_proceedings_full.md)
 
-- 2022 - **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Talk). _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
+**2023**
+- Seismic modelling using EBSD data: why, how, limitations and good practices.  _Freiberg MTEX Workshop 2023_. **Invited keynote speaker**. https://mtex-toolbox.github.io/workshop23
 
-- 2022 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Talk). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
-- 2022 - **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX **(Talk - invited)**. _Freiberg online MTEX Workshop 2022_
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Texture evolution during dynamic recrystallization in olivine-rich rocks (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Talk). *GDR meeting (Grenoble, France)*
-- 2019 - **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Talk). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD (poster). *Final CREEP workshop (Les Houches - France)*
-- 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Talk). *European Geoscience Union General Assembly*   
-- 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Talk). *Congreso Geológico Nacional de España*  
-- 2012 -**Lopez-Sanchez MA**, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
-- 2012 - **Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). *Congreso Geológico Nacional de España*  
-- 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Oviedo)*  
-- 2011 - **López-Sánchez MA**, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*
-- 2011 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*  
-- 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
-- 2010 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Talk - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*.  
-- 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)*  
+**2022**
+- Evolution of strain field and microstructure in polycrystalline ice using in situ experiments. _6th International Workshop on Rock Physics (A Coruña, 3 -17 June)_ https://lameroc.eu/
+- Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD. _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
+- Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX _Freiberg online MTEX Workshop 2022_. **(Invited)**. 
+
+**2020**
+- Texture evolution during dynamic recrystallization in olivine-rich rocks. *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments. *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 
 ## Peer review activity
 
-- **Journal articles:** _Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, Image Analysis and Stereology, Italian Journal of Geosciences_ 
+- **Journal articles:** _Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Image Analysis and Stereology, Italian Journal of Geosciences_ 
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
@@ -199,13 +190,6 @@ Info. & download: https://marcoalopez.github.io/strength_envelopes/
 
 **Jupyter4DICe**: a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
 Info. & download: https://github.com/marcoalopez/Jupyter4DICe
-
-**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in development). Info. & download: https://github.com/marcoalopez/Python_course
-
-**Nearest neighbour**: A Python script to estimate nearest neighbour distance and perform nearest neighbour Monte Carlo simulations  
-Info. & download: <https://github.com/marcoalopez/nearest_neighbour>
-
-
 
 ## Participation in Research Projects
 
@@ -243,72 +227,19 @@ _The tectonic evolution of an orogen in the transition between the internal and 
 
 ## Selected training courses / workshops
 
-**2021** - *Advanced workshop on digital image correlation*  
-Duration: 120 hours, [Virtual EBSD 2021 meeting](https://www.rms.org.uk/rms-event-calendar/2021-events/ebsd-2021.html)   
-Coordinator:  João Quinta da Fonseca  
+**2021** - *Advanced workshop on digital image correlation* (120 hours) [Virtual EBSD 2021 meeting](https://www.rms.org.uk/rms-event-calendar/2021-events/ebsd-2021.html)   
+**2019** - *4th Innovative Training Network CREEP workshop (EU-H2020)*  (5 days) [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France. For details see [here](https://www.houches-school-physics.com/program/program-2019/4th-innovative-training-network-creep-workshop-404067.kjsp?RH=1529674446765)
+**2016** - *Thematic School – Recrystallization Mechanism in Materials* (32 hours). Sète, France. Organized by the CNRS "Groupement de Recherche" on Recrystallization (GDR3436). [Certificate](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Attestation_Eng_Lopez.pdf)
+**2015** - *Introduction to R Programming* (10 hours). Microsoft edx course (DAT204x). [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/d308f676762943cc819f2ded2f95ae2b/Certificate.pdf)
+**2013** - *Introduction to computer science and programming using Python* (210 hours). Massachusetts Institute of Technology EDX course (MITx - 6.00x). [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/c32e2dd3fd54496c9c88bb282e34f272/Certificate.pdf)
+**2012** - *Scanning Electron Microscopy and its applications to analyses of Rock*s (30 hours). Department of Earth, Ocean and Ecological Sciences, University of Liverpool
+**2008** - *Training course in microtectonics* (30 hours). Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
 
-**2019** - *4th Innovative Training Network CREEP workshop (EU-H2020)*  
-Duration: 5 days, [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France  
-Coordinator: Andrea Tommasi  
-Workshop focused on the rheology of geological materials. For details see [here](https://www.houches-school-physics.com/program/program-2019/4th-innovative-training-network-creep-workshop-404067.kjsp?RH=1529674446765)
+# Teaching
 
-**2016** - *Thematic School – Recrystallization Mechanism in Materials*  
-Duration: 5 days (32 hours), Sète, France  
-Coordinator: Maurine Montagnat  
-Organized by the CNRS "Groupement de Recherche" on Recrystallization (GDR3436). [Certificate](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Attestation_Eng_Lopez.pdf)
+### University courses
 
-**2015** - *Introduction to R Programming*  
-Duration: 10 hours  
-Instructor: Filip Schouwenaars  
-Microsoft edx course (DAT204x). [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/d308f676762943cc819f2ded2f95ae2b/Certificate.pdf)
-
-**2013** - *Introduction to computer science and programming using Python*  
-Duration: 210 hours  
-Prof. Eric Grimson, Prof. John Guttag, Dr Chris Terman and Dr Larry Rudolph  
-Massachusetts Institute of Technology edx course (MITx - 6.00x). [Certificate](https://s3.amazonaws.com/verify.edx.org/downloads/c32e2dd3fd54496c9c88bb282e34f272/Certificate.pdf)
-
-**2012** - *Scanning Electron Microscopy and its applications to analyses of Rock*s  
-Duration: 30 hours  
-Prof. John Wheeler, Dr Elisabetta Mariani and Dr Dan Tatham  
-Department of Earth, Ocean and Ecological Sciences, University of Liverpool
-
-**2008** - *Training course in microtectonics*  
-Duration: 30 hours  
-Prof. Cees W. Passchier  
-Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany).
-
-# Analytical/technical skills
-
-- **Scientific computing and programming**. 
-  - Wide experience using [Python ](https://www.python.org/)programming language and the scientific libraries [Numpy](http://www.numpy.org/), [Scipy](http://www.scipy.org/), [Matplotlib](http://matplotlib.org/), and [Pandas](http://pandas.pydata.org/).
-  - Basic knowledge of [MATLAB](), [R](https://www.r-project.org/) and [Julia](https://julialang.org/) programming languages. 
-  - Familiarized with unit testing, version control systems (Git), and code repositories such as GitHub.
-- **Image acquisition and analysis**.
-  - Practical experience with cameras and digital image acquisition. [Dcraw](https://www.cybercom.net/~dcoffin/dcraw/) - raw image extraction.
-  - Experience using [ImageJ](http://developer.imagej.net/) and [scikit-image](https://scikit-image.org/) (Python library) - Noise reduction, image enhancement, grain segmentation, shape descriptors, and spatial analysis.
-  - For **grain size analysis** I use my own tools/scripts. See an example in http://marcoalopez.github.io/GrainSizeTools/
-  - Experience with **Digital Image Correlation** (DIC) methods. Generation and quality analysis of speckle patterns and DIC data treatment workflow using [DICe](https://github.com/dicengine/dice) and own [Python codes](https://github.com/marcoalopez/Jupyter4DICe).
-- **Experimental deformation and annealing**.  
-  - Broad experience setting up annealing and deformation experiments in different configurations. In situ EBSD monitoring, tension and creep experiments. 
-  - Experience in sample preparation (ice - cold rooms, metals, and rocks).
-  - Good theoretical background in interpreting experimental data (i.e. statistics, interpolation and regression using SciPy optimization package)
-  - Others: Basic experience with LabVIEW. Welding skills.
-- **Electron Backscatter diffraction (EBSD)** data treatment. 
-  - **Wide experience using the MTEX toolbox**. I also contributed to the MTEX through community scripts. See https://github.com/marcoalopez/mtex_scripts
-  - Others: *AZtec HKL/Channel 5*, *PFch5 script*, and own codes.
-- **Electron Probe Micro-analyser **(EPMA). Including monazite chemical dating (see <https://github.com/marcoalopez/chemical_age_script>)
-- Experience in geological mapping and **Geographical Information Systems** (GIS)
-- U-Pb geochronological data treatment
-- Perple_X for thermodynamic modelling
-
-
-# Teaching and workshops
-
-**2022 - 2023**: 80 hours of laboratory practice in _Structural Geology_ (40 hours) and _Interpretation of geological maps_ (40 hours) at the University of Oviedo (Geology Degree).  
-
-**2020** – Workshop instructor: “*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France).
-
-**2016**: Accredited as an assistant teacher by the _National Agency for Quality Assessment and Accreditation of Spain_ (ANECA) in 2016.
+**2022 - 2023**: 80 hours of laboratory practice in _Structural Geology_ (40 hours) and _Interpretation of geological maps_ (40 hours) at the University of Oviedo (Geology Degree).
 
 **2009 - 2011**: Teaching assistant (pre-doctoral stage) at the University of Oviedo (~130 hours of experience, Degrees in Geology and Mining Engineering). 
 
@@ -316,10 +247,18 @@ Institut für Geowissenschaften; Johannes Gutenberg-Universität Mainz (Germany)
 
 - Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
+### Workshops
+
+**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in preparation). Infomation: https://github.com/marcoalopez/Python_course  
+
+“*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France)
+
 
 # Organisation of R&D activities
 
-**Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting organizing committee**. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
+- Organizing committee of the **7th International Orogenic Lherzolite 2024 meeting** to be held in summer 2024 in Cabo Ortegal. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. **To be announced soon**.
+
+- Organizing committee of the **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting **. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
 
 
 # Languages
@@ -329,7 +268,7 @@ English - fluent
 French - B1  
 Portuguese
 
-![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
+--
 Copyright © 2023; *Last update*: 2023-04-13       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
