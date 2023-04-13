@@ -33,9 +33,7 @@ Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015
 Github page: <https://github.com/marcoalopez>   
 At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
-Outreach:
-[@lsmarcoa](https://twitter.com/lsmarcoa) // https://fediscience.org/@marcoalopez   
-https://medium.com/@marcoalopez 
+Outreach: [@lsmarcoa](https://twitter.com/lsmarcoa) // <a rel="me" href="https://fediscience.org/@marcoalopez">Mastodon</a>   
 
 
 # Education / Research accreditations
@@ -332,6 +330,6 @@ French - B1
 Portuguese
 
 ![footer](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/footer.webp)
-Copyright © 2023; *Last update*: 2023-03-28       
+Copyright © 2023; *Last update*: 2023-04-13       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
