@@ -106,7 +106,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.
 
 **2023**
 
-- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. Pre-print at _EarthArXiv_. https://doi.org/10.31223/X5291H **Accepted in Earth and Planetary Science Letters**.
+- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. _Earth and Planetary Science Letters_ **118149**. https://doi.org/10.1016/j.epsl.2023.118149 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf) / [Preprint](https://doi.org/10.31223/X5291H)
 
 **2022**
 
@@ -249,7 +249,7 @@ _The tectonic evolution of an orogen in the transition between the internal and 
 
 ### Workshops
 
-**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in preparation). Infomation: https://github.com/marcoalopez/Python_course  
+**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in preparation). Website: https://github.com/marcoalopez/Python_course  
 
 “*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France)
 
@@ -269,6 +269,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-04-13       
+Copyright © 2023; *Last update*: 2023-04-14       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
