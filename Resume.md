@@ -163,9 +163,10 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 For a full list of meeting proceedings see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/meeting_proceedings_full.md)
 
 **2023**
-- Seismic modelling using EBSD data: why, how, limitations and good practices.  _Freiberg MTEX Workshop 2023_. **Invited keynote speaker**. https://mtex-toolbox.github.io/workshop23
+- Seismic modelling using EBSD data: why, how, limitations and good practices. _Freiberg MTEX Workshop 2023_. **Invited keynote speaker**. https://mtex-toolbox.github.io/workshop23
 
 **2022**
+
 - Evolution of strain field and microstructure in polycrystalline ice using in situ experiments. _6th International Workshop on Rock Physics (A Coruña, 3 -17 June)_ https://lameroc.eu/
 - Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD. _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
 - Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX _Freiberg online MTEX Workshop 2022_. **(Invited)**. 
@@ -180,18 +181,31 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
-## Selected scripts & codes
+## Coding projects
 
-**GrainSizeTools**: A free and open-source Python script for estimating the grain size from thin sections  
-Info. & download: <http://marcoalopez.github.io/GrainSizeTools/>
+Here are some of my coding projects in no particular order:
 
-**Strength envelopes**: A set of Jupyter notebooks to generate crust and lithoshere strenght envelopes  
-Info. & download: https://marcoalopez.github.io/strength_envelopes/
+[GrainSizeTools](http://marcoalopez.github.io/GrainSizeTools/): A free and open-source Python script for estimating the grain size from thin sections  
 
-**Jupyter4DICe**: a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
-Info. & download: https://github.com/marcoalopez/Jupyter4DICe
+[Introduction to the Python programming language for data analysis in Earth sciences](https://github.com/marcoalopez/Python_course): an introductory course to the Python programming language for data analysis using examples from the earth sciences. 
+
+[Strength envelopes](https://marcoalopez.github.io/strength_envelopes/): A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (in development!)  
+
+[Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe): a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
+
+[Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python (using matplotlib)  
+
+[PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (in early development!)   
+
+You can find more (pet) projects of mine on [here](https://github.com/marcoalopez?tab=repositories)
 
 ## Participation in Research Projects
+
+### Own project websites
+
+OUTCROP project: https://marcoalopez.github.io/OUTCROPproject/
+
+IDEA project: https://marcoalopez.github.io/IDEAproject/
 
 ### Active research projects
 
@@ -205,25 +219,7 @@ Info. & download: https://github.com/marcoalopez/Jupyter4DICe
 **2021 - 2025**  
 [ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) **Grant agreement ID**: 882450. **Funded under**: EXCELLENT SCIENCE - European Research Council (ERC). **PI**: Andrea Tommasi. **Host institution:** CNRS, Geosciences Montpellier. **Dates**: 11/2020 – 10/2025. **Total cost**: €2.500.000 **Link**: https://doi.org/10.3030/882450 **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
 
-### Past research projects
-
-**2019 – 2020**  
-[Marie Curie Integrated Training Network (ITN) CREEP project: Complex RhEologies in Earth dynamics and industrial Processes](https://cordis.europa.eu/project/id/642029). **Grant agreement ID**: 642029. **Funded under**: H2020-EU.1.3. **PI**: Andrea Tommasi. **Host institution:** CNRS, Geosciences Montpellier. **Dates**: 04/2015 – 03/2019. **Total cost**: €3.661.113 **Link**: https://doi.org/10.3030/642029 **Role**: One-year full-time CNRS (research associate) contract under this project using retained earnings (2020) and covered expenses for my scientific activities during my postdoctoral Marie Sklodowska-Curie Clarín-COFUND period (2018-2019) in France.
-
-**2018 - 2019**  
-_Dynamic REcrystallization in Anisotropic Materials (DREAM)_. **Grant agreement ID**: ANR-13-BS09-0001. **Funded under**: French National Research Agency (ANR) **PI**: Maurine Montagnat. **Host institution:** Laboratoire de Glaciologie et de Géophysique de l'Environnement, Université Grenoble-Alpes. **Dates**: 2014 – 2018. **Total cost**: €413.911 **Link**: https://anr.fr/Project-ANR-13-BS09-0001 **Role**: Covered research expenses during my stage (1.5 months) in the *Institut des Géosciences de l'Environnement* to perform ice creep experiments using digital image correlation methods.
-
-**2016 - 2017**  
-_*Fracturing and cataclasis in continental crust rocks*_. **Grant agreement ID**: MINECO-15-CGL2014-53388-P. **Funded under**: Ministerio de Economía y Competitividad. **PI**: Sergio Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 01/2015 – 09/2018. **Total cost**: €81.070 **Role**: Part-time (5.5. months) and full-time (8 months) postdoctoral contract under this project.
-
-**2015**  
-_Procesos geológicos modeladores del relieve de la cordillera cantábrica_. **Grant agreement ID**: GRUPIN14-044. **Funded under**: Gobierno del Principado de Asturias. **PI**: Sergio Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 2015 – 2017. **Total cost**: €151.425 **Role**: Part-time (2 months) postdoctoral contract under this project.
-
-**2011 - 2013**  
-_The brittle-ductile transition in the continental crust in North-western Iberia_. **Grant agreement ID**: MICINN-10-CGL2010-14890. **Funded under**: Ministerio de Ciencia e Innovación. **PI**: Sergio Llana-Fúnez. **Host institution:** Department of Geology, University of Oviedo.  **Dates**: 2011 – 2013. **Total cost**: €133.100 **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
-
-**2007 - 2009**  
-_The tectonic evolution of an orogen in the transition between the internal and external zones: A comparison between the Variscan orogen in the NW of Iberian Peninsula and the Pyreneean Axial Zone_ **Grant agreement ID**. MICINN-06-CGL2006-08822/BTE. **Funded under**: Ministerio de Ciencia e Innovación. **PI**: Alberto Marcos. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 2006 – 2009. **Total cost**: €84.700 **Role**: Covered expenses for my research and scientific activities during my pre-doctoral period.
+For a full list of past participation in research projects see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/research_projects_full.md)
 
 ## Selected training courses / workshops
 
@@ -251,7 +247,7 @@ _The tectonic evolution of an orogen in the transition between the internal and 
 
 **Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in preparation). Website: https://github.com/marcoalopez/Python_course  
 
-“*EBSD data treatment with MTEX*” at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France)
+**EBSD data treatment with MTEX** at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France)
 
 
 # Organisation of R&D activities
@@ -269,6 +265,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-04-14       
+Copyright © 2023; *Last update*: 2023-04-22       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
