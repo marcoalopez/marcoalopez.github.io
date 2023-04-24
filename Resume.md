@@ -265,6 +265,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-04-24       
+Copyright © 2024; *Last update*: 2024-04-24       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
