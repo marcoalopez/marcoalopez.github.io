@@ -106,7 +106,7 @@ Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.
 
 **2023**
 
-- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. _Earth and Planetary Science Letters_ **118149**. https://doi.org/10.1016/j.epsl.2023.118149 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf) / [Preprint](https://doi.org/10.31223/X5291H)
+- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. _Earth and Planetary Science Letters_ **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf) / [Preprint](https://doi.org/10.31223/X5291H)
 
 **2022**
 
@@ -197,15 +197,15 @@ Here are some of my coding projects in no particular order:
 
 [PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (in early development!)   
 
-You can find more (pet) projects of mine on [here](https://github.com/marcoalopez?tab=repositories)
+You can find more (pet) projects of mine [here](https://github.com/marcoalopez?tab=repositories)
 
 ## Participation in Research Projects
 
 ### Own project websites
 
-OUTCROP project: https://marcoalopez.github.io/OUTCROPproject/
+[OUTCROP project](https://marcoalopez.github.io/OUTCROPproject/)
 
-IDEA project: https://marcoalopez.github.io/IDEAproject/
+[IDEA project](https://marcoalopez.github.io/IDEAproject/)
 
 ### Active research projects
 
@@ -265,6 +265,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-04-22       
+Copyright © 2023; *Last update*: 2023-04-24       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
