@@ -107,7 +107,7 @@ Project advisor: Alberto Marcos
 **2023**
 
 - **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. _Earth and Planetary Science Letters_ **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf) / [Preprint](https://doi.org/10.31223/X5291H)
-- Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. _Geophysical Research Letters_. **Accepted**, awaiting publication. 
+- Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. _Geophysical Research Letters_ **50**: e2022GL102320 https://doi.org/10.1029/2022GL102320 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_GRL_Wangetal.pdf)
 
 **2022**
 
@@ -268,6 +268,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-07-26       
+Copyright © 2023; *Last update*: 2023-08-14       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
