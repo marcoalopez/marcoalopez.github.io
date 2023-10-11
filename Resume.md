@@ -70,7 +70,7 @@ Project advisor: Alberto Marcos
 
 2022 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
 
-2021 - [Margarita Salas Retención Grant](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
+2021 - [Margarita Salas Grant PCTI](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
 
 2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Status: rejected in favour of *Margarita Salas Retención* grant
 
@@ -182,7 +182,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
-- **Editorial activity**: Since 2023, I am one of the [co-editors](https://reunido.uniovi.es/index.php/TDG/about/editorialTeam) of the journal [Trabajos de Geología](https://reunido.uniovi.es/index.php/TDG/index).
+- **Editorial activity**: Since 2023, I am [co-editor](https://reunido.uniovi.es/index.php/TDG/about/editorialTeam) of the journal [Trabajos de Geología](https://reunido.uniovi.es/index.php/TDG/index) and Review editor of Frontiers in Earth Science.
 
 ## Coding projects
 
@@ -268,6 +268,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-08-14       
+Copyright © 2023; *Last update*: 2023-10-11       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
