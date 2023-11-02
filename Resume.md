@@ -213,7 +213,7 @@ You can find more (pet) projects of mine [here](https://github.com/marcoalopez?t
 ### Active research projects
 
 **2022 - 2023**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa Margarita Salas Retención](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0298). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa Margarita Salas](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
 
 **2022 - 2026**
 
