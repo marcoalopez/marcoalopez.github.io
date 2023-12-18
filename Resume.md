@@ -178,11 +178,11 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 ## Peer review and editorial activity
 
-- **Journal articles:** _Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Image Analysis and Stereology, Italian Journal of Geosciences_ 
+- **Journal articles:** _Geology, Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Solid Earth, Image Analysis and Stereology, Italian Journal of Geosciences_ 
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
-- **Editorial activity**: Since 2023, I am [co-editor](https://reunido.uniovi.es/index.php/TDG/about/editorialTeam) of the journal [Trabajos de Geología](https://reunido.uniovi.es/index.php/TDG/index) and Review editor of Frontiers in Earth Science.
+- **Editorial activity**: Since 2023, I am [co-editor](https://reunido.uniovi.es/index.php/TDG/about/editorialTeam) of the journal [Trabajos de Geología](https://reunido.uniovi.es/index.php/TDG/index) and [Review editor](https://www.frontiersin.org/journals/earth-science/editors) (Solid Earth Geophysics) of Frontiers in Earth Science.
 
 ## Coding projects
 
@@ -236,9 +236,9 @@ For a full list of past participation in research projects see [here](https://gi
 
 # Teaching
 
-### University courses
+### University courses (University of Oviedo)
 
-**2022 - 2023**: 80 hours of laboratory practice in _Structural Geology_ (40 hours) and _Interpretation of geological maps_ (40 hours) at the University of Oviedo (Geology Degree).
+**2022 - 2023**: 100 hours of laboratory practice in _Structural Geology_ (60 hours) and _Interpretation of Geological Maps_ (40 hours); Degree in Geology. 20 hours of theory in _Geology and its Applications to Engineering_; Degree in Mining Engineering. 
 
 **2009 - 2011**: Teaching assistant (pre-doctoral stage) at the University of Oviedo (~130 hours of experience, Degrees in Geology and Mining Engineering). 
 
@@ -255,7 +255,7 @@ For a full list of past participation in research projects see [here](https://gi
 
 # Organisation of R&D activities
 
-- Organizing committee of the **7th International Orogenic Lherzolite meeting 2024 ** to be held in Cabo Ortegal and Oviedo from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. [website](https://lherzolite2024.github.io)
+- Organizing committee of the **7th International Orogenic Lherzolite meeting 2024 **to be held in Oviedo and Cabo Ortegal (fieldtrip) from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. [website](https://lherzolite2024.github.io)
 
 - Organizing committee of the **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting **. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
 
@@ -268,6 +268,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-11-02       
+Copyright © 2023; *Last update*: 2023-12-19       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
