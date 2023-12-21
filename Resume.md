@@ -20,8 +20,8 @@ Tel: (34) 985 102 933 (alternative: +34 98510 3000 and then dial the extension 2
 Room: 2-23A
 
 **e-mail**:  
-lopezmarco [to be found at] uniovi.es (main, institutional)  
-marcoalopez [to be found at] outlook.com (personal)
+lopezmarco [to be found at] uniovi [dot] es (main, institutional)  
+marcoalopez [to be found at] outlook [dot] com (personal)
 
 # On the web
 
@@ -98,7 +98,7 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-
+Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*.
 
 ### Published or in press (citable) peer-reviewed publications
 
@@ -198,7 +198,7 @@ Here are some of my coding projects in no particular order:
 
 [Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python (using matplotlib)  
 
-You can find more (pet) projects of mine [here](https://github.com/marcoalopez?tab=repositories)
+You can find more pet projects of mine [here](https://github.com/marcoalopez?tab=repositories)
 
 ## Participation in Research Projects
 
@@ -266,6 +266,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-12-20       
+Copyright © 2023; *Last update*: 2023-12-21       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
