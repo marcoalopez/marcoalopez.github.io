@@ -98,7 +98,7 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*.
+Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Submitted to Acta Materialia.
 
 ### Published or in press (citable) peer-reviewed publications
 
@@ -266,6 +266,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-12-21       
+Copyright © 2023; *Last update*: 2023-12-22       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
