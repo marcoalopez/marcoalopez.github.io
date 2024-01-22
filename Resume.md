@@ -98,13 +98,13 @@ Project advisor: Alberto Marcos
 
 ### In review or available as a pre-print
 
-Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Submitted to Acta Materialia.
+Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Submitted to Acta Materialia. [Preprint](https://hal.science/hal-04388880/)
 
 ### Published or in press (citable) peer-reviewed publications
 
 **2023**
 
-- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. _Earth and Planetary Science Letters_ **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf) / [Preprint](https://doi.org/10.31223/X5291H)
+- **Lopez-Sanchez MA**, Chauve T, Montagnat M, Tommasi A. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. _Earth and Planetary Science Letters_ **611**: 118149. https://doi.org/10.1016/j.epsl.2023.118149 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_EPLS118149_Lopez-Sanchez.pdf)
 - Wang X, Zhang J, Tommasi A, **Lopez-Sanchez MA**, Jing Z, Shi F, Liu W, Barou F.  Experimental Evidence for a Weak Calcic-Amphibole-Rich Deep Crust in Orogens. _Geophysical Research Letters_ **50**: e2022GL102320 https://doi.org/10.1029/2022GL102320 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_GRL_Wangetal.pdf)
 
 **2022**
@@ -208,7 +208,7 @@ You can find more pet projects of mine [here](https://github.com/marcoalopez?tab
 
 [IDEA project](https://marcoalopez.github.io/IDEAproject/)
 
-### Active research projects
+### Last research projects
 
 **2022 - 2023**
 [OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa Margarita Salas](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
@@ -266,6 +266,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2023-12-22       
+Copyright © 2023; *Last update*: 2024-01-22       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
