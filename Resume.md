@@ -1,8 +1,8 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hola! I’m Marco, an earth scientist currently affiliated with the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). I hold a PhD in Geology from the University of Oviedo since 2013. After a few years hiatus from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc where my primary focus revolved around the characterization of rock microstructure through image analysis techniques. Following that, I worked as a postdoc in the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) in France under the guidance of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) for four years. First after obtaining a MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years) and then as a hired [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEoVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation and heating using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. In 2022, I started a new research stage back in Spain to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator. Also, I am one of the promoters and organisers of the 7th International Orogenic Lherzholite Meeting to be held in Oviedo in the autumn of 2024 (see https://lherzolite2024.github.io).
+**About me**: Hola. I am Marco, an earth scientist (PhD in Geology, 2013) currently affiliated with the [Department of Geology](https://dptogeol.uniovi.es/) at [UniOvi](https://www.uniovi.es/en/inicio) (Spain). After a few years hiatus from academia, I joined [Sergio’s Llana-Fúnez](http://geol00.geol.uniovi.es/~slf/web/eng/SLF_home.html) research group as a postdoc where my primary focus revolved around the characterization of rock microstructure through image analysis techniques. Following that, I worked as a postdoc in the *Manteau et Interfaces* research group at [Géosciences Montpellier](http://www.gm.univ-montp2.fr/spip.php?article2813&lang=fr) (France) under the guidance of [Andréa Tommasi](http://www.gm.univ-montp2.fr/PERSO/tommasi/deia-us.html) for four years. First, after obtaining a MSCA-COFUND grant to develop the [project IDEA](https://marcoalopez.github.io/IDEAproject/) (2 years) and then as a hired [CNRS](http://www.cnrs.fr/) researcher and member of the [RhEoVOLUTION project](https://erc-rheovolution.gm.univ-montp2.fr/team/). During this stage, my research focuses on characterizing the evolution of the strain field, microstructure and crystal preferred orientation during deformation and heating using in-situ monitoring, Electron Backscatter Diffraction (EBSD), and [Digital Image Correlation (DIC)](https://github.com/marcoalopez/Jupyter4DICe) techniques. In 2022, I started a new research stage back in Spain to develop the [project OUTCROP](https://marcoalopez.github.io/OUTCROPproject/) as principal investigator. Also, I am one of the promoters and organisers of the 7th International Orogenic Lherzholite Meeting to be held in Oviedo in the autumn of 2024 (see https://lherzolite2024.github.io).
 
-In my research, I use observational, experimental and computational approaches to study the physical properties of Earth's solid materials (rock/mineral physics) and understanding the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. My primary interest is to understand how microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. In addition to my core interests, I actively engage with topics such as [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, and the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. Occasionally, I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
+In my research, I use observational, experimental and computational approaches to study the physical properties of Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understand how rock microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology) and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. In addition to my core interests, I actively engage with topics such as [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, and the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. Occasionally, I also try to spread the word about my research interest through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth science talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o).
 
 [TOC]
 
@@ -43,7 +43,7 @@ Outreach: [@lsmarcoa](https://twitter.com/lsmarcoa) // <a rel="me" href="https:/
 **2013** - PhD in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
 Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
 Advisors: Sergio Llana-Fúnez, Alberto Marcos and Francisco J. Martínez  
-Topic: Analysis of the microstructure, metamorphism, and age of a crustal-scale fossil shear zone.
+Topic: Analysis of the microstructure, metamorphism, and age of a fossil crustal-scale shear zone.
 
 **2007** - Diploma of Advanced Studies (**DEA**) in the (interuniversity) program “_Exploration, analysis and modelling of basins and orogenic systems_” from the University of Oviedo and University of Barcelona  
 Project advisor: Alberto Marcos
@@ -96,7 +96,7 @@ Project advisor: Alberto Marcos
 
 ## Publications
 
-### In review or available as a pre-print
+### In review and/or available as a pre-print
 
 Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Submitted to Acta Materialia. [Preprint](https://hal.science/hal-04388880/)
 
@@ -206,7 +206,7 @@ You can find more pet projects of mine [here](https://github.com/marcoalopez?tab
 
 [OUTCROP project](https://marcoalopez.github.io/OUTCROPproject/)
 
-[IDEA project](https://marcoalopez.github.io/IDEAproject/)
+[IDEA project (MSCA COFUND)](https://marcoalopez.github.io/IDEAproject/)
 
 ### Last research projects
 
@@ -266,6 +266,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2023; *Last update*: 2024-01-22       
+Copyright © 2023; *Last update*: 2024-01-30       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
