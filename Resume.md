@@ -14,7 +14,7 @@ Universidad de Oviedo
 Calle Jesús Arias de velasco s/n  
 33005 Oviedo  
 Principado de Asturias, Spain  
-Tel: (34) 985 102 933 (alternative: +34 98510 3000 and then dial the extension 2933)  
+Tel: (34) 985 102 933 (alternative: +34 985 103 000 and then dial the extension 2933)  
 Room: 2-23A
 
 **e-mail**:  
@@ -24,7 +24,7 @@ marcoalopez [to be found at] outlook [dot] com (personal)
 # On the web
 
 Personal website: <https://marcoalopez.github.io/>  
-Orcid-ID: <http://orcid.org/0000-0002-0261-9267>   
+ORCID: <http://orcid.org/0000-0002-0261-9267>   
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
@@ -94,9 +94,9 @@ Project advisor: Alberto Marcos
 
 ## Publications
 
-### In review and/or available as a pre-print
+### In review (with pre-print links)
 
-Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Submitted to Acta Materialia. [Preprint](https://hal.science/hal-04388880/)
+Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. In review. [Preprint](https://hal.science/hal-04388880/)
 
 ### Published or in press (citable) peer-reviewed publications
 
@@ -234,7 +234,7 @@ For a full list of past participation in research projects see [here](https://gi
 
 ### University courses (University of Oviedo)
 
-**2022 - 2023**: 100 hours of laboratory practice in _Structural Geology_ (60 hours) and _Interpretation of Geological Maps_ (40 hours); Degree in Geology. 20 hours of theory in _Geology and its Applications to Engineering_; Degree in Mining Engineering. 
+**2022 - 2023**: 100 hours of laboratory practice: _Structural Geology_ (60 hours) and _Interpretation of Geological Maps_ (40 hours); Degree in Geology. 20 hours of theory in _Geology and its Applications to Engineering_; Degree in Mining Engineering. 
 
 **2009 - 2011**: Teaching assistant (pre-doctoral stage) at the University of Oviedo (~130 hours of experience, Degrees in Geology and Mining Engineering). 
 
@@ -264,6 +264,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-03-05       
+Copyright © 2024; *Last update*: 2024-04-25       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
