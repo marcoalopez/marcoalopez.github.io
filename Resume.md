@@ -9,13 +9,6 @@
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
 **Work address**:   
-Departamento de Geología  
-Universidad de Oviedo  
-Calle Jesús Arias de velasco s/n  
-33005 Oviedo  
-Principado de Asturias, Spain  
-Tel: (34) 985 102 933 (alternative: +34 985 103 000 and then dial the extension 2933)  
-Room: 2-23A
 
 **e-mail**:  
 lopezmarco [to be found at] uniovi [dot] es (main, institutional)  
@@ -264,6 +257,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-04-25       
+Copyright © 2024; *Last update*: 2024-05-03       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
