@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hola. I am Marco, an earth scientist (PhD in Geology, 2013) living and working in Oviedo, Spain. I use observational, experimental and computational approaches to study the physical properties of the Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes occurring in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understanding how rock microstructure and crystal preferred orientation affect the mechanical and elastic properties of rocks, how rocks respond to an applied force (deformation and rheology), and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. I have broad expertise in the analysis of the microstructure and texture (CPO) of solid materials using Electron Backscatter Diffraction (EBSD) and image analysis. In addition to my core interests, I actively engage with topics such as [crustal strength modelling](https://marcoalopez.github.io/strength_envelopes/), understanding strain localization at all scales, and the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) to promote earth sciences through programming. Occasionally I also try to spread the word about my research interests through [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth Science Talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/). Lastly, I am one of the promoters and organisers of the 7th International Orogenic Lherzholite Meeting to be held in Oviedo in the autumn of 2024 (see https://lherzolite2024.github.io).
+**About me**: Hola. I am Marco, an earth scientist (PhD in Geology, 2013) living and working in Oviedo, Spain. I use observational, experimental and computational approaches to study the physical properties of the Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes that occur in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understanding how rocks respond to an applied force (deformation and rheology), how rock microstructure and crystal preferred orientation affect the mechanical properties of rocks and what they tell us about their deformation history, and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. I have broad expertise in the analysis of the microstructure and texture (CPO) of solid materials using Electron Backscatter Diffraction (EBSD) and image analysis techniques. In addition to my core interests, I actively engage with topics such as the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy (a lot) coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) and develop tools to promote geosciences through programming. I also occasionally write about my research interests via [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth Science Talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/). Lastly, I am one of the promoters and organisers of the 7th International Orogenic Lherzholite Meeting to be held in Oviedo in the autumn of 2024 (see https://lherzolite2024.github.io).
 
 [TOC]
 
@@ -46,7 +46,7 @@ Project advisor: Alberto Marcos
 
 ## Appointments (only academic related)
 
-**2022 - present** - Research associate in the Department of Geology at the University of Oviedo (Spain)
+**2022 - 2023** - Research associate in the Department of Geology at the University of Oviedo (Spain)
 
 **2020 - 2021** - CNRS research associate in Géosciences Montpellier at the Université de Montpellier (2 years, full-time)
 
@@ -89,7 +89,7 @@ Project advisor: Alberto Marcos
 
 ### In review (with pre-print links)
 
-Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. In review. [Preprint](https://hal.science/hal-04388880/)
+- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. In review. [Preprint](https://hal.science/hal-04388880/)
 
 ### Published or in press (citable) peer-reviewed publications
 
@@ -257,6 +257,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-05-03       
+Copyright © 2024; *Last update*: 2024-05-07       
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
