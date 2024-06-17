@@ -87,7 +87,7 @@ Project advisor: Alberto Marcos
 
 ## Publications
 
-### In review (with pre-print links)
+### Preprints under review (not peer-reviewed)
 
 - **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. In review. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
 - Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. In review. [Preprint](https://hal.science/hal-04388880/)
