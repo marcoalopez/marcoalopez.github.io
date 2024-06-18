@@ -61,9 +61,9 @@ Project advisor: Alberto Marcos
 
 2022 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
 
-2021 - [Margarita Salas Grant PCTI](http://www.ficyt.es/pri/docs/Estabilizaci%C3%B3n2021Concesion.pdf). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
+2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
 
-2021 - [Margarita Salas joven Grant](http://www.ficyt.es/pri/docs/Resolucion_concesi%C3%B3n_MS_Joven21.pdf) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Status: rejected in favour of *Margarita Salas Grant*
+2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Status: rejected in favour of *Margarita Salas Grant*
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
@@ -184,11 +184,11 @@ Here are some of my coding projects in no particular order:
 
 [PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (**in active development**!)    
 
-[Strength envelopes](https://marcoalopez.github.io/strength_envelopes/): A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (in development!)  
-
 [Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe): a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
 
 [Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python (using matplotlib)  
+
+[Strength envelopes](https://marcoalopez.github.io/strength_envelopes/): A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (in development!)   
 
 You can find more pet projects of mine [here](https://github.com/marcoalopez?tab=repositories)
 
@@ -203,7 +203,7 @@ You can find more pet projects of mine [here](https://github.com/marcoalopez?tab
 ### Last research projects
 
 **2022 - 2023**
-[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa Margarita Salas](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
+[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa “In Itineras”](https://sede.asturias.es/-/dboid-6269000059309988007573). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
 
 **2022 - 2026**
 
@@ -258,6 +258,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-06-17       
+Copyright © 2024; *Last update*: 2024-06-18  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
