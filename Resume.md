@@ -63,7 +63,7 @@ Project advisor: Alberto Marcos
 
 2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
 
-2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Status: rejected in favour of *Margarita Salas Grant*
+2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Rejected in favour of other funding.
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
@@ -92,7 +92,7 @@ Project advisor: Alberto Marcos
 - **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. In review. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
 - Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. In review. [Preprint](https://hal.science/hal-04388880/)
 
-### Published or in press (citable) peer-reviewed publications
+### Published or in press peer-reviewed publications
 
 **2023**
 
@@ -228,7 +228,9 @@ For a full list of past participation in research projects see [here](https://gi
 
 ### University courses (University of Oviedo)
 
-**2022 - 2023**: 100 hours of laboratory practice: _Structural Geology_ (60 hours) and _Interpretation of Geological Maps_ (40 hours); Degree in Geology. 20 hours of theory in _Geology and its Applications to Engineering_; Degree in Mining Engineering. 
+**2022 - 2023**:
+Degree in Geology: 100 hours of laboratory practice: _Structural Geology_ (60 hours) and _Interpretation of Geological Maps_ (40 hours).
+Degree in Mining Engineering: 20 hours of theory in _Geology and its Applications to Engineering_. 
 
 **2009 - 2011**: Teaching assistant (pre-doctoral stage) at the University of Oviedo (~130 hours of experience, Degrees in Geology and Mining Engineering). 
 
@@ -258,6 +260,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-06-18  
+Copyright © 2024; *Last update*: 2024-06-19  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
