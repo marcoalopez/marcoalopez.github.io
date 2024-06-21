@@ -89,8 +89,8 @@ Project advisor: Alberto Marcos
 
 ### Preprints under review (not peer-reviewed)
 
-- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. In review. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
-- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. In review. [Preprint](https://hal.science/hal-04388880/)
+- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
+- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Preprint: https://hal.science/hal-04388880/
 
 ### Published or in press peer-reviewed publications
 
@@ -247,7 +247,7 @@ Degree in Mining Engineering: 20 hours of theory in _Geology and its Application
 
 # Organisation of R&D activities
 
-- Organizing committee of the **7th International Orogenic Lherzolite meeting 2024 **to be held in Oviedo and Cabo Ortegal (fieldtrip) from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. [website](https://lherzolite2024.github.io)
+- Organizing committee of the **7th International Orogenic Lherzolite meeting 2024 **to be held in Oviedo and Cabo Ortegal (fieldtrip) from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. https://lherzolite2024.github.io
 
 - Organizing committee of the **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting **. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
 
@@ -255,11 +255,11 @@ Degree in Mining Engineering: 20 hours of theory in _Geology and its Application
 # Languages
 
 Spanish and Galician - mother tongue  
-English - fluent  
+English - C1, fluent  
 French - B1  
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-06-19  
+Copyright © 2024; *Last update*: 2024-06-21  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
