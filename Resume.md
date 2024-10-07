@@ -150,9 +150,11 @@ Project advisor: Alberto Marcos
 
 ### Field Trip guides
 
+Tilhac R, **Lopez-Sanchez, MA**, Llana-Fúnez, S, Padrón-Navarta JA. 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://github.com/lherzolite2024/fieldguide/
+
 Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
-### Meeting proceedings (only talks in the last 3 years)
+### Meeting proceedings (only talks in the last 4 years)
 
 For a full list of meeting proceedings see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/meeting_proceedings_full.md)
 
@@ -263,6 +265,6 @@ French - B1
 Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-09-05  
+Copyright © 2024; *Last update*: 2024-10-07  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
