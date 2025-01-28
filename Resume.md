@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hola. I am Marco, an earth scientist (PhD in Geology, 2013) living and working in Oviedo, Spain. I use observational, experimental and computational approaches to study the physical properties of the Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes that occur in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understanding how rocks respond to an applied force (deformation and rheology), how rock microstructure and crystal preferred orientation affect the mechanical properties of rocks and what they tell us about their deformation history, and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. I have broad expertise in the analysis of the microstructure and texture (CPO) of solid materials using Electron Backscatter Diffraction (EBSD) and image analysis techniques. In addition to my core interests, I actively engage with topics such as the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy (a lot) coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) and develop tools to promote geosciences through programming. I also occasionally write about my research interests via [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth Science Talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/). Lastly, I am one of the promoters and organisers of the 7th International Orogenic Lherzholite Meeting to be held in Oviedo in the autumn of 2024 (see https://lherzolite2024.github.io).
+**About me**: Hola. I am Marco, an earth scientist (PhD in Geology, 2013) living and working in Oviedo, Spain. I use observational, experimental and computational approaches to study the physical properties of the Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes that occur in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understanding how rocks respond to an applied force (deformation and rheology), how rock microstructure and crystal preferred orientation affect the mechanical properties of rocks and what they tell us about their deformation history, and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. I have broad expertise in the analysis of the microstructure and texture (CPO) of solid materials using Electron Backscatter Diffraction (EBSD) and image analysis techniques. In addition to my core interests, I actively engage with topics such as the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy (a lot) coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) and develop tools to promote geosciences through programming. I also occasionally write about my research interests via [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth Science Talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/).
 
 [TOC]
 
@@ -22,7 +22,7 @@ Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorI
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
 Github page: <https://github.com/marcoalopez>   
-At Uniovi: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)   
+At work: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)  
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach: [@lsmarcoa](https://twitter.com/lsmarcoa) // <a rel="me" href="https://fediscience.org/@marcoalopez">Mastodon</a>   
 
@@ -45,6 +45,8 @@ Project advisor: Alberto Marcos
 # Research
 
 ## Appointments (only academic related)
+
+**2025 - present** - Hired researcher at the [Andalusian Earth Sciences Institute (IACT-CSIC)](https://www.iact.csic.es/en/)
 
 **2022 - 2023** - Research associate in the Department of Geology at the University of Oviedo (Spain)
 
@@ -93,9 +95,9 @@ Project advisor: Alberto Marcos
 
 ### Published or in press peer-reviewed publications
 
-**2024**
+**2025**
 
-- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. *Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis*. Preprint: https://hal.science/hal-04388880/ **Accepted** in _Comptes Rendus Mécanique_ in Sept 2024
+- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _Comptes Rendus Mécanique_ **353**: 235-258 https://doi.org/10.5802/crmeca.267 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_CRM_Boissonneau.pdf)
 
 **2023**
 
@@ -203,7 +205,7 @@ You can find more pet projects of mine [here](https://github.com/marcoalopez?tab
 
 [OUTCROP project](https://marcoalopez.github.io/OUTCROPproject/)
 
-[IDEA project (MSCA COFUND)](https://marcoalopez.github.io/IDEAproject/)
+[IDEA project (MSCA COFUND Grant)](https://marcoalopez.github.io/IDEAproject/)
 
 ### Last research projects
 
@@ -262,9 +264,8 @@ Degree in Mining Engineering: 20 hours of theory in _Geology and its Application
 Spanish and Galician - mother tongue  
 English - C1, fluent  
 French - B1  
-Portuguese
 
 --
-Copyright © 2024; *Last update*: 2024-10-07  
+Copyright © 2025; *Last update*: 2025-01-28  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
