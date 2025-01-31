@@ -1,6 +1,6 @@
 ![header](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/master/header.webp)
 
-**About me**: Hola. I am Marco, an earth scientist (PhD in Geology, 2013) living and working in Oviedo, Spain. I use observational, experimental and computational approaches to study the physical properties of the Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes that occur in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understanding how rocks respond to an applied force (deformation and rheology), how rock microstructure and crystal preferred orientation affect the mechanical properties of rocks and what they tell us about their deformation history, and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. I have broad expertise in the analysis of the microstructure and texture (CPO) of solid materials using Electron Backscatter Diffraction (EBSD) and image analysis techniques. In addition to my core interests, I actively engage with topics such as the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy (a lot) coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) and develop tools to promote geosciences through programming. I also occasionally write about my research interests via [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth Science Talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/).
+**About me**: Hola. I am Marco, an earth scientist working at the Andalusian Earth Sciences Institute in Granada (IACT-CSIC) in Spain. I use observational, experimental and computational approaches to study the physical properties of the Earth's solid materials (rock/mineral physics). My goal is to understand the dynamic processes that occur in the Earth's lithosphere (the Earth's outer layer) from the microscopic to the orogenic scale. For example, understanding how rocks respond to an applied force (deformation and rheology), how rock microstructure and crystal preferred orientation affect the mechanical properties of rocks and what they tell us about their deformation history, and modelling the [seismic/elastic properties](https://marcoalopez.github.io/PyRockWave/) of solid Earth materials. I have broad expertise in the analysis of the microstructure and texture (CPO) of solid materials using Electron Backscatter Diffraction (EBSD) and image analysis techniques. In addition to my core interests, I actively engage with topics such as the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids. I enjoy (a lot) coding and am an advocate of open source and open science so I like to create [small projects](https://github.com/marcoalopez) and develop tools to promote geosciences through programming. I also occasionally write about my research interests via [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a YouTube channel called [Earth Science Talks](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/).
 
 [TOC]
 
@@ -9,9 +9,12 @@
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
 **Work address**:   
+Instituto Andaluz de Ciencias de la Tierra,
+Avda. de Las Palmeras nº 4, 18100, Armilla.
+_More details available soon_
 
 **e-mail**:  
-lopezmarco [to be found at] uniovi [dot] es (main, institutional)  
+_Available soon_ (main, institutional)  
 marcoalopez [to be found at] outlook [dot] com (personal)
 
 # On the web
@@ -22,9 +25,9 @@ Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorI
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
 Github page: <https://github.com/marcoalopez>   
-At work: [link](https://dptogeol.uniovi.es/personal/pdi/-/asset_publisher/0041/content/lopez-sanchez-marco-antonio?redirect=%2Fpersonal%2Fpdi)  
+At work: [link]()  
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
-Outreach: [@lsmarcoa](https://twitter.com/lsmarcoa) // <a rel="me" href="https://fediscience.org/@marcoalopez">Mastodon</a>   
+Outreach: https://fediscience.org/@marcoalopez   
 
 
 # Education / Research accreditations
@@ -266,6 +269,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-01-28  
+Copyright © 2025; *Last update*: 2025-01-31  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
