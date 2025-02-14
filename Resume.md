@@ -210,7 +210,11 @@ You can find more pet projects of mine [here](https://github.com/marcoalopez?tab
 
 [IDEA project (MSCA COFUND Grant)](https://marcoalopez.github.io/IDEAproject/)
 
-### Last research projects
+### Participation in research projects (only last 5 years)
+
+**2025 - today**
+
+[Deep Earth’s Oxygen recycling at subduction Zones (OZ)](https://doi.org/10.3030/101088573). **Grant agreement ID**: 101088573. **Funded under**: HORIZON 1.1 - European Research Council (ERC). **PI**: José Alberto Padrón Navarta. **Host institution:** IACT-CSIC. **Dates**: 12/2023 – 11/2028. **Total cost**: €2.000.000 **Link**: https://doi.org/10.3030/101088573 **Role**: Full-time CSIC researcher contract.
 
 **2022 - 2023**
 [OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa “In Itineras”](https://sede.asturias.es/-/dboid-6269000059309988007573). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
@@ -269,6 +273,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-01-31  
+Copyright © 2025; *Last update*: 2025-02-14  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
