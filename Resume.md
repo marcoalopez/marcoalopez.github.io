@@ -51,7 +51,7 @@ Project advisor: Alberto Marcos
 
 **2025 - present** - Hired researcher at the [Andalusian Earth Sciences Institute (IACT-CSIC)](https://www.iact.csic.es/en/)
 
-**2022 - 2023** - Research associate in the Department of Geology at the University of Oviedo (Spain)
+**2021 - 2023** - Research associate in the Department of Geology at the University of Oviedo (Spain) (2 years, full-time)
 
 **2020 - 2021** - CNRS research associate in Géosciences Montpellier at the Université de Montpellier (2 years, full-time)
 
@@ -66,9 +66,9 @@ Project advisor: Alberto Marcos
 
 2022 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
 
-2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166 000 € (87 000 € salary + 79 000 € for research).
+2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166000€.
 
-2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104 000 €. Rejected in favour of other funding.
+2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104000€. Rejected in favor of other funding.
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
@@ -159,7 +159,7 @@ Tilhac R, **Lopez-Sanchez, MA**, Llana-Fúnez, S, Padrón-Navarta JA. 2024. Fiel
 
 Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA** (2011) DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
-### Meeting proceedings (only talks in the last 4 years)
+### Meeting proceedings (only talks in the last 5 years)
 
 For a full list of meeting proceedings see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/meeting_proceedings_full.md)
 
@@ -198,7 +198,7 @@ Here are some of my coding projects in no particular order:
 
 [Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python (using matplotlib)  
 
-[Strength envelopes](https://marcoalopez.github.io/strength_envelopes/): A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (in development!)   
+[Strength envelopes](https://marcoalopez.github.io/strength_envelopes/): A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (a little stuck for lack of time!)   
 
 You can find more pet projects of mine [here](https://github.com/marcoalopez?tab=repositories)
 
@@ -252,9 +252,9 @@ Degree in Mining Engineering: 20 hours of theory in _Geology and its Application
 
 - Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
-### Workshops
+### Workshops and courses
 
-**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (in preparation). Website: https://github.com/marcoalopez/Python_course  
+**Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences (🚨_in preparation_). Website: https://github.com/marcoalopez/Python_course  
 
 **EBSD data treatment with MTEX** at GRD Recrystallization and Grain Growth workshop 2020 (Les Houches, School of Physics, France)
 
@@ -273,6 +273,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-02-14  
+Copyright © 2025; *Last update*: 2025-02-27  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
