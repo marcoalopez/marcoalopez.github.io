@@ -9,12 +9,14 @@
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
 **Work address**:   
-Instituto Andaluz de Ciencias de la Tierra,
-Avda. de Las Palmeras nº 4, 18100, Armilla.
-_More details available soon_
+Office 137
+Instituto Andaluz de Ciencias de la Tierra (IACT-CSIC),
+Spanish Research Council (CSIC)
+Avda. de Las Palmeras, 4, 18100, Armilla.
+Granada, SPAIN.
 
 **e-mail**:  
-_Available soon_ (main, institutional)  
+marco.lopez [to be found at] csic [dot] es (main, institutional)  
 marcoalopez [to be found at] outlook [dot] com (personal)
 
 # On the web
@@ -273,6 +275,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-02-27  
+Copyright © 2025; *Last update*: 2025-03-07  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
