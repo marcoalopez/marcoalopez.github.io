@@ -19,6 +19,9 @@ Granada, SPAIN.
 marco.lopez [to be found at] csic [dot] es (main, institutional)  
 marcoalopez [to be found at] outlook [dot] com (personal)
 
+**phone**
+958230000 Ext.436635
+
 # On the web
 
 Personal website: <https://marcoalopez.github.io/>  
@@ -27,7 +30,7 @@ Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorI
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
 Github page: <https://github.com/marcoalopez>   
-At work: [link]()  
+At work: [link](https://www.iact.csic.es/en/personal/perfil/marco-antonio-lopez-sanchez/)  
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach: https://fediscience.org/@marcoalopez   
 
@@ -275,6 +278,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-03-11  
+Copyright © 2025; *Last update*: 2025-03-13  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
