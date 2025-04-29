@@ -97,11 +97,11 @@ Project advisor: Alberto Marcos
 
 ## Publications
 
-### Preprints under review (not peer-reviewed)
+### Preprints under review
 
-- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
+- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. _Accepted in Tectonophysics_ EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
 
-### Published or in press peer-reviewed publications
+### Peer-reviewed publications
 
 **2025**
 
@@ -278,6 +278,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-03-13  
+Copyright © 2025; *Last update*: 2025-04-29  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
