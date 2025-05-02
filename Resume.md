@@ -105,7 +105,7 @@ Project advisor: Alberto Marcos
 
 **2025**
 
-- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S. _Predictive modelling of seismic properties in single-foliated slates_. _Tectonophysics in press_ https://doi.org/10.1016/j.tecto.2025.230765 / EarthArXiv preprint: https://doi.org/10.31223/X5RM4Z
+- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S, 2025. Predictive modelling of seismic properties in single-foliated slates. _Tectonophysics_ in press: 230765. https://doi.org/10.1016/j.tecto.2025.230765 / PDF / [EarthArXiv preprint](https://doi.org/10.31223/X5RM4Z)
 
 - Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _Comptes Rendus Mécanique_ **353**: 235-258 https://doi.org/10.5802/crmeca.267 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_CRM_Boissonneau.pdf)
 
@@ -280,6 +280,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-04-30  
+Copyright © 2025; *Last update*: 2025-05-02  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
