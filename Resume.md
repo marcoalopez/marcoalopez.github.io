@@ -17,7 +17,6 @@ Granada, SPAIN.
 
 **e-mail**:  
 marco.lopez [to be found at] csic [dot] es (main, institutional)  
-marcoalopez [to be found at] outlook [dot] com (personal)
 
 **phone**
 958230000 Ext.436635
@@ -35,9 +34,7 @@ Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 Outreach: https://fediscience.org/@marcoalopez   
 
 
-# Education / Research accreditations
-
-**2023** - [i3 research activity certification](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2023_report_776_resolucion_SGU_I3.pdf) (i3 Programme of the Spanish Research Agency)  
+# Education
 
 **2013** - PhD in Geology, *cum laude* honours, [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain)  
 Thesis: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_
@@ -71,9 +68,9 @@ Project advisor: Alberto Marcos
 
 2022 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
 
-2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: 166000€.
+2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: €166 000
 
-2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: 104000€. Rejected in favor of other funding.
+2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: €104 000. Rejected in favor of other funding.
 
 2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
@@ -87,9 +84,11 @@ Project advisor: Alberto Marcos
 
 ## Scientific activities as a visitor researcher
 
-2022 - **[IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain)**. **Duration**: 1 week. **Goal**: Learn how to use [Perple_X](https://www.perplex.ethz.ch/) (thermodynamic modelling) and planning of research project in collaboration with J.A. Padrón-Navarta.
+2025 - [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). **Duration**: 1 week. **Goal**: Conduct experiments to determine the physical properties of Earth materials under high pressure and temperature conditions using the ID06-LVP (Large Volume Press) beamline (ERC-OZ project, PI: J.A. Padrón-Navarta).
 
-2022 - **Geosciences Montpellier (Montpellier, France)**. **Duration**: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring (collaboration as member of the RhEoVOLUTION project)
+2022 - [IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain). **Duration**: 1 week. **Goal**: Learn how to use [Perple_X](https://www.perplex.ethz.ch/) (thermodynamic modelling) and planning of research project in collaboration with J.A. Padrón-Navarta.
+
+2022 - Geosciences Montpellier (Montpellier, France). **Duration**: 1 week. **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring (collaboration as member of the RhEoVOLUTION project)
 
 2019 -  **[Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) (Grenoble, France)****. **Duration**: 1.5 months. **Goal**: Experimental ice deformation (creep) using digital image correlation methods under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
@@ -105,9 +104,9 @@ Project advisor: Alberto Marcos
 
 **2025**
 
-- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S, 2025. Predictive modelling of seismic properties in single-foliated slates. _Tectonophysics_ **908**: 230765. https://doi.org/10.1016/j.tecto.2025.230765 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_Tecto_Lopez-Sanchez_slates.pdf) / [EarthArXiv preprint](https://doi.org/10.31223/X5RM4Z)
+- **Lopez-Sanchez MA**, Cárdenes V, Barou F, Llana-Fúnez S, 2025. Predictive modelling of seismic properties in single-foliated slates. _Tectonophysics_ **908**: 230765. https://doi.org/10.1016/j.tecto.2025.230765 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_Tecto_Lopez-Sanchez_slates.pdf)
 
-- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _Comptes Rendus Mécanique_ **353**: 235-258 https://doi.org/10.5802/crmeca.267 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2025_CRM_Boissonneau.pdf)
+- Boissonneau G, Tommasi A, Barou F, **Lopez-Sanchez MA**, Montagnat M. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _Comptes Rendus Mécanique_ **353**: 235-258 https://doi.org/10.5802/crmeca.267
 
 **2023**
 
@@ -121,14 +120,14 @@ Project advisor: Alberto Marcos
 **2021**
 
 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail W, Barou F. Dynamic recrystallization by subgrain rotation in olivine revealed by electron backscatter diffraction. _Tectonophysics_ **815**: 228916 https://doi.org/10.1016/j.tecto.2021.228916 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228916_Lopez-Sanchez.pdf) 
-- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228997. https://doi.org/10.1016/j.tecto.2021.228997 [Preprint](http://arxiv.org/abs/2101.03362)
-- Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815 [Preprint](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228815_Cardenesetal_preprint.pdf)
+- Ben Ismail W, Tommasi A, **Lopez-Sanchez MA**, Rutter EH, Barou F, Demouchy S. Deformation of upper mantle rocks with contrasting initial fabrics in axial extension. _Tectonophysics_ **815**: 228997. https://doi.org/10.1016/j.tecto.2021.228997 / [Preprint](http://arxiv.org/abs/2101.03362)
+- Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Crystallographic preferred orientation, seismic velocity and anisotropy in roofing slates. _Tectonophysics_ **808**: 228815 https://doi.org/10.1016/j.tecto.2021.228815 / [Preprint](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2021_TECTO228815_Cardenesetal_preprint.pdf)
 
 **2020**
 
 - **Lopez-Sanchez MA**, Tommasi A, Barou F, and Quey R.  (2020) Dislocation-driven recrystallization in AZ31B magnesium alloy imaged by quasi-in situ EBSD in annealing experiments. *Materials Characterization* **165**: 110382 https://doi.org/10.1016/j.matchar.2020.110382 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_MC_Lopez-Sanchez.pdf)  
 
-- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. (2020) Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **138**: 104066 https://doi.org/10.1016/j.jsg.2020.104066  / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_Wenk.pdf)
+- Wenk HR, Yu R, Cárdenes V, **Lopez-Sanchez MA**, Sintubin M. (2020) Fabric and anisotropy of slates: From classical studies to new results.  *Journal of Structural Geology* **138**: 104066 https://doi.org/10.1016/j.jsg.2020.104066
 
 - **Lopez-Sanchez MA** (2020) Which average, how many grains, and how to estimate robust confidence intervals in unimodal grain size populations. *Journal of Structural Geology* **135**: 104042 https://doi.org/10.1016/j.jsg.2020.104042 / [PDF](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/2020_JSG_SG_104042.pdf)  
 
@@ -280,6 +279,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-05-04  
+Copyright © 2025; *Last update*: 2025-07-11  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
