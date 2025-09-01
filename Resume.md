@@ -66,13 +66,13 @@ Project advisor: Alberto Marcos
 
 ## Fellowships/Awards
 
-2022 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
+2022 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) **Score: 90.4/100**
 
 2021 - [Programa “In Itineras”: Grants for the recruitment of research staff at research centres in the Principality of Asturias](https://sede.asturias.es/-/dboid-6269000059309988007573). Two-year contract to develop the project OUTCROP as principal investigator (only 3 projects funded in the call). Budget: €166 000
 
 2021 - [Programa “In Itineras”:  Margarita Salas joven Grant](https://sede.asturias.es/-/dboid-6269000041490729107573) . Two-year contract to develop the project OUTCROP as principal investigator (10 projects funded in the call). Budget: €104 000. Rejected in favor of other funding.
 
-2021 - [Marie Sklodowska-Curie Actions Seal of Excellence_Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
+2021 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal START](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal of Excellence_START.pdf) **Score: 85.8/100**
 
 2017 - Postdoctoral fellowship [Clarín-COFUND](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=Clarin2017) (Marie Sklodowska-Curie Clarín-COFUND Actions FP7) (2 years)
 
@@ -188,7 +188,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
-- **Editorial activity**: Since 2023, I am [co-editor](https://reunido.uniovi.es/index.php/TDG/about/editorialTeam) of the journal [Trabajos de Geología](https://reunido.uniovi.es/index.php/TDG/index) and [Review editor](https://www.frontiersin.org/journals/earth-science/editors) (Solid Earth Geophysics) in Frontiers in Earth Science.
+- **Editorial activity**: Since 2023, I am [co-editor](https://reunido.uniovi.es/index.php/TDG/about/editorialTeam) of the journal [Trabajos de Geología](https://reunido.uniovi.es/index.php/TDG/index). From 2023 to 2025, I served as a [review editor](https://www.frontiersin.org/journals/earth-science/editors) in Frontiers in Earth Science (Solid Earth Geophysics).
 
 ## Coding projects
 
@@ -279,6 +279,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-07-11  
+Copyright © 2025; *Last update*: 2025-09-01  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*

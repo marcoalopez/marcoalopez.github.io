@@ -1,3 +1,4 @@
+- 2025 - Padrón-Navarta JA, **Lopez-Sanchez MA**. The Past and Future of Electron Backscattered Diffraction (EBSD) in Earth Sciences. 17th Multinational Congress on Microscopy, Slovenia.
 - 2024 - **Lopez-Sanchez MA**, Padrón-Navarta JA. A new method for calculating olivine crystal orientation using polarized FTIR spectroscopy. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
 - 2024 - **Lopez-Sanchez MA**. PyRockWave: a new open-source Python tool for reading elasticity databases and modeling the elastic properties of Earth materials. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
 - 2024 - Llana-Fúnez S, **Lopez-Sanchez MA**. Advance in geological knowledge of the Cabo Ortegal Complex through its geological maps. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
