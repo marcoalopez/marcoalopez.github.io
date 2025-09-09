@@ -184,7 +184,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 ## Peer review and editorial activity
 
-- **Journal articles:** _Geology, Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Solid Earth, Image Analysis and Stereology, Italian Journal of Geosciences_ 
+- **Journal articles:** _Geology, Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Solid Earth, Image Analysis & Stereology, Geosciences Journal, Journal of marine science and application and Italian Journal of Geosciences_. 
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
@@ -279,6 +279,6 @@ English - C1, fluent
 French - B1  
 
 --
-Copyright © 2025; *Last update*: 2025-09-01  
+Copyright © 2025; *Last update*: 2025-09-09  
 *Header image ("the road") by Kamil Lehmann on Unsplash (CC0)*  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
