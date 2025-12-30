@@ -1,6 +1,6 @@
 ![test](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/refs/heads/master/img_header.jpg)
 
-Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. I am interested in how rocks behave and evolve within the Earth’s lithosphere (the Earth's outer layer), from microscopic processes to kilometre-scale structures. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks]((https://marcoalopez.github.io/PyRockWave/)). A large part of my work involves analysing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience applications. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, manuals, and short pieces of writing. Feel free to explore the table of contents below.
+Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. I am interested in how rocks behave and evolve within the Earth’s lithosphere (the Earth's outer layer), from microscopic processes to kilometre-scale structures. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks]((https://marcoalopez.github.io/PyRockWave/). A large part of my work involves analysing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience applications. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, manuals, and short pieces of writing. Feel free to explore the table of contents below.
 
 [TOC]
 
@@ -104,33 +104,33 @@ What I work(ed) on, with links to my publications and PDF files.
 - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA**. 2011 DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [link to PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
 ## Links to my research projects' websites
-### OUTCROP project (2021-2023)
+### **OUTCROP project (2021-2023)**
 
 **Project website**: https://marcoalopez.github.io/OUTCROPproject/
 
-> **What it is about**: The OUTCROP project stands for *From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties, anisotropy, and water c**o**ntent of the Cabo Ortegal com**p**lex*. This is a two-year research project funded by the [PCTI-Asturias](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01) (Spain) led by Marco A. Lopez-Sanchez at the [University of Oviedo](https://www.uniovi.es/en/inicio). We aim to determine the seismic properties (wave speeds & anisotropy) and water content of an ancient volcanic arc root section (lower crust and mantle). 
+> **What it is about**: The OUTCROP project stands for *From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**r**operties, anisotropy, and water c**o**ntent of the Cabo Ortegal com**p**lex*. This is a two-year research project funded by the [PCTI-Asturias](https://www.ficyt.es/pcti/detalleconvplan.asp?conexion=AYUD0367T01) (Spain) led by Marco A. Lopez-Sanchez at the University of Oviedo. We aim to determine the seismic properties (wave speeds & anisotropy) and water content of an ancient volcanic arc root section (lower crust and mantle). 
 
-### IDEA project (MSCA-COFUND Grant) (2018-2019)
+### **IDEA project (MSCA-COFUND Grant) (2018-2019)**
 
 **Project website**: https://marcoalopez.github.io/IDEAproject/
 
-> **What it is about**: The IDEA project stands for ***I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials*. It is a research project funded by a [Marie Skłodowska-Curie “Clarín”-COFUND Action](http://www.ficyt.es/pcti/detalleconvplan.asp?conexion=Clarin2017) postdoctoral fellowship, based at Géosciences Montpellier (Université de Montpellier - CNRS) in France.
+> **What it is about**: The IDEA project stands for ***I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials*. It is a research project funded by a Marie Skłodowska-Curie “Clarín”-COFUND Action postdoctoral fellowship, based at Géosciences Montpellier (Université de Montpellier - CNRS) in France.
 
 ## Coding projects and databases
 
-### GrainSizeTools
+### **GrainSizeTools**
 
 **Website**: http://marcoalopez.github.io/GrainSizeTools/
 
 > **What is it**: A free, open-source Python script that can be used to: (1) quantify and visualize grain size populations, (2) apply stereological methods to approximate the true grain size distribution from 2D sections, and (3) estimate differential stress using a piezometric database.
 
-### PyRockWave
+### **PyRockWave**
 
 **Website**: https://marcoalopez.github.io/PyRockWave/
 
 > **What is it**: A free, open-source Python tool for reading single-crystal elasticity databases and modelling the elastic properties (i.e. seismic velocities) of Earth materials (==yet in alpha phase!==).
 
-### FTIRkit
+### **FTIRkit**
 
 **Website**: ==To be released soon==
 
@@ -172,8 +172,8 @@ I previously taught at the University of Oviedo, where I was involved in several
 ## Guides
 
 **How to install Python for data science**:
--	Using Miniconda: ==TODO==
-- Using Pixi: ==TODO==
+-	Using Miniconda: https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Miniconda
+- Using Pixi: https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Pixi
 
 
 ## Small essays
