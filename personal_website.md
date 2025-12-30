@@ -1,8 +1,6 @@
-Hola. Welcome to my personal website. 
+![test](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/refs/heads/master/img_header.jpg)
 
-My name is Marco and I do research in geosciences at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. I use observational, experimental and computational approaches to study the physical properties of solid Earth materials (rock and mineral physics). My goal is to understand the rock properties and the dynamic processes that occur in the Earth's lithosphere (the Earth's outer layer) from microscopic to kilometre scales. For example, understanding how rocks respond to an applied force (deformation and rheology), how the microstructure of rocks and the orientation of their crystals affect their mechanical properties or how [sound waves propagate through rocks](https://marcoalopez.github.io/PyRockWave/). I have broad expertise in analyzing the microstructure and crystal preferred orientation (CPO) of solid materials using [Electron Backscatter Diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image analysis techniques. I also love coding and am an advocate of open source and open science, so I really enjoy creating small projects and developing tools to promote geosciences through programming. Lately, I have become interested in rock thermodynamic modelling, particularly using the [Perple_X tool](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), to expand my skillset and problem-solving abilities.
-
-> In addition to my core interests, I actively engage with topics such as the interaction between rock deformation, metamorphism (thermodynamic modelling), and fluids.  I also occasionally write about my research interests via [short blog posts](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8), my project websites, and a . Some of my research projects can be found [here](https://marcoalopez.github.io/IDEAproject/) and [here](https://marcoalopez.github.io/OUTCROPproject/).
+Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. I am interested in how rocks behave and evolve within the Earth’s lithosphere (the Earth's outer layer), from microscopic processes to kilometre-scale structures. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks]((https://marcoalopez.github.io/PyRockWave/)). A large part of my work involves analysing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience applications. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, manuals, and short pieces of writing. Feel free to explore the table of contents below.
 
 [TOC]
 
@@ -10,7 +8,7 @@ My name is Marco and I do research in geosciences at the Andalusian Earth Scienc
 
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
-**Work address**:   
+**Location**:   
 Office 137
 Instituto Andaluz de Ciencias de la Tierra (IACT-CSIC),
 Spanish Research Council (CSIC)
@@ -25,7 +23,7 @@ marco.lopez [to be found at] csic [dot] es
 
 # On the web
 
-CV: ==TODO==  
+CV (PDF): https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf  
 ORCID: <http://orcid.org/0000-0002-0261-9267>   
 Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorId=56320859100)  
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
@@ -34,6 +32,7 @@ Github page: <https://github.com/marcoalopez>
 At work: [IACT-CSIC personal page](https://www.iact.csic.es/en/personal/perfil/marco-antonio-lopez-sanchez/)  
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 
+---
 
 # Research
 
@@ -41,11 +40,7 @@ A summary of my research activities
 
 ## Publications
 
-What I work(ed) on with links to my publications and pdf files.
-
-### Preprints under review
-
-
+What I work(ed) on, with links to my publications and PDF files.
 
 ### Peer-reviewed publications
 
@@ -104,9 +99,9 @@ What I work(ed) on with links to my publications and pdf files.
 
 ## Geological Excursion Guides
 
-Tilhac R, **Lopez-Sanchez, MA**, Llana-Fúnez, S, Padrón-Navarta JA. 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://github.com/lherzolite2024/fieldguide/
+- Tilhac R, **Lopez-Sanchez, MA**, Llana-Fúnez, S, Padrón-Navarta JA. 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://github.com/lherzolite2024/fieldguide/
 
-Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA**. 2011 DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
+- Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA**. 2011 DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [link to PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
 ## Links to my research projects' websites
 ### OUTCROP project (2021-2023)
@@ -127,65 +122,73 @@ Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez 
 
 **Website**: http://marcoalopez.github.io/GrainSizeTools/
 
-**What is it**: A free and open-source Python script for (1) quantify and visualise grain size populations, (2) apply stereological methods to approximate the true grain size distribution from 2D sections, and (3) estimate differential stress using a piezometric database.
+> **What is it**: A free, open-source Python script that can be used to: (1) quantify and visualize grain size populations, (2) apply stereological methods to approximate the true grain size distribution from 2D sections, and (3) estimate differential stress using a piezometric database.
 
 ### PyRockWave
 
 **Website**: https://marcoalopez.github.io/PyRockWave/
 
-**What is it**: A free and open-source Python tool for reading single-crystal elastic databases and modeling the elastic properties (seismic velocities) of Earth materials (==**in active development**!==)    
+> **What is it**: A free, open-source Python tool for reading single-crystal elasticity databases and modelling the elastic properties (i.e. seismic velocities) of Earth materials (==yet in alpha phase!==).
 
 ### FTIRkit
 
 **Website**: ==To be released soon==
 
-**What is it**: A free and open-source Python tool that can be used to estimate crystallographic orientation from FTIR spectra and synthesise FTIR spectra along principal orientations from a set of randomly oriented grain spectra.
+> **What is it**: A free, open-source Python tool that can be used to estimate crystallographic orientation from FTIR spectra, as well as synthesize FTIR spectra along principal orientations from a set of randomly oriented grain spectra.
 
-[Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python using Matplotlib. 
+You can find a full list my pet coding projects [here](https://github.com/marcoalopez?tab=repositories). Some selections are listed below:
 
-You can find more pet coding projects of mine [here](https://github.com/marcoalopez?tab=repositories)
+- [Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python using Matplotlib. 
 
-## Organization of R&D activities
-
-- Organizing committee of the **7th International Orogenic Lherzolite meeting 2024**. See https://lherzolite2024.github.io
-
-- Organizing committee of the **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting **. See [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
+---
 
 # Teaching & Outreach
 
-I used to teach at the University of Oviedo. I taught different subjects for Geology and Mining Engineering degrees like *Structural Geology*, *Geological Mapping* (including field work and the interpretation of geological maps), *Geodynamics*, *Plate Tectonics*, *Geophysical and Geochemical Prospecting,* and the *Application of Geology to Engineering Problems*. Please look at my [CV]() for more information. In my spare time, which isn't much these days, I enjoy making free educational materials (workshops or courses) and all kinds of notes teaching something (mostly in English, but some in Spanish). You will find links to this material below. Lastly, I don't tend to be and interact on social media very often, but every now and then I like to share some thoughts at https://fediscience.org/@marcoalopez   
+I previously taught at the University of Oviedo, where I was involved in several courses in the Geology and Mining Engineering degrees. These included *Structural Geology*, *Geological Mapping* (fieldwork and geological map interpretation), *Geodynamics*, *Plate Tectonics*, *Geophysical and Geochemical Prospecting*, and *Applied Geology for Engineering Problems*. For further details, please see my [CV](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf). When time allows, which is not often these days, I enjoy creating free educational material, such as workshops, short courses, and a variety of scientific notes. This includes Jupyter notebooks, videos, and short essays on a range of topics, mostly in English but occasionally in Spanish. Links to this material can be found below. I am not particularly active on social media, but I occasionally share brief thoughts and updates at https://fediscience.org/@marcoalopez  
 
 ## Workshops and courses
 
-### **An introduction to the Python programming language for analysing data in the Earth sciences**
+### **An introduction to the Python programming language for data analysis in the Earth sciences**
 
 **Website**: https://github.com/marcoalopez/Python_course  
 
-**What is it**: This is an introductory course to the Python programming language for data analysis, which uses examples from the Earth sciences. ==The course is still in progress==. 
+> **What is it**: This is an introductory course to the Python programming language for data analysis, which uses examples from the Earth sciences. ==Still in progress==. 
 
-## Notes
-Scientific notes, Jupyter notebooks, videos and small essays on various topics.
+## Scientific notes and Jupyter notebooks
 
-> **Strength envelopes**. A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (a little stuck for lack of time!) .
->
-> **Website**: https://marcoalopez.github.io/strength_envelopes/
+### **Jupyter4DICe**
 
-> **How to install Python for data science**. Instructions on how to install Python.
->
->- Using Miniconda (environment paradigm): ==TODO==
->- Using Pixi (workspace paradigm): ==TODO==
+**Website**: https://github.com/marcoalopez/Jupyter4DICe
 
-> **Jupyter4DICe**. A series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice).
->
-> **Website**: https://github.com/marcoalopez/Jupyter4DICe)
+> **What is it**: A series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice).
 
-> **Small essays**:
->
-> 2019: [Is it necessary to smooth the grain boundaries in MTEX when characterizing particle shapes?](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8)
+### **Strength envelopes**
 
-## Outreach
+**Website**: https://marcoalopez.github.io/strength_envelopes/
 
-I have a YouTube channel called *Earth Science Talks*, where I occasionally upload videos about my research. Warning: so far the topics covered are very niche and unlikely to be of interest to the general public. [Click here to visit the channel](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o) 
+> **What is it**: A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (a little stuck for lack of time!) .
+
+
+## Guides
+
+**How to install Python for data science**:
+-	Using Miniconda: ==TODO==
+- Using Pixi: ==TODO==
+
+
+## Small essays
+
+- 2019: [Is it necessary to smooth the grain boundaries in MTEX when characterizing particle shapes?](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8)
+
+## Media
+
+I have a YouTube channel called *Earth Science Talks*, where I occasionally upload videos about my research. Please be aware that the topics covered so far are very niche and unlikely to be of interest to the general public. [Click here to visit the channel](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Below is the list of available videos:
+
+- [Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM)
+
+- [Evolution of strain field and microstructure in polycrystalline ice using in situ experiments](https://youtu.be/R5Vm63oqLGk)
+
+---
 
 # Links
 
@@ -207,10 +210,18 @@ https://smallpond.ca/jim/scale/: A compact printable 10 cm reference scale desig
 
 https://www.angryreviewer.com/: Free academic style corrector for modern scientific writing by Roman Anufriev.
 
+https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. These colour maps are already included in the Python ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps).
 
+https://www.fabiocrameri.ch/colourmaps/: A comprehensive set of color maps to represent data without visual distortion by Fabio Crameri.
 
+https://squoosh.app/: This is a tool that reduces image file size while maintaining high quality. It's very handy for websites.
 
+### Scientific software
+
+https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport.
+
+https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data.
 
 --
-Copyright © 2026; *Last update*: 2026-01-xx  
+Copyright © 2026; *Last update*: 2025-12-30  
 *Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
