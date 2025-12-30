@@ -171,12 +171,11 @@ I previously taught at the University of Oviedo, where I was involved in several
 
 ## Guides
 
-**How to install Python for data science**:
--	Using Miniconda: https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Miniconda
-- Using Pixi: https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Pixi
+-	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Miniconda)
+- [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Pixi)
 
 
-## Small essays
+## Essays
 
 - 2019: [Is it necessary to smooth the grain boundaries in MTEX when characterizing particle shapes?](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8)
 
