@@ -42,6 +42,8 @@ Github page: <https://github.com/marcoalopez>
 
 - **2007 - 2013** - *PhD candidate*, Department of Geology at the University of Oviedo.
 
+![chart](C:\Users\marco\Documents\GitHub\marcoalopez.github.io\chart.png)
+
 ---
 
 ## Fellowships and Awards
@@ -66,15 +68,15 @@ Github page: <https://github.com/marcoalopez>
 
 ## Scientific activities as a visitor researcher
 
-- [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). **Duration**: 1 week (2025). **Goal**: Conduct experiments to determine the physical properties of Earth materials under high pressure and temperature conditions using the ID06-LVP (Large Volume Press) beamline (ERC-OZ project, PI: J.A. Padrón-Navarta).
+- [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). **Duration**: 1 week (2025). **Task**: Conduct experiments to determine the physical properties of Earth materials under high pressure and temperature conditions using the ID06-LVP (Large Volume Press) beamline (ERC-OZ project, PI: J.A. Padrón-Navarta).
 
-- [IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain). **Duration**: 1 week (2022). **Goal**: Learn thermodynamic modelling (Perple_X tool) and planning of research project in collaboration with J.A. Padrón-Navarta.
+- [IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain). **Duration**: 1 week (2022). **Task**: Learn thermodynamic modelling (Perple_X tool) and planning of research project in collaboration with J.A. Padrón-Navarta.
 
-- Geosciences Montpellier (Montpellier, France). **Duration**: 1 week (2022). **Goal**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring (collaboration as member of the RhEoVOLUTION project)
+- Geosciences Montpellier (Montpellier, France). **Duration**: 1 week (2022). **Task**: Experimental deformation of Mg alloys in simple shear with in situ EBSD monitoring (collaboration as member of the RhEoVOLUTION project)
 
-- [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) (Grenoble, France). **Duration**: 1.5 months (2019). **Goal**: Experimental ice deformation (creep) using digital image correlation methods under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
+- [Institut des Géosciences de l'Environnement](http://www.ige-grenoble.fr/) (Grenoble, France). **Duration**: 1.5 months (2019). **Task**: Experimental ice deformation (creep) using digital image correlation methods under the supervision of [Maurine Montagnat](http://www.ige-grenoble.fr/pages-personnelles/maurine-montagnat-rentier/).
 
-- [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (Saint-Étienne, France). **Duration**: 1 week (2018). **Goal**: High temperature experimental deformation of magnesium alloys in a channel-die compression rig (collab. Dr. Romain Quey).
+- [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/) (Saint-Étienne, France). **Duration**: 1 week (2018). **Task**: High temperature experimental deformation of magnesium alloys in a channel-die compression rig (collab. Dr. Romain Quey).
 
 ---
 
@@ -138,10 +140,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 ## Research tools developed
 
 - [GrainSizeTools](http://marcoalopez.github.io/GrainSizeTools/): A free and open-source Python script for estimating the grain size from thin sections  
-
-- [PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (**in active development**!)    
-
-- [Jupyter4DICe](https://github.com/marcoalopez/Jupyter4DICe): a series of Jupyter notebooks written in Python for post-processing digital image correlation (DIC) data obtained with the open-source digital image correlation tool [DICe](https://github.com/dicengine/dice)  
+- [PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (**in active development**!)
 
 ---
 
@@ -149,7 +148,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 - **From 2025 to today**: [Deep Earth’s Oxygen recycling at subduction Zones (OZ)](https://doi.org/10.3030/101088573). **Grant agreement ID**: 101088573. **Funded under**: HORIZON 1.1 - European Research Council (ERC). **PI**: José Alberto Padrón Navarta. **Host institution:** IACT-CSIC. **Dates**: 12/2023 – 11/2028. **Total cost**: €2.000.000 **Link**: https://doi.org/10.3030/101088573 **Role**: Full-time CSIC researcher contract.
 
-- **From 2022 to 2023**:[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa “In Itineras”](https://sede.asturias.es/-/dboid-6269000059309988007573). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: Principal investigator.
+- **From 2022 to 2023**:[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa “In Itineras”](https://sede.asturias.es/-/dboid-6269000059309988007573). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: ==Principal investigator==.
 
 - **From 2021 to 2025**: [ERC Advanced Grant RhEoVOLUTION project: Micro-scale dependent, time- and space-evolving rheologies: the key for generating strain localization in the Earth](https://cordis.europa.eu/project/id/882450/) **Grant agreement ID**: 882450. **Funded under**: EXCELLENT SCIENCE - European Research Council (ERC). **PI**: Andrea Tommasi. **Host institution:** CNRS, Geosciences Montpellier. **Dates**: 11/2020 – 10/2025. **Total cost**: €2.500.000 **Link**: https://doi.org/10.3030/882450 **Role**: One-year full-time CNRS researcher contract as part of the main team (Jan 2021 to Jan 2022). Currently external collaborator.
 
@@ -182,6 +181,8 @@ For a full list of past participation in research projects see [here](https://gi
 ### Workshops and courses
 
 - **Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences. Website: https://github.com/marcoalopez/Python_course  
+
+- **Introduction to GitHub and Git**: an introductory one-day workshop on GitHub and Git given by Michal Bukala and Marco A. López-Sánchez at IACT-CSIC in 2025. 
 
 - **EBSD data treatment with MTEX** taught at the *GRD Recrystallization and Grain Growth workshop 2020* (Les Houches, School of Physics, France)
 
