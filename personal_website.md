@@ -19,7 +19,7 @@ Granada, SPAIN.
 marco.lopez [to be found at] csic [dot] es
 
 **phone**
-958230000 Ext.436635
+958230000 Ext.436635  
 
 # On the web
 
@@ -30,7 +30,7 @@ Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOi
 Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
 Github page: <https://github.com/marcoalopez>   
 At work: [IACT-CSIC personal page](https://www.iact.csic.es/en/personal/perfil/marco-antonio-lopez-sanchez/)  
-Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
+Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez  
 
 ---
 
@@ -138,7 +138,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 You can find a full list my pet coding projects [here](https://github.com/marcoalopez?tab=repositories). Some selections are listed below:
 
-- [Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python using Matplotlib. 
+- [Ternary plots](https://marcoalopez.github.io/ternary_plots/): no-fuss ternary plots in Python using Matplotlib.  
 
 ---
 
@@ -183,9 +183,9 @@ I previously taught at the University of Oviedo, where I was involved in several
 
 I have a YouTube channel called *Earth Science Talks*, where I occasionally upload videos about my research. Please be aware that the topics covered so far are very niche and unlikely to be of interest to the general public. [Click here to visit the channel](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Below is the list of available videos:
 
-- [Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM)
+- [Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM)  
 
-- [Evolution of strain field and microstructure in polycrystalline ice using in situ experiments](https://youtu.be/R5Vm63oqLGk)
+- [Evolution of strain field and microstructure in polycrystalline ice using in situ experiments](https://youtu.be/R5Vm63oqLGk)  
 
 ---
 
@@ -221,11 +221,16 @@ https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 program
 
 https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data.
 
+https://imagej.net/downloads: **Fiji** (and ImageJ) is a free, open-source software package designed for scientific image analysis.
+
+https://qgis.org/: This is a free and open-source geographic information system (GIS) software.
+
 ### Other software
 
-[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora.
+[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora.  
 
 ---
-*This website was last edited on: 2026-01-03*  
+
+*This website was last edited on: 2026-01-06*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
-*Hosted on GitHub Pages — Created with [Typora](https://typora.io/)*
+*Hosted on GitHub Pages*
