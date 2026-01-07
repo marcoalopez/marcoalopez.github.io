@@ -219,7 +219,7 @@ https://squoosh.app/: This is a tool that reduces image file size while maintain
 
 https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs developed by James A. D. Connolly  for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport. It is a great piece of software.
 
-https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data. It's a must-have for me and anyone working on EBSD data in research. The developers are very responsive and are continually developing new features and fixing errors. It's also the only reason I still use MATLAB every now and then. There is a version ported to Python named [Orix](https://github.com/pyxem/orix), but it's not quite ready to replace this tool just yet. 
+https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data. It's a must-have for me and anyone working on EBSD data in research. The developers are very responsive and are continually developing new features and fixing errors. It's also the only reason I still use MATLAB every now and then. There is a version ported to Python named [Orix](https://orix.readthedocs.io/en/stable/), but it's not quite ready to replace MTEX completely just yet. 
 
 https://imagej.net/downloads: **Fiji** (derived from *ImageJ*) is a free, open-source software package designed for scientific image analysis. It is a jack-of-all-trades in this field.
 
