@@ -171,8 +171,8 @@ I previously taught at the University of Oviedo, where I was involved in several
 
 ## Guides
 
--	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Miniconda)
-- [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/Installing_Python_Pixi)
+-	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/1.-Installing-Python-Miniconda)
+- [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/2.-Installing-Python-Pixi)
 
 
 ## Essays
