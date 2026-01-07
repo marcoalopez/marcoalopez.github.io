@@ -217,20 +217,24 @@ https://squoosh.app/: This is a tool that reduces image file size while maintain
 
 ### Scientific software
 
-https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport.
+https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs developed by James A. D. Connolly  for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport. It is a great piece of software.
 
-https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data.
+https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data. It's a must-have for me and anyone working on EBSD data in research. The developers are very responsive and are continually developing new features and fixing errors. It's also the only reason I still use MATLAB every now and then. There is a version ported to Python named [Orix](https://github.com/pyxem/orix), but it's not quite ready to replace this tool just yet. 
 
-https://imagej.net/downloads: **Fiji** (and ImageJ) is a free, open-source software package designed for scientific image analysis.
+https://imagej.net/downloads: **Fiji** (derived from *ImageJ*) is a free, open-source software package designed for scientific image analysis. It is a jack-of-all-trades in this field.
 
-https://qgis.org/: This is a free and open-source geographic information system (GIS) software.
+https://qgis.org/: **QGis** is a free, open-source geographic information system (GIS) software.
+
+https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python library by Donald Erb that contains a vast number of algorithms for baseline correction of experimental data. It is also extremely well documented.
 
 ### Other software
+
+[Zotero](): This is a free tool to collect, organize, annotate, cite, and share research.
 
 [Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora.  
 
 ---
 
-*This website was last edited on: 2026-01-06*  
+*This website was last edited on: 2026-01-07*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
