@@ -171,8 +171,8 @@ I previously taught at the University of Oviedo, where I was involved in several
 
 ## Guides
 
--	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/1.-Installing-Python-Miniconda)
-- [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/2.-Installing-Python-Pixi)
+-	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/1.-Installing-Python-with-Miniconda)
+- [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/2.-Installing-Python-with-Pixi)
 
 
 ## Essays
@@ -235,6 +235,6 @@ https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python libra
 
 ---
 
-*This website was last edited on: 2026-01-07*  
+*This website was last edited on: 2026-01-08*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
