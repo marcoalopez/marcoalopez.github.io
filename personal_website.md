@@ -144,7 +144,7 @@ You can find a full list my pet coding projects [here](https://github.com/marcoa
 
 # Teaching & Outreach
 
-I previously taught at the University of Oviedo, where I was involved in several courses in the Geology and Mining Engineering degrees. These included *Structural Geology*, *Geological Mapping* (fieldwork and geological map interpretation), *Geodynamics*, *Plate Tectonics*, *Geophysical and Geochemical Prospecting*, and *Applied Geology for Engineering Problems*. For further details, please see my [CV](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf). When time allows, which is not often these days, I enjoy creating free educational material, such as workshops, short courses, and a variety of scientific notes. This includes Jupyter notebooks, videos, and short essays on a range of topics, mostly in English but occasionally in Spanish. Links to this material can be found below. I am not particularly active on social media, but I occasionally share brief thoughts and updates at https://fediscience.org/@marcoalopez  
+I previously taught at the University of Oviedo, where I was involved in several courses in the Geology and Mining Engineering degrees. These included *Structural Geology*, *Geological Mapping* (fieldwork and geological map interpretation), *Geodynamics*, *Plate Tectonics*, *Geophysical and Geochemical Prospecting*, and *Applied Geology for Engineering Problems*. For further details, please see my [CV](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf). When time allows, which is not often these days, I enjoy creating free educational material, such as workshops, short courses, and a variety of scientific notes. This includes Jupyter notebooks, videos, and short essays on a range of topics, mostly in English but occasionally in Spanish. Links to this material can be found below. I am not particularly active on social media, but I occasionally share thoughts and updates at https://fediscience.org/@marcoalopez  
 
 ## Workshops and courses
 
@@ -209,19 +209,19 @@ https://smallpond.ca/jim/scale/: A compact printable 10 cm reference scale desig
 
 https://www.angryreviewer.com/: Free academic style corrector for modern scientific writing by Roman Anufriev.
 
-https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. These colour maps are already included in the Python ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps).
+https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. These colour maps are already included in the Python ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps). As a complement, there is also https://www.fabiocrameri.ch/colourmaps/ by Fabio Crameri, that provides a comprehensive set of color maps to represent data without visual distortion.
 
-https://www.fabiocrameri.ch/colourmaps/: A comprehensive set of color maps to represent data without visual distortion by Fabio Crameri.
+https://squoosh.app/: This is a tool that reduces image file size while maintaining high quality. It's very handy for making light websites that uses images.
 
-https://squoosh.app/: This is a tool that reduces image file size while maintaining high quality. It's very handy for websites.
+https://pandoc.org/ **Pandoc** is a universal document converter, one of the first things I install on a new system. The offical website also includes a *"Pandoc in the browser"* utility, https://pandoc.org/wasm-demo/convert.html, that allows you to use Pandoc directly in your browser without installing it.
 
-### Scientific software
+### Free scientific software and libraries
 
-https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs developed by James A. D. Connolly  for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport. It is a great piece of software.
+https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs developed by James A. D. Connolly for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport. This software is a gem. The discussion group for users is at https://groups.io/g/PerpleX
 
-https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data. It's a must-have for me and anyone working on EBSD data in research. The developers are very responsive and are continually developing new features and fixing errors. It's also the only reason I still use MATLAB every now and then. There is a version ported to Python named [Orix](https://orix.readthedocs.io/en/stable/), but it's not quite ready to replace MTEX completely just yet. 
+https://mtex-toolbox.github.io/index: **MTEX** is a free, open-source MATLAB toolbox for analyzing and modelling crystallographic textures using EBSD or pole figure data. It's a must-have for anyone working on EBSD data in research. The developers are very responsive and are continually releasing new features and fixing bugs. It is the only reason I still use MATLAB every now and then. There is a version ported to Python named [Orix](https://orix.readthedocs.io/en/stable/), but it's not quite ready to replace MTEX just yet. 
 
-https://imagej.net/downloads: **Fiji** (derived from *ImageJ*) is a free, open-source software package designed for scientific image analysis. It is a jack-of-all-trades in this field.
+https://imagej.net/downloads: **Fiji** (derived from *ImageJ*) is a free, open-source software package designed for scientific image analysis. It is a Swiss-army knife of image analysis.
 
 https://qgis.org/: **QGis** is a free, open-source geographic information system (GIS) software.
 
@@ -231,10 +231,14 @@ https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python libra
 
 [Zotero](): This is a free tool to collect, organize, annotate, cite, and share research.
 
-[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora.  
+[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora.   
+
+### Miscellanea
+
+https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski cover a variety of science and engineering topics. Browse through the [archive](https://ciechanow.ski/archives/) to discover all the topics he has covered. Each one is a gem.
 
 ---
 
-*This website was last edited on: 2026-01-08*  
+*This website was last edited on: 2026-01-10*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
