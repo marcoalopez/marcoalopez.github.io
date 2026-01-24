@@ -181,7 +181,7 @@ I previously taught at the University of Oviedo, where I was involved in several
 
 ## Media
 
-I have a YouTube channel called *Earth Science Talks*, where I occasionally upload videos about my research. Please be aware that the topics covered so far are very niche and unlikely to be of interest to the general public. [Click here to visit the channel](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). Below is the list of available videos:
+I have a YouTube channel where I occasionally upload videos about my research. Please be aware that the topics covered so far are very niche and unlikely to be of interest to the general public. [Click here to visit the channel](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). The list of available videos is below:
 
 - [Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD](https://youtu.be/vs6-znNYAMM)  
 
@@ -239,6 +239,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-01-10*  
+*This website was last edited on: 2026-01-24*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
