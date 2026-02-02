@@ -1,32 +1,72 @@
-- 2025 - Padrón-Navarta JA, **Lopez-Sanchez MA**. The Past and Future of Electron Backscattered Diffraction (EBSD) in Earth Sciences. 17th Multinational Congress on Microscopy, Slovenia.
-- 2024 - **Lopez-Sanchez MA**, Padrón-Navarta JA. A new method for calculating olivine crystal orientation using polarized FTIR spectroscopy. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- 2024 - **Lopez-Sanchez MA**. PyRockWave: a new open-source Python tool for reading elasticity databases and modeling the elastic properties of Earth materials. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- 2024 - Llana-Fúnez S, **Lopez-Sanchez MA**. Advance in geological knowledge of the Cabo Ortegal Complex through its geological maps. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- 2024 - Llana-Fúnez S, **Lopez-Sanchez MA**. Crystalline massifs in the upper crust: their role favoring stress concentration offshore the North Cantabrian margin. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- 2024 - Boissonneau G, Montagnat M, Tommasi A, **Lopez-Sanchez MA**, Barou F. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _ICOTOM 2024 (Metz, France, 30 jun - 6 July)_. Oral (Speaker: A. Tommasi) https://icotom20.sciencesconf.org/515305/document
-- 2023 - Caldera N, Griera A, **Lopez-Sanchez MA**, Guardia M, Labaume P, Teixell A. Microstructure and paleotemperature record of the upper Cretaceous rocks from the Alpine collision in the western Pyrenean Axial Zone (Eaux-Chaudes fold nappe). _European Geoscience Union General Assembly 2023_
-- 2023 - Llana-Fúnez S, De Paz-Álvarez MI, **Lopez-Sanchez MA** et al. Carbon-oxygen isotope analysis of fault rocks in carbonates from different orogenic cycles in the Cantabrian Zone (N Spain): similarities and differences. _European Geoscience Union General Assembly 2023_
-- 2023 - **Lopez-Sanchez MA**. Seismic modelling using EBSD data: why, how, limitations and good practices. **Invited keynote speaker**. _Freiberg MTEX Workshop 2023_ https://mtex-toolbox.github.io/workshop23
-- 2022 - **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Talk). _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
-- 2022 - Llana-Fúnez S, Acevedo J, Cárdenes, V, **Lopez-Sanchez MA**, et al. Seismic anisotropy in the Iberian Variscan slate belt: Lab determinations in slate samples versus seismic anisotropy from ambient noise interferometry. _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_
-- 2022 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Talk). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
-- 2022 - **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX **(Talk - invited)**. _Freiberg online MTEX Workshop 2022_
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Texture evolution during dynamic recrystallization in olivine-rich rocks (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2020 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Talk). *GDR meeting (Grenoble, France)*
-- 2019 - **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Talk). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- 2019 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Seismic anisotropy in fine-grained slates from NW Spain (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- 2019 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD (poster). *Final CREEP workshop (Les Houches - France)*
-- 2017 - Llana-Fúnez S, de Paola N, Pozzi G, **Lopez-Sanchez MA**. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). *European Geoscience Union General Assembly 2017*
-- 2017 - Llana-Fúnez S, Alonso JL, Caldera N, **Lopez-Sanchez MA**. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain).  *Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Scotland)*
-- 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Talk). *European Geoscience Union General Assembly 2016*   
-- 2016 - **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Talk). *Congreso Geológico Nacional de España*  
-- 2012 -**Lopez-Sanchez MA**, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
-- 2012 - **Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). *Congreso Geológico Nacional de España*  
-- 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Oviedo)*  
-- 2011 - **López-Sánchez MA**, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*
-- 2011 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*  
-- 2011 - **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) *(Poster)*. *European Geoscience Union General Assembly*  
-- 2010 - **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Talk - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*. 
-- 2009 - **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Liverpool)* 
+## 2026
+
+- **Lopez-Sanchez MA**, Padrón-Navarta JA. A novel method for determining crystal orientation using polarised Fourier-Transform infrared spectroscopy. *European Geoscience Union General Assembly* 2026. https://meetingorganizer.copernicus.org/EGU26/EGU26-13627.html
+- Padrón-Navarta JA, Bukała M, Menzel M, Ramón-Fernández M., Cristóbal LS, Garduño I, Rosenthal A, Lopez-Sanchez MA. New perspectives on the oxygen and deep water cycle. *European Geoscience Union General Assembly* 2026 https://meetingorganizer.copernicus.org/EGU26/EGU26-20943.html.
+
+## 2025
+
+- Padrón-Navarta JA, **Lopez-Sanchez MA**. The Past and Future of Electron Backscattered Diffraction (EBSD) in Earth Sciences. 17th Multinational Congress on Microscopy, Slovenia.
+
+## 2024
+
+- **Lopez-Sanchez MA**, Padrón-Navarta JA. A new method for calculating olivine crystal orientation using polarized FTIR spectroscopy. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+- **Lopez-Sanchez MA**. PyRockWave: a new open-source Python tool for reading elasticity databases and modeling the elastic properties of Earth materials. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+- Llana-Fúnez S, **Lopez-Sanchez MA**. Advance in geological knowledge of the Cabo Ortegal Complex through its geological maps. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+- Llana-Fúnez S, **Lopez-Sanchez MA**. Crystalline massifs in the upper crust: their role favoring stress concentration offshore the North Cantabrian margin. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+- Boissonneau G, Montagnat M, Tommasi A, **Lopez-Sanchez MA**, Barou F. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _ICOTOM 2024 (Metz, France, 30 jun - 6 July)_. Oral (Speaker: A. Tommasi) https://icotom20.sciencesconf.org/515305/document
+
+## 2023
+
+- Caldera N, Griera A, **Lopez-Sanchez MA**, Guardia M, Labaume P, Teixell A. Microstructure and paleotemperature record of the upper Cretaceous rocks from the Alpine collision in the western Pyrenean Axial Zone (Eaux-Chaudes fold nappe). _European Geoscience Union General Assembly 2023_
+- Llana-Fúnez S, De Paz-Álvarez MI, **Lopez-Sanchez MA** et al. Carbon-oxygen isotope analysis of fault rocks in carbonates from different orogenic cycles in the Cantabrian Zone (N Spain): similarities and differences. _European Geoscience Union General Assembly 2023_
+- **Lopez-Sanchez MA**. Seismic modelling using EBSD data: why, how, limitations and good practices. **Invited keynote speaker**. _Freiberg MTEX Workshop 2023_ https://mtex-toolbox.github.io/workshop23
+
+## 2022
+
+- **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Talk). _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
+- Llana-Fúnez S, Acevedo J, Cárdenes, V, **Lopez-Sanchez MA**, et al. Seismic anisotropy in the Iberian Variscan slate belt: Lab determinations in slate samples versus seismic anisotropy from ambient noise interferometry. _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Talk). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
+- **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX **(Talk - invited)**. _Freiberg online MTEX Workshop 2022_
+
+## 2020
+
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Texture evolution during dynamic recrystallization in olivine-rich rocks (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+
+## 2019
+
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Talk). *GDR meeting (Grenoble, France)*
+- **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Talk). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+- Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Seismic anisotropy in fine-grained slates from NW Spain (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD (poster). *Final CREEP workshop (Les Houches - France)*
+
+## 2017
+
+- Llana-Fúnez S, de Paola N, Pozzi G, **Lopez-Sanchez MA**. Slip events propagating along a ductile mid-crustal strike-slip shear zone (Malpica-Lamego line, Variscan Orogen, NW Iberia). *European Geoscience Union General Assembly 2017*
+- Llana-Fúnez S, Alonso JL, Caldera N, **Lopez-Sanchez MA**. Fault rocks at the base of the Somiedo Nappe (Variscan Orogen, NW Spain).  *Deformation mechanisms, Rheology and Tectonics (DRT) 2017 (Scotland)*
+
+## 2016
+
+- **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Talk). *European Geoscience Union General Assembly 2016*   
+- **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Talk). *Congreso Geológico Nacional de España*  
+
+## 2012
+
+- **Lopez-Sanchez MA**, Llana-Fúnez S, Marcos A and Martínez FJ. Deformation of quartz and feldspar at mid-crustal depths in an extensional normal fault (Vivero Fault, NW Spain) *(Poster)*. *European Geoscience Union General Assembly 2012*  
+- **Lopez-Sanchez MA**, Iriondo A, Marcos A and Martínez FJ. Una edad de 478,7 Ma (U-Pb Shrimp-RG) en la Formación Ollo de Sapo: implicaciones para el volcanismo Cambro-Ordovícico de la Península Ibérica (Poster). *Congreso Geológico Nacional de España*  
+
+## 2011
+
+- **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Changes in deformation mechanism and neocrystallisation in granite during a MT-LP deformation (Vivero Fault, NW Spain) *(Poster)*. *Deformation, Rheology and Tectonics meeting (Oviedo)*  
+- **López-Sánchez MA**, Llana-Fúnez S, Martínez FJ and Marcos A. Microstructural Evolution in Quartz and Feldspar During Medium T Deformation (Vivero Fault, NW Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*
+- **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Hangingwall Metamorphism Related to an Extensional Orogen-scale Shear Zone: The Vivero Fault (NW of Spain) *(Poster)*. *The Interrelationships Between Deformation and Metamorphism*  
+- **López-Sánchez MA**, LLana-Fúnez S, Martínez FJ and Marcos A. Strain gradient recorded in the Penedo Gordo granite during extensional movement of crustal-scale Vivero Fault (NW Spain) *(Poster)*. *European Geoscience Union General Assembly 2011*  
+
+## 2010
+
+- **López-Sánchez MA**, Marcos A, Martínez FJ and Llana-Fúnez S. Microstructures from the footwall to the hangingwall in the Viveiro Shear Zone (NW of Iberian Peninsula) **(Talk - by invitation)**. *Sociedade Geológica de Portugal, VIII Congresso Nacional de Geología*. 
+
+## 2009
+
+- **López-Sánchez MA**. Deformation partitioning patterns and metamorphism of the Viveiro shear zone (Guntín, NW of Iberian Peninsula) *(Poster)*. *Deformation, Rheology and Tectonics meeting 2009 (Liverpool)* 
