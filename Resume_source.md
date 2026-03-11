@@ -1,13 +1,13 @@
-# Dr. Marco A. Lopez-Sanchez
+# **Dr. Marco A. Lopez-Sanchez**
 
-## Geoscientist
+## **Geoscientist**
 
 **Email:** marco.lopez [to be found at] csic [dot] es | **Phone:** 958230000 Ext.436635
 **Location:** Office 137, Instituto Andaluz de Ciencias de la Tierra (IACT-CSIC), Spanish Research Council (CSIC), Avda. de Las Palmeras, 4, 18100, Armilla. Granada, SPAIN.
 
 ---
 
-## Links of interest
+## **Links of interest**
 
 Personal website: <https://marcoalopez.github.io/>  
 ORCID: <http://orcid.org/0000-0002-0261-9267>   
@@ -18,7 +18,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Education
+## **Education**
 
 - **2013** - **PhD in Geology with *cum laude* honours** from [University of Oviedo](http://www.uniovi.es/en/inicio) (Spain). Thesis title: _Tectonic analysis of the Vivero fault (Galicia, NW of Spain) (original in Spanish)_. Advisors: Sergio Llana-Fúnez, Alberto Marcos and Francisco J. Martínez.  
 
@@ -28,7 +28,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Appointments (only academic related)
+## **Appointments (only academic related)**
 
 - **2025 - present** - Hired researcher at the [Andalusian Earth Sciences Institute (IACT-CSIC)](https://www.iact.csic.es/en/)
 
@@ -46,7 +46,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Fellowships and Awards
+## **Fellowships and Awards**
 
 - [Marie Sklodowska-Curie Actions Seal of Excellence Award with the research project proposal OUTCROP](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/docs/Seal%20of%20Excellence_OUTCROP.pdf) Year: 2022. Score: 90.4/100.
 
@@ -66,7 +66,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Scientific activities as a visitor researcher
+## **Scientific activities as a visitor researcher**
 
 - [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). **Duration**: 1 week (2025). **Task**: Conduct experiments to determine the physical properties of Earth materials under high pressure and temperature conditions using the ID06-LVP (Large Volume Press) beamline (ERC-OZ project, PI: J.A. Padrón-Navarta).
 
@@ -80,7 +80,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Peer-reviewed publications
+## **Peer-reviewed publications**
 
 - Lopez-Sanchez, M.A., Cárdenes, V., Barou, F., Llana-Fúnez, S., 2025. Predictive modelling of seismic properties in single-foliated slates. Tectonophysics 908, 230765. https://doi.org/10.1016/j.tecto.2025.230765
 - Boissonneau, G., Tommasi, A., Barou, F., Lopez-Sanchez, M.A., Montagnat, M., 2025. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. Comptes Rendus. Mécanique 353, 235–259. https://doi.org/10.5802/crmeca.267
@@ -104,7 +104,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Geological Excursion Guides
+## **Geological Excursion Guides**
 
 - Tilhac R, Lopez-Sanchez, MA, Llana-Fúnez, S, Padrón-Navarta JA. 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://github.com/lherzolite2024/fieldguide/
 
@@ -112,7 +112,7 @@ Github page: <https://github.com/marcoalopez>
 
 ---
 
-## Meeting proceedings (only talks in the last 10 years)
+## **Meeting proceedings (only talks in the last 10 years)**
 
 For a full list of meeting proceedings see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/meeting_proceedings_full.md)
 
@@ -127,7 +127,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 ---
 
-## Peer review and editorial activity
+## **Peer review and editorial activity**
 
 - **Journal articles:** _Geology, Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Solid Earth, Image Analysis & Stereology, Geosciences Journal, Tektonika, Journal of marine science and application and Italian Journal of Geosciences_. 
 
@@ -137,14 +137,14 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 ---
 
-## Research tools developed
+## **Research tools developed**
 
 - [GrainSizeTools](http://marcoalopez.github.io/GrainSizeTools/): A free and open-source Python script for estimating the grain size from thin sections  
 - [PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (**in active development**!)
 
 ---
 
-## Participation in Research Projects 
+## **Participation in Research Projects** 
 
 - **From 2025 to today**: [Deep Earth’s Oxygen recycling at subduction Zones (OZ)](https://doi.org/10.3030/101088573). **Grant agreement ID**: 101088573. **Funded under**: HORIZON 1.1 - European Research Council (ERC). **PI**: José Alberto Padrón Navarta. **Host institution:** IACT-CSIC. **Dates**: 12/2023 – 11/2028. **Total cost**: €2.000.000 **Link**: https://doi.org/10.3030/101088573 **Role**: Full-time CSIC researcher contract.
 
@@ -156,7 +156,7 @@ For a full list of past participation in research projects see [here](https://gi
 
 ---
 
-## Selected training courses
+## **Selected training courses**
 
 - 2021: Advanced workshop on digital image correlation (120 hours) [Virtual EBSD 2021 meeting](https://www.rms.org.uk/rms-event-calendar/2021-events/ebsd-2021.html)   
 - 2019:4th Innovative Training Network CREEP workshop (EU-H2020) (5 days) [École de physique des Houches](https://www.houches-school-physics.com/), Les Houches, France. For details see [here](https://www.houches-school-physics.com/program/program-2019/4th-innovative-training-network-creep-workshop-404067.kjsp?RH=1529674446765)
@@ -168,9 +168,9 @@ For a full list of past participation in research projects see [here](https://gi
 
 ---
 
-## Teaching
+## **Teaching**
 
-### University courses (University of Oviedo)
+### **University courses (University of Oviedo)**
 
 - **From 2022 to 2023**. Degree in Geology: 100 hours of laboratory practice: _Structural Geology_ (60 hours) and _Interpretation of Geological Maps_ (40 hours). Degree in Mining Engineering: 20 hours of theory in _Geology and its Applications to Engineering_. 
 
@@ -178,7 +178,7 @@ For a full list of past participation in research projects see [here](https://gi
 	- Laboratory practice taught: *Plate Tectonics (30 hours); Structural Geology (20 hours); Geophysical and Geochemical prospecting (10 hours); Interpretation of geological maps (10 hours)*
 	- Field Camp taught: *Geodynamics (10 hours); Structural Geology (10 hours); Fieldwork (geological mapping) (12.5 hours); Tectonics (10 hours); Structural analysis (5 hours)*
 
-### Workshops and courses
+### **Workshops and courses**
 
 - **Introduction to the Python programming language for data analysis in Earth sciences**: an introductory course to the Python programming language for data analysis using examples from the earth sciences. Website: https://github.com/marcoalopez/Python_course  
 
@@ -188,7 +188,7 @@ For a full list of past participation in research projects see [here](https://gi
 
 ---
 
-## Organisation of R&D activities
+## **Organisation of R&D activities**
 
 - Organizing committee of the **7th International Orogenic Lherzolite meeting 2024 **to be held in Oviedo and Cabo Ortegal (fieldtrip) from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. https://lherzolite2024.github.io
 
@@ -196,7 +196,7 @@ For a full list of past participation in research projects see [here](https://gi
 
 ---
 
-## Languages
+## **Languages**
 
 Spanish and Galician - mother tongue  
 English - C1, fluent  

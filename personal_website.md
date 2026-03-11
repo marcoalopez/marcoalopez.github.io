@@ -4,7 +4,7 @@ Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Ea
 
 [TOC]
 
-# Personal details
+# **Personal details**
 
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
@@ -21,7 +21,7 @@ marco.lopez [to be found at] csic [dot] es
 **phone**
 958230000 Ext.436635  
 
-# On the web
+# **On the web**
 
 CV (PDF): https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf (also [here](https://mega.nz/file/PUY1ATSA#1eNFz8DJyKIKmEilJmMZmnweJBZoZKcwbNpLA7IW2z4)) 
 ORCID: <http://orcid.org/0000-0002-0261-9267>   
@@ -34,15 +34,15 @@ Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez
 
 ---
 
-# Research
+# **Research**
 
 A summary of my research activities
 
-## Publications
+## **Publications**
 
 What I work(ed) on, with links to my publications and PDF files.
 
-### Peer-reviewed publications
+### **Peer-reviewed publications**
 
 **2025**
 
@@ -97,13 +97,13 @@ What I work(ed) on, with links to my publications and PDF files.
 
 - **Lopez-Sanchez MA**, Iriondo A, Marcos A, and Martínez FJ (2015) A U-Pb zircon age (479±5 Ma) from the uppermost layers of the Ollo de Sapo Fm near Viveiro (NW Spain): implications for the duration of rifting-related Cambro-Ordovician volcanism in Iberia. *Geological Magazine* **152**: 341-350; https://doi.org/10.1017/S0016756814000272 / [PDF](https://mega.nz/file/nVpyEJob#2EcZkB5KkSvjMMjQM-NzXpgPxbMP9Hn0fOS0uMkI9F4)   
 
-## Geological Excursion Guides
+## **Geological Excursion Guides**
 
 - Tilhac R, **Lopez-Sanchez, MA**, Llana-Fúnez, S, Padrón-Navarta JA. 2024. Field guide to the mantle section of the Cabo Ortegal Complex. Available from https://github.com/lherzolite2024/fieldguide/
 
 - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA**. 2011 DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [link to PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
-## Links to my research projects' websites
+## **Links to my research projects' websites**
 ### **OUTCROP project (2021-2023)**
 
 **Project website**: https://marcoalopez.github.io/OUTCROPproject/
@@ -116,7 +116,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 > **What it is about**: The IDEA project stands for ***I**n-situ **D**eformation **E**xperiments to study microstructure and texture evolution in **A**nisotropic crystalline materials*. It is a research project funded by a Marie Skłodowska-Curie “Clarín”-COFUND Action postdoctoral fellowship, based at Géosciences Montpellier (Université de Montpellier - CNRS) in France.
 
-## Coding projects and databases
+## **Coding projects and databases**
 
 ### **GrainSizeTools**
 
@@ -128,7 +128,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 **Website**: https://marcoalopez.github.io/PyRockWave/
 
-> **What is it**: A free, open-source Python tool for reading single-crystal elasticity databases and modelling the elastic properties (i.e. seismic velocities) of Earth materials (==yet in alpha phase!==).
+> **What is it**: A free, open-source Python tool for reading single-crystal elasticity databases and modelling the elastic properties (i.e. seismic velocities) of Earth materials (==in alpha phase!==).
 
 ### **FTIRkit**
 
@@ -142,11 +142,11 @@ You can find a full list my pet coding projects [here](https://github.com/marcoa
 
 ---
 
-# Teaching & Outreach
+# **Teaching & Outreach**
 
-I previously taught at the University of Oviedo, where I was involved in several courses in the Geology and Mining Engineering degrees. These included *Structural Geology*, *Geological Mapping* (fieldwork and geological map interpretation), *Geodynamics*, *Plate Tectonics*, *Geophysical and Geochemical Prospecting*, and *Applied Geology for Engineering Problems*. For further details, please see my [CV](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf). When time allows, which is not often these days, I enjoy creating free educational material, such as workshops, short courses, and a variety of scientific notes. This includes Jupyter notebooks, videos, and short essays on a range of topics, mostly in English but occasionally in Spanish. Links to this material can be found below. I am not particularly active on social media, but I occasionally share thoughts and updates at https://fediscience.org/@marcoalopez  
+I previously taught at the University of Oviedo, where I was involved in several courses in the Geology and Mining Engineering degrees. These included *Structural Geology*, *Geological Mapping* (*fieldwork and geological map interpretation*), *Geodynamics*, *Plate Tectonics*, *Geophysical and Geochemical Prospecting*, and *Applied Geology for Engineering Problems*. For further details, please see my [CV](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/Resume.pdf). When time allows, I enjoy creating free educational material, such as workshops, short courses, and a variety of scientific notes. This includes Jupyter notebooks, videos, and short essays on a range of topics, mostly in English but occasionally in Spanish. Links to this material can be found below. I am not particularly active on social media, but I occasionally share thoughts and updates at https://fediscience.org/@marcoalopez  
 
-## Workshops and courses
+## **Workshops and courses**
 
 ### **An introduction to the Python programming language for data analysis in the Earth sciences**
 
@@ -154,7 +154,7 @@ I previously taught at the University of Oviedo, where I was involved in several
 
 > **What is it**: This is an introductory course to the Python programming language for data analysis, which uses examples from the Earth sciences. ==Still in progress==. 
 
-## Scientific notes and Jupyter notebooks
+## **Scientific notes and Jupyter notebooks**
 
 ### **Jupyter4DICe**
 
@@ -169,17 +169,17 @@ I previously taught at the University of Oviedo, where I was involved in several
 > **What is it**: A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (a little stuck for lack of time!) .
 
 
-## Guides
+## **Guides**
 
 -	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/1.-Installing-Python-with-Miniconda)
 - [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/2.-Installing-Python-with-Pixi)
 
 
-## Essays
+## **Essays**
 
 - 2019: [Is it necessary to smooth the grain boundaries in MTEX when characterizing particle shapes?](https://medium.com/@marcoalopez/do-i-have-to-smooth-the-grain-boundaries-in-mtex-when-characterizing-particle-shapes-10382c6402e8)
 
-## Media
+## **Media**
 
 I have a YouTube channel where I occasionally upload videos about my research. Please be aware that the topics covered so far are very niche and unlikely to be of interest to the general public. [Click here to visit the channel](https://www.youtube.com/playlist?list=PLJwqroIMlqSED-K6heG_3GnSR7TQ5t77o). The list of available videos is below:
 
@@ -189,11 +189,11 @@ I have a YouTube channel where I occasionally upload videos about my research. P
 
 ---
 
-# Links
+# **Links**
 
 Links to tools that I like and/or use frequently.
 
-### Online tools
+### **Online tools**
 
 https://zbib.org/: A free service that helps you to quickly create a bibliography in any citation style.
 
@@ -209,13 +209,13 @@ https://smallpond.ca/jim/scale/: A compact printable 10 cm reference scale desig
 
 https://www.angryreviewer.com/: Free academic style corrector for modern scientific writing by Roman Anufriev.
 
-https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. These colour maps are already included in the Python ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps). As a complement, there is also https://www.fabiocrameri.ch/colourmaps/ by Fabio Crameri, that provides a comprehensive set of color maps to represent data without visual distortion.
+https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. Brewer color maps are already included in the Python ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps). As a complement, there is also https://www.fabiocrameri.ch/colourmaps/ by Fabio Crameri, that provides a comprehensive set of color maps to represent data without visual distortion.
 
-https://squoosh.app/: This is a tool that reduces image file size while maintaining high quality. It's very handy for making light websites that uses images.
+https://squoosh.app/: This is a tool that reduces image file size while maintaining high quality. It's very handy for making light websites that use images.
 
 https://pandoc.org/ **Pandoc** is a universal document converter, one of the first things I install on a new system. The offical website also includes a *"Pandoc in the browser"* utility, https://pandoc.org/wasm-demo/convert.html, that allows you to use Pandoc directly in your browser without installing it.
 
-### Free scientific software and libraries
+### **Free scientific software and libraries**
 
 https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs developed by James A. D. Connolly for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport. This software is a gem. The discussion group for users is at https://groups.io/g/PerpleX
 
@@ -227,18 +227,20 @@ https://qgis.org/: **QGis** is a free, open-source geographic information system
 
 https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python library by Donald Erb that contains a vast number of algorithms for baseline correction of experimental data. It is also extremely well documented.
 
-### Other software
+### **Other software**
 
 [Zotero](): This is a free tool to collect, organize, annotate, cite, and share research.
 
-[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora.   
+[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora. 
 
-### Miscellanea
+[PostScriptToPDF](https://mendelson.org/winpostscripttopdf.html): If you often have to convert postscript files to PDF in Windows (e.g. using Perple_X) and do not have the professional version of Adobe Acrobat, this terminal-based tool is very handy and easy to automate using scripts. 
+
+### **Miscellanea**
 
 https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski cover a variety of science and engineering topics. Browse through the [archive](https://ciechanow.ski/archives/) to discover all the topics he has covered. Each one is a gem.
 
 ---
 
-*This website was last edited on: 2026-02-01*  
+*This website was last edited on: 2026-03-12*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
