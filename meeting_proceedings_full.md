@@ -1,19 +1,19 @@
 ## 2026
 
-- **Lopez-Sanchez MA**, Padrón-Navarta JA. A novel method for determining crystal orientation using polarised Fourier-Transform infrared spectroscopy. *European Geoscience Union General Assembly* 2026. https://meetingorganizer.copernicus.org/EGU26/EGU26-13627.html
+- **Lopez-Sanchez MA**, Padrón-Navarta JA. A novel method for determining crystal orientation using polarised Fourier-Transform infrared spectroscopy. **Talk**. *European Geoscience Union General Assembly* 2026. https://meetingorganizer.copernicus.org/EGU26/EGU26-13627.html
 - Padrón-Navarta JA, Bukała M, Menzel M, Ramón-Fernández M., Cristóbal LS, Garduño I, Rosenthal A, Lopez-Sanchez MA. New perspectives on the oxygen and deep water cycle. *European Geoscience Union General Assembly* 2026 https://meetingorganizer.copernicus.org/EGU26/EGU26-20943.html.
 
 ## 2025
 
-- Padrón-Navarta JA, **Lopez-Sanchez MA**. The Past and Future of Electron Backscattered Diffraction (EBSD) in Earth Sciences. 17th Multinational Congress on Microscopy, Slovenia.
+- Padrón-Navarta JA, **Lopez-Sanchez MA**. The Past and Future of Electron Backscattered Diffraction (EBSD) in Earth Sciences. Talk (Speaker: J.A. Padrón-Navarta). *17th Multinational Congress on Microscopy, Slovenia*.
 
 ## 2024
 
-- **Lopez-Sanchez MA**, Padrón-Navarta JA. A new method for calculating olivine crystal orientation using polarized FTIR spectroscopy. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- **Lopez-Sanchez MA**. PyRockWave: a new open-source Python tool for reading elasticity databases and modeling the elastic properties of Earth materials. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- Llana-Fúnez S, **Lopez-Sanchez MA**. Advance in geological knowledge of the Cabo Ortegal Complex through its geological maps. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- Llana-Fúnez S, **Lopez-Sanchez MA**. Crystalline massifs in the upper crust: their role favoring stress concentration offshore the North Cantabrian margin. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
-- Boissonneau G, Montagnat M, Tommasi A, **Lopez-Sanchez MA**, Barou F. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _ICOTOM 2024 (Metz, France, 30 jun - 6 July)_. Oral (Speaker: A. Tommasi) https://icotom20.sciencesconf.org/515305/document
+- **Lopez-Sanchez MA**, Padrón-Navarta JA. A new method for calculating olivine crystal orientation using polarized FTIR spectroscopy. _7th Orogenic Lherzolite Meeting_. **Poster**. https://lherzolite2024.github.io/programme/
+- **Lopez-Sanchez MA**. PyRockWave: a new open-source Python tool for reading elasticity databases and modeling the elastic properties of Earth materials **Poster**. _7th Orogenic Lherzolite Meeting_. Poster. https://lherzolite2024.github.io/programme/
+- Llana-Fúnez S, **Lopez-Sanchez MA**. Advance in geological knowledge of the Cabo Ortegal Complex through its geological maps. _7th Orogenic Lherzolite Meeting_. **Poster**. https://lherzolite2024.github.io/programme/
+- Llana-Fúnez S, **Lopez-Sanchez MA**. Crystalline massifs in the upper crust: their role favoring stress concentration offshore the North Cantabrian margin. _7th Orogenic Lherzolite Meeting_. **Poster**. https://lherzolite2024.github.io/programme/
+- Boissonneau G, Montagnat M, Tommasi A, **Lopez-Sanchez MA**, Barou F. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. _ICOTOM 2024 (Metz, France, 30 jun - 6 July)_. Talk (Speaker: A. Tommasi) https://icotom20.sciencesconf.org/515305/document
 
 ## 2023
 
@@ -23,21 +23,21 @@
 
 ## 2022
 
-- **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments (Talk). _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
+- **Lopez-Sanchez MA**, Tommasi A, Montagnat M, Chauve T. Evolution of strain field and microstructure in polycrystalline ice using in situ experiments. **Talk**. _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_ https://lameroc.eu/
 - Llana-Fúnez S, Acevedo J, Cárdenes, V, **Lopez-Sanchez MA**, et al. Seismic anisotropy in the Iberian Variscan slate belt: Lab determinations in slate samples versus seismic anisotropy from ambient noise interferometry. _6th International Workshop on Rock Physics (A Coruña, Spain, 13 -17 June)_
-- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD (Talk). _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD. **Talk**. _Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)_ https://the-mas.org/events/topical-conferences/ebsd-2022/
 - **Lopez-Sanchez MA**. Unravelling dynamic recrystallization by subgrain rotation in olivine using MTEX **(Talk - invited)**. _Freiberg online MTEX Workshop 2022_
 
 ## 2020
 
-- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Texture evolution during dynamic recrystallization in olivine-rich rocks (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
-- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments (Talk). *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- **Lopez-Sanchez MA**, Tommasi A, Ben Ismail, W and Barou, F. Texture evolution during dynamic recrystallization in olivine-rich rocks. **Talk**. *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Dislocation-driven static recrystallization in AZ31B magnesium alloy imaged by quasi-in-situ EBSD experiments. **Talk**. *GDR Recrystallization and Grain Growth workshop (Les Houches, School of Physics, France)*
 
 ## 2019
 
-- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures (Talk). *GDR meeting (Grenoble, France)*
-- **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies? (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
-- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize (Talk). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. In-situ annealing EBSD experiments in magnesium alloy AZ31B with variable deformation microstructures. **Talk**. *GDR meeting (Grenoble, France)*
+- **Lopez-Sanchez MA**. Which measure of central tendency is most appropriate in grain size studies?. Poster. *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
+- **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. EBSD in-situ annealing experiments on magnesium alloy (AZ31): how dislocations and interfaces affect recrystallization and final grainsize . **Talk**. *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - Cárdenes V, **Lopez-Sanchez MA**, Barou F, Olona J, Llana-Fúnez S. Seismic anisotropy in fine-grained slates from NW Spain (Poster). *Deformation mechanisms, Rheology and Tectonics (DRT) 2019 (Tübingen, Germany)*
 - **Lopez-Sanchez MA**, Tommasi A, Barou, F and Quey R. Preliminary results on magnesium (AZ31) in situ annealing experiments in the SEM-EBSD (poster). *Final CREEP workshop (Les Houches - France)*
 
@@ -48,8 +48,8 @@
 
 ## 2016
 
-- **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method (Talk). *European Geoscience Union General Assembly 2016*   
-- **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo (Talk). *Congreso Geológico Nacional de España*  
+- **Lopez-Sanchez MA** and Llana-Fúnez S. Characterizing 3D grain size distributions from 2D sections in mylonites using a modified version of the Saltykov method . **Talk**.. *European Geoscience Union General Assembly 2016*   
+- **Lopez-Sanchez MA** and Llana-Fúnez S. Caracterización de la distribución 3D de tamaños de grano en milonitas a partir de secciones usando el método Saltykov y una extensión del mismo . **Talk**.. *Congreso Geológico Nacional de España*  
 
 ## 2012
 
