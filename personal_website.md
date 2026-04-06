@@ -233,7 +233,7 @@ https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python libra
 
 [Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora. 
 
-[PostScriptToPDF](https://mendelson.org/winpostscripttopdf.html): If you often have to convert postscript files to PDF in Windows (e.g. using Perple_X) and do not have the professional version of Adobe Acrobat, this terminal-based tool is very handy and easy to automate using scripts. 
+[PostScriptToPDF](https://mendelson.org/winpostscripttopdf.html): If you often have to convert postscript files to PDF (e.g. using Perple_X) and do not have the professional version of Adobe Acrobat, this terminal-based tool is very handy and easy to automate using scripts. 
 
 ### **Miscellanea**
 
@@ -241,6 +241,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-03-12*  
+*This website was last edited on: 2026-04-06*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
