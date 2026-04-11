@@ -1,6 +1,6 @@
 ![test](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/refs/heads/master/img_header.jpg)
 
-Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks](https://marcoalopez.github.io/PyRockWave/). A large part of my work involves analyzing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience applications. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, manuals, and short pieces of writing.
+Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks](https://marcoalopez.github.io/PyRockWave/). A large part of my work involves analyzing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, practical guides, and short pieces of writing or media.
 
 [TOC]
 
@@ -169,7 +169,7 @@ I previously taught at the University of Oviedo, where I was involved in several
 > **What is it**: A set of Jupyter notebooks to generate crust and lithosphere strength envelopes (a little stuck for lack of time!) .
 
 
-## **Guides**
+## **Practical Guides**
 
 -	[How to install Python using Miniconda](https://github.com/marcoalopez/marcoalopez.github.io/wiki/1.-Installing-Python-with-Miniconda)
 - [How to install Python using Pixi](https://github.com/marcoalopez/marcoalopez.github.io/wiki/2.-Installing-Python-with-Pixi)
@@ -241,6 +241,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-04-06*  
+*This website was last edited on: 2026-04-11*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
