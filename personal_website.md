@@ -193,9 +193,11 @@ I have a YouTube channel where I occasionally upload videos about my research. P
 
 Links to tools that I like and/or use frequently.
 
-### **Online tools**
+### **General tools**
 
 https://zbib.org/: A free service that helps you to quickly create a bibliography in any citation style.
+
+[Zotero](): This is a free tool to collect, organize, annotate, cite, and share research.
 
 https://myhdf5.hdfgroup.org/: HDF5 viewer.
 
@@ -215,6 +217,10 @@ https://squoosh.app/: This is a tool that reduces image file size while maintain
 
 https://pandoc.org/ **Pandoc** is a universal document converter, one of the first things I install on a new system. The offical website also includes a *"Pandoc in the browser"* utility, https://pandoc.org/wasm-demo/convert.html, that allows you to use Pandoc directly in your browser without installing it.
 
+[PostScriptToPDF](https://mendelson.org/winpostscripttopdf.html): If you often have to convert postscript files to PDF (e.g. using Perple_X) and do not have the professional version of Adobe Acrobat, this terminal-based tool is very handy and easy to automate using scripts. 
+
+[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora. 
+
 ### **Free scientific software and libraries**
 
 https://www.perplex.ethz.ch/: **Perple_X** is a collection of Fortran 77 programs developed by James A. D. Connolly for calculating phase diagrams, thermobarometry, manipulating thermodynamic data, and modeling equilibrium phase fractionation and reactive transport. This software is a gem. The discussion group for users is at https://groups.io/g/PerpleX
@@ -227,20 +233,12 @@ https://qgis.org/: **QGis** is a free, open-source geographic information system
 
 https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python library by Donald Erb that contains a vast number of algorithms for baseline correction of experimental data. It is also extremely well documented.
 
-### **Other software**
-
-[Zotero](): This is a free tool to collect, organize, annotate, cite, and share research.
-
-[Typora](https://typora.io/): I love writing in Markdown. I use it for everything, from quick notes to full documents. Typora is a minimalist Markdown editor and reader that I use often. Although it's not free, it's a one-time purchase with no subscription fees or renewals. This very website was created using Typora. 
-
-[PostScriptToPDF](https://mendelson.org/winpostscripttopdf.html): If you often have to convert postscript files to PDF (e.g. using Perple_X) and do not have the professional version of Adobe Acrobat, this terminal-based tool is very handy and easy to automate using scripts. 
-
 ### **Miscellanea**
 
 https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski cover a variety of science and engineering topics. Browse through the [archive](https://ciechanow.ski/archives/) to discover all the topics he has covered. Each one is a gem.
 
 ---
 
-*This website was last edited on: 2026-04-11*  
+*This website was last edited on: 2026-05-24*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
