@@ -104,6 +104,13 @@ What I work(ed) on, with links to my publications and PDF files.
 - Marcos A, Bastida F, Aller J, Fernández FJ, Llana-Fúnez S and **Lopez-Sanchez MA**. 2011 DRT post-conference Fieldtrip Guide: West Asturian Leonese Zone, Cabo Ortegal, Malpica-Lamego Line. *Deformation, Rheology and Tectonics (DRT - Oviedo) meeting* 42 pp + map. [link to PDF](https://www.researchgate.net/publication/236952266_DRT_Post-Conference_Fieldtrip_Guide_3-5_September_2011)
 
 ## **Links to my research projects' websites**
+
+### **Chlorite project (2026)**
+
+**Project website**: available soon
+
+> **What it is about**: The Chlorite project stands for *Experimental investigation of the seismic properties of powdered and foliated chlorite aggregates up to 4 GPa and 700℃ (973 K)*. This is a funded proposal (ES-1955) for the European Synchrotron Radiation Facility (ESRF). The study aims to provide the first robust experimental dataset on the elasticity of Mg-rich chlorite, a key hydrated mineral and compelling candidate for explaining some unusual seismic features observed in subduction zones, particularly in the mantle wedge. We will use the ID06-LVP beamline, the only beamline worldwide that combines high-P multianvil capability with simultaneous XRD, radiographic imaging and broadband ultrasonic interferometry. Its 360° detector rotation allows the full azimuthal diffraction coverage needed to track textural evolution in situ.
+
 ### **OUTCROP project (2021-2023)**
 
 **Project website**: https://marcoalopez.github.io/OUTCROPproject/
@@ -239,6 +246,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-05-24*  
+*This website was last edited on: 2026-06-03*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
