@@ -44,7 +44,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 ### **Under review**
 
-- **Lopez-Sanchez MA** and Padrón-Navarta JA (submitted in 2026/06). Recovering full crystallographic orientation in specimen coordinates from polarised μ-FTIR spectra.
+- **Lopez-Sanchez MA** and Padrón-Navarta JA (submitted in 2026/06). Recovering full crystallographic orientation in specimen coordinates from polarised μ-FTIR spectra.  Preprint at https://doi.org/10.21203/rs.3.rs-10187075/v1
 
 ### **Peer-reviewed publications**
 
@@ -250,6 +250,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-06-29*  
+*This website was last edited on: 2026-07-01*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
