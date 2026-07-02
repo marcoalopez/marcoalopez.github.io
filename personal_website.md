@@ -113,7 +113,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 **Project website**: available soon
 
-> **What it is about**: The Chlorite project stands for *Experimental investigation of the seismic properties of powdered and foliated chlorite aggregates up to 4 GPa and 700℃ (973 K)*. This is a funded proposal (ES-1955) for the European Synchrotron Radiation Facility (ESRF). The study aims to provide the first robust experimental dataset on the elasticity of Mg-rich chlorite, a key hydrated mineral and compelling candidate for explaining some unusual seismic features observed in subduction zones, particularly in the mantle wedge. We will use the ID06-LVP beamline, the only beamline worldwide that combines high-P multianvil capability with simultaneous XRD, radiographic imaging and broadband ultrasonic interferometry. Its 360° detector rotation allows the full azimuthal diffraction coverage needed to track textural evolution in situ.
+> **What it is about**: The chlorite project stands for *Experimental investigation of the seismic properties of powdered and foliated chlorite aggregates up to 4 GPa and 700℃ (973 K)*. This is a funded proposal (ES-1955) for the European Synchrotron Radiation Facility (ESRF). The study aims to provide the first robust experimental dataset on the elasticity of Mg-rich chlorite, a key mineral and compelling candidate for explaining some unusual seismic features observed in subduction zones, particularly in the mantle wedge. We will use the ID06-LVP beamline, the only worldwide that combines high-P multianvil capability with simultaneous XRD, radiographic imaging and broadband ultrasonic interferometry. Its 360° detector rotation allows the full azimuthal diffraction coverage needed to track textural evolution in situ.
 
 ### **OUTCROP project (2021-2023)**
 
@@ -139,13 +139,13 @@ What I work(ed) on, with links to my publications and PDF files.
 
 **Website**: https://marcoalopez.github.io/PyRockWave/
 
-> **What is it**: A free, open-source Python tool for reading single-crystal elasticity databases and modelling the elastic properties (i.e. seismic velocities) of Earth materials (==in alpha phase!==).
+> **What is it**: A free, open-source Python tool for reading single-crystal elasticity databases and modelling the elastic properties (i.e. seismic velocities) of Earth materials (==in beta phase!==).
 
 ### **FTIRkit**
 
-**Website**: ==To be released soon==
+**Website**: https://github.com/marcoalopez/FTIRkit
 
-> **What is it**: A free, open-source Python tool that can be used to estimate crystallographic orientation from FTIR spectra, as well as synthesize FTIR spectra along principal orientations from a set of randomly oriented grain spectra.
+> **What is it**: A free, open-source Python tool to estimate crystal orientation and synthesis of principal axis spectra using polarized μ-FTIR data (==in beta phase!==).
 
 You can find a full list my pet coding projects [here](https://github.com/marcoalopez?tab=repositories). Some selections are listed below:
 
@@ -250,6 +250,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-07-01*  
+*This website was last edited on: 2026-07-02*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*

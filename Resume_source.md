@@ -68,7 +68,9 @@ Github page: <https://github.com/marcoalopez>
 
 ## **Scientific activities as a visitor researcher**
 
-- [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). **Duration**: 1 week (2025). **Task**: Conduct experiments to determine the physical properties of Earth materials under high pressure and temperature conditions using the ID06-LVP (Large Volume Press) beamline (ERC-OZ project, PI: J.A. Padrón-Navarta).
+- [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). Measurements of Fe^3+^/Fetotal content in antigorite and chlorite (aggregates and single crystals) using Mössbauer spectroscopy at beamline ID14. **Duration**: 5 days (2026). **Task**:  (ERC-OZ project, PI: J.A. Padrón-Navarta, proposal ID: ES-1816). https://doi.esrf.fr/10.15151/ESRF-ES-2312892009
+
+- [European Synchrotron Radiation Facility (ESRF)](https://www.esrf.fr/) (Grenoble, France). **Duration**: 1 week (2025). **Task**: Conduct experiments to determine the physical properties of Earth materials under high pressure and temperature conditions using the ID06-LVP (Large Volume Press) beamline (ERC-OZ project, PI: J.A. Padrón-Navarta, proposal ID: ES-1624). https://doi.esrf.fr/10.15151/ESRF-ES-2032080611
 
 - [IACT-CSIC](https://www.iact.ugr-csic.es/en/) (Granada, Spain). **Duration**: 1 week (2022). **Task**: Learn thermodynamic modelling (Perple_X tool) and planning of research project in collaboration with J.A. Padrón-Navarta.
 
@@ -116,6 +118,8 @@ Github page: <https://github.com/marcoalopez>
 
 For a full list of meeting proceedings see [here](https://github.com/marcoalopez/marcoalopez.github.io/blob/master/meeting_proceedings_full.md)
 
+- A novel method for determining crystal orientation using polarized Fourier-Transform infrared spectroscopy (Talk) European Geoscience Union General Assembly 2026 https://meetingorganizer.copernicus.org/EGU26/EGU26-13627.html?pdf
+
 - Seismic modelling using EBSD data: why, how, limitations and good practices. *Freiberg MTEX Workshop 2023*. **Invited keynote speaker**. https://mtex-toolbox.github.io/workshop23
 - Evolution of strain field and microstructure in polycrystalline ice using in situ experiments. *6th International Workshop on Rock Physics (A Coruña, 3 -17 June)* https://lameroc.eu/
 - Dynamic recrystallization by subgrain rotation in olivine revealed by EBSD. *Microanalysis Society (MAS) EBSD2022 Topical Conference (Virtual June 7-9)* https://the-mas.org/events/topical-conferences/ebsd-2022/
@@ -129,7 +133,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 ## **Peer review and editorial activity**
 
-- **Journal articles:** _Geology, Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Solid Earth, Image Analysis & Stereology, Geosciences Journal, Tektonika, Journal of marine science and application and Italian Journal of Geosciences_. 
+- **Journal articles:** _Geology, Journal of Geophysical Research: Solid Earth, Tectonophysics, Journal of Structural Geology, American mineralogist, Ultramicroscopy, Solid Earth, Image Analysis & Stereology, Geosciences Journal, Tektonika, Materials Research Letters, Journal of marine science and application and Italian Journal of Geosciences_. 
 
 - **Research grants:** US National Science Foundation (NFS) grant reviewer
 
@@ -141,12 +145,15 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 - [GrainSizeTools](http://marcoalopez.github.io/GrainSizeTools/): A free and open-source Python script for estimating the grain size from thin sections  
 - [PyRockWave](https://marcoalopez.github.io/PyRockWave/): Python codes for modelling elastic properties and seismic velocities in rocks (**in active development**!)
+- [FTIRkit](https://github.com/marcoalopez/FTIRkit): A free, open-source Python tool that can be used to estimate crystallographic orientation from FTIR spectra, as well as synthesize FTIR spectra along principal orientations from a set of randomly oriented grain spectra.
 
 ---
 
 ## **Participation in Research Projects** 
 
 - **From 2025 to today**: [Deep Earth’s Oxygen recycling at subduction Zones (OZ)](https://doi.org/10.3030/101088573). **Grant agreement ID**: 101088573. **Funded under**: HORIZON 1.1 - European Research Council (ERC). **PI**: José Alberto Padrón Navarta. **Host institution:** IACT-CSIC. **Dates**: 12/2023 – 11/2028. **Total cost**: €2.000.000 **Link**: https://doi.org/10.3030/101088573 **Role**: Full-time CSIC researcher contract.
+
+- **From 2024 to present**: I have been an active ESRF user for over the last three years both as ==principal investigator== eith the Chlorite project (beamline ID06-LVP (C05), proposal ID: ES-1955) and as participant (3 proposals, proposal IDs: ES-1816, ES-1624, ES-1434).
 
 - **From 2022 to 2023**:[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa “In Itineras”](https://sede.asturias.es/-/dboid-6269000059309988007573). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: ==Principal investigator==.
 
