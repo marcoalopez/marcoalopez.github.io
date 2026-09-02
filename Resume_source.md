@@ -2,8 +2,8 @@
 
 ## **Geoscientist**
 
-**Email:** marco.lopez [to be found at] csic [dot] es | **Phone:** 958230000 Ext.436635
-**Location:** Office 137, Instituto Andaluz de Ciencias de la Tierra (IACT-CSIC), Spanish Research Council (CSIC), Avda. de Las Palmeras, 4, 18100, Armilla. Granada, SPAIN.
+**Email:** lopezmarco [to be found at] uniovi [dot] es | **Phone:** 
+**Location:** Office #xx, Departamento de Geología, Campus de Llamaquique (Universidad de Oviedo), calle Jesús Arias de Velasco, s/n, 33005, Oviedo, Principado de Asturias, Spain.
 
 ---
 
@@ -30,7 +30,9 @@ Github page: <https://github.com/marcoalopez>
 
 ## **Appointments (only academic related)**
 
-- **2025 - present** - Hired researcher at the [Andalusian Earth Sciences Institute (IACT-CSIC)](https://www.iact.csic.es/en/)
+- **2026 - present** - University lecturer in the Department of Geology at the University of Oviedo (Spain)
+
+- **2025 - 2026** - Researcher at the [Andalusian Earth Sciences Institute (IACT-CSIC)](https://www.iact.csic.es/en/) (1 year and 7 months, full-time)
 
 - **2021 - 2023** - Research associate in the Department of Geology at the University of Oviedo (Spain) (2 years, full-time)
 
@@ -84,6 +86,7 @@ Github page: <https://github.com/marcoalopez>
 
 ## **Peer-reviewed publications**
 
+- Lopez-Sanchez, M.A., Padrón-Navarta, J.A., 2026. Recovering full crystallographic orientation in specimen coordinates from polarised μ-FTIR spectra. **Accepted for publication in Contributions to Mineralogy and Petrology in August 2026.**
 - Lopez-Sanchez, M.A., Cárdenes, V., Barou, F., Llana-Fúnez, S., 2025. Predictive modelling of seismic properties in single-foliated slates. Tectonophysics 908, 230765. https://doi.org/10.1016/j.tecto.2025.230765
 - Boissonneau, G., Tommasi, A., Barou, F., Lopez-Sanchez, M.A., Montagnat, M., 2025. Dynamic recrystallization and mechanical behavior of Mg alloy AZ31: Constraints from tensile tests with in-situ EBSD analysis. Comptes Rendus. Mécanique 353, 235–259. https://doi.org/10.5802/crmeca.267
 - Lopez-Sanchez, M.A., Chauve, T., Montagnat, M., Tommasi, A., 2023. Decoupling between strain localisation and the microstructural record revealed by in-situ strain measurements in polycrystalline ice. Earth and Planetary Science Letters 611, 118149. https://doi.org/10.1016/j.epsl.2023.118149
@@ -153,7 +156,7 @@ For a full list of meeting proceedings see [here](https://github.com/marcoalopez
 
 - **From 2025 to today**: [Deep Earth’s Oxygen recycling at subduction Zones (OZ)](https://doi.org/10.3030/101088573). **Grant agreement ID**: 101088573. **Funded under**: HORIZON 1.1 - European Research Council (ERC). **PI**: José Alberto Padrón Navarta. **Host institution:** IACT-CSIC. **Dates**: 12/2023 – 11/2028. **Total cost**: €2.000.000 **Link**: https://doi.org/10.3030/101088573 **Role**: Full-time CSIC researcher contract.
 
-- **From 2024 to present**: I have been an active ESRF user for over the last three years both as ==principal investigator== eith the Chlorite project (beamline ID06-LVP (C05), proposal ID: ES-1955) and as participant (3 proposals, proposal IDs: ES-1816, ES-1624, ES-1434).
+- **From 2024 to present**: I have been an active ESRF user for over the last three years both as ==principal investigator== in the Chlorite project (beamline ID06-LVP, proposal ID: ES-1955) and as participant (3 proposals, IDs: ES-1816, ES-1624, ES-1434).
 
 - **From 2022 to 2023**:[OUTCROP project: From the L**o**wer Cr**u**st to the man**t**le: elasti**c** p**rop**erties, anisotropy, and water content of the Cabo Ortegal complex](https://marcoalopez.github.io/OUTCROPproject/). **Grant agreement ID**: SV-PA-21-AYUD/2021/57163. **Funded under**: Plan de Ciencia, Tecnología e Innovacion 2018-2022 Asturias, [Programa “In Itineras”](https://sede.asturias.es/-/dboid-6269000059309988007573). **PI**: Marco A. Lopez-Sanchez. **Host institution:** Department of Geology, University of Oviedo. **Dates**: 12/2021 – 12/2023. **Total cost**: €166.000 **Role**: ==Principal investigator==.
 
@@ -197,7 +200,7 @@ For a full list of past participation in research projects see [here](https://gi
 
 ## **Organisation of R&D activities**
 
-- Organizing committee of the **7th International Orogenic Lherzolite meeting 2024 **to be held in Oviedo and Cabo Ortegal (fieldtrip) from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. https://lherzolite2024.github.io
+- Organizing committee (president and organizer) of the **7th International Orogenic Lherzolite meeting 2024 **to be held in Oviedo and Cabo Ortegal (fieldtrip) from 30 September to 6 October. These are a series of international meetings that aims to bring together specialists in mantle processes to key orogenic mantle (and related rocks) outcrops worldwide and to share and discuss the latest advances in the processes operating in the upper mantle and at the transition between the upper mantle and the lower crust. https://lherzolite2024.github.io
 
 - Organizing committee of the **Deformation mechanisms, Rheology and Tectonics (DRT2011) meeting **. DRT meetings are a series of biannual international meetings dedicated to the study of deformation processes in rocks at different scales, from the microscale to the study of bulk deformation of the lithosphere. [Archived website](http://geol00.geol.uniovi.es/drt2011/Home.html) [Committees](http://geol00.geol.uniovi.es/drt2011/Committees.html)
 
