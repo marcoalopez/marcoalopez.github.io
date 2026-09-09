@@ -1,6 +1,6 @@
 ![test](https://raw.githubusercontent.com/marcoalopez/marcoalopez.github.io/refs/heads/master/img_header.jpg)
 
-Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Earth Sciences Institute (IACT-CSIC) in Granada, Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks](https://marcoalopez.github.io/PyRockWave/). A large part of my work involves analyzing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, practical guides, and short pieces of writing or media.
+Welcome to my personal website. I’m Marco, a geoscientist in the Department of Geology at the University of Oviedo in Spain. My research focuses on the physical properties of solid Earth materials (rocks and minerals) using a combination of observational, experimental, and computational approaches. This includes, for example, how rocks respond to applied stress (deformation and rheology), how microstructure and crystal orientation influence mechanical properties and [sound wave propagation through rocks](https://marcoalopez.github.io/PyRockWave/). A large part of my work involves analyzing rock microstructures and crystal preferred orientation (CPO) using [electron backscatter diffraction (EBSD)](https://en.wikipedia.org/wiki/Electron_backscatter_diffraction) and image-analysis techniques. I also enjoy coding and actively support open-source and open-science practices, often developing tools and projects that connect programming with geoscience. More recently, I have been expanding my interests towards rock thermodynamic modelling, particularly using [Perple_X](https://www.perplex.ethz.ch/), and [Fourier-transform infrared spectroscopy (FTIR)](https://en.wikipedia.org/wiki/Fourier-transform_infrared_spectroscopy), as a way to expand my skillset and approach geological problems from complementary angles. Beyond my core research, this website also hosts other things I enjoy working on, such as teaching materials, practical guides, and short pieces of writing or media.
 
 [TOC]
 
@@ -9,17 +9,17 @@ Welcome to my personal website. I’m Marco, a geoscientist at the Andalusian Ea
 **Full name** (name, SURNAME): Marco Antonio LÓPEZ SÁNCHEZ
 
 **Location**:   
-Office 137
-Instituto Andaluz de Ciencias de la Tierra (IACT-CSIC),
-Spanish Research Council (CSIC)
-Avda. de Las Palmeras, 4, 18100, Armilla.
-Granada, SPAIN.
+Office 2.25
+Departamento de Geología,
+Campus de Llamaquique (Universidad de Oviedo)
+C/ Jesús Arias de Velasco, s/n, 33005, Oviedo.
+Asturias, SPAIN.
 
 **e-mail**:  
-marco.lopez [to be found at] csic [dot] es
+lopezmarco [to be found at] uniovi [dot] es
 
 **phone**
-958230000 Ext.436635  
+to be set  
 
 # **On the web**
 
@@ -44,9 +44,13 @@ What I work(ed) on, with links to my publications and PDF files.
 
 ### **Under review**
 
-- **Lopez-Sanchez MA** and Padrón-Navarta JA (submitted in 2026/06). Recovering full crystallographic orientation in specimen coordinates from polarised μ-FTIR spectra. **Accepted for publication in Contributions to Mineralogy and Petrology in August 2026.** Preprint at https://doi.org/10.21203/rs.3.rs-10187075/v1
+
 
 ### **Peer-reviewed publications**
+
+**2026**
+
+- **Lopez-Sanchez MA**, Padrón-Navarta JA, 2026. Recovering full crystallographic orientation in specimen coordinates from polarised μ-FTIR spectra. **Accepted for publication in Contributions to Mineralogy and Petrology in August 2026.** Preprint at https://doi.org/10.21203/rs.3.rs-10187075/v1
 
 **2025**
 
@@ -113,7 +117,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 **Project website**: available soon
 
-> **What it is about**: The chlorite project stands for *Experimental investigation of the seismic properties of powdered and foliated chlorite aggregates up to 4 GPa and 700℃ (973 K)*. This is a funded proposal (ES-1955) for the European Synchrotron Radiation Facility (ESRF). The study aims to provide the first robust experimental dataset on the elasticity of Mg-rich chlorite, a key mineral and compelling candidate for explaining some unusual seismic features observed in subduction zones, particularly in the mantle wedge. We will use the ID06-LVP beamline, the only worldwide that combines high-P multianvil capability with simultaneous XRD, radiographic imaging and broadband ultrasonic interferometry. Its 360° detector rotation allows the full azimuthal diffraction coverage needed to track textural evolution in situ.
+> **What it is about**: The chlorite project stands for *Experimental investigation of the seismic properties of powdered and foliated chlorite aggregates up to 4 GPa and 700℃ (973 K)*. This is a funded proposal (ES-1955) for the European Synchrotron Radiation Facility (ESRF). The study aims to provide the first robust experimental dataset on the elasticity of Mg-rich chlorite (clinochlore), a key mineral and compelling candidate for explaining some unusual seismic features observed in subduction zones, particularly in the mantle wedge. We will use the ID06-LVP beamline, the only worldwide that combines high-P multianvil capability with simultaneous XRD, radiographic imaging and broadband ultrasonic interferometry. Its 360° detector rotation allows the full azimuthal diffraction coverage needed to track textural evolution in situ.
 
 ### **OUTCROP project (2021-2023)**
 
@@ -210,7 +214,7 @@ https://zbib.org/: A free service that helps you to quickly create a bibliograph
 
 [Zotero](): This is a free tool to collect, organize, annotate, cite, and share research.
 
-https://myhdf5.hdfgroup.org/: HDF5 viewer.
+https://myhdf5.hdfgroup.org/: browser-based HDF5 viewer.
 
 https://bentopdf.com/: Privacy-focused, browser-based PDF tools (i.e. all processing happens locally in your browser). Alternative: https://luxpdf.com/
 
@@ -222,7 +226,7 @@ https://smallpond.ca/jim/scale/: A compact printable 10 cm reference scale desig
 
 https://www.angryreviewer.com/: Free academic style corrector for modern scientific writing by Roman Anufriev.
 
-https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. Brewer color maps are already included in the Python ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps). As a complement, there is also https://www.fabiocrameri.ch/colourmaps/ by Fabio Crameri, that provides a comprehensive set of color maps to represent data without visual distortion.
+https://colorbrewer2.org/: This color mapping tool produces color-blind-compliant color maps and warns users if their chosen colors will print correctly. Brewer color maps are already included in the Python scientific ecosystem. For MATLAB, you can download them [here](https://es.mathworks.com/matlabcentral/fileexchange/45208-colorbrewer-attractive-and-distinctive-colormaps). As a complement, there is also https://www.fabiocrameri.ch/colourmaps/ by Fabio Crameri, that provides a comprehensive set of color maps to represent data without visual distortion.
 
 https://squoosh.app/: This is a tool that reduces image file size while maintaining high quality. It's very handy for making light websites that use images.
 
@@ -242,7 +246,7 @@ https://imagej.net/downloads: **Fiji** (derived from *ImageJ*) is a free, open-s
 
 https://qgis.org/: **QGis** is a free, open-source geographic information system (GIS) software.
 
-https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python library by Donald Erb that contains a vast number of algorithms for baseline correction of experimental data. It is also extremely well documented.
+https://pybaselines.readthedocs.io/en/latest/: **Pybaselines** is a Python library by Donald Erb that contains a vast number of algorithms for baseline correction of experimental data. It is also very well documented.
 
 ### **Miscellanea**
 
@@ -250,6 +254,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-08-21*  
+*This website was last edited on: 2026-09-09*  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
