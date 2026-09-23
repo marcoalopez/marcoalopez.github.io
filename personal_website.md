@@ -44,7 +44,7 @@ What I work(ed) on, with links to my publications and PDF files.
 
 ### **Under review**
 
-
+- Mineau T, Tommasi A, Montagnat M, Barou F, Boissonneau G, **Lopez-Sanchez MA**. *Influence of initial texture and microstructure on DRX-controlled mechanical behaviour and strain localisation in AZ31 Mg alloy*. Submitted in 2026. Preprint at https://hal.science/hal-05726740/
 
 ### **Peer-reviewed publications**
 
@@ -254,6 +254,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-09-18  
+*This website was last edited on: 2026-09-23  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
