@@ -19,7 +19,8 @@ Asturias, SPAIN.
 lopezmarco [to be found at] uniovi [dot] es
 
 **phone**
-to be set  
+
+\+34 98510 3150	 
 
 # **On the web**
 
@@ -254,6 +255,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-09-23  
+*This website was last edited on: 2026-10-16  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
