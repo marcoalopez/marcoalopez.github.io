@@ -30,7 +30,7 @@ Scopus author ID: [56320859100](https://www.scopus.com/authid/detail.uri?authorI
 Google scholar: [scholar.google](https://scholar.google.es/citations?user=8EnJOiwAAAAJ&hl=es)  
 Research-ID: https://www.webofscience.com/wos/author/record/A-4290-2015  
 Github page: <https://github.com/marcoalopez>   
-At work: [IACT-CSIC personal page](https://www.iact.csic.es/en/personal/perfil/marco-antonio-lopez-sanchez/)  
+At work: [Uniovi personal page](https://portalinvestigacion.uniovi.es/investigadores/218763/detalle)  
 Research Gate: https://www.researchgate.net/profile/Marco-Lopez-Sanchez  
 
 ---
@@ -255,6 +255,6 @@ https://ciechanow.ski/ These superb interactive articles by Bartosz Ciechanowski
 
 ---
 
-*This website was last edited on: 2026-10-16  
+*This website was last edited on: 2026-10-26  
 *Content is available under a [CCO public domain dedication](https://creativecommons.org/public-domain/cc0/) unless otherwise noted.*
 *Hosted on GitHub Pages*
